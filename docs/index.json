@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:43:51.185464+00:00",
+  "generatedAt": "2026-10-31T02:09:17.394435+00:00",
   "entries": [
     {
       "title": "YouTube (US)",
@@ -209,7 +209,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/marvel-s-wolverine.webp",
       "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game from Insomni…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Black Myth: Wukong",
@@ -298,6 +298,276 @@
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/dying-light-the-beast.webp",
       "description": "<strong style=\"color: #8B0000;\">Dying Light: The Beast - PS5</strong> - Embrace your monstrous abilities and fight for freedom in a fallen world, as Kyle Crane returns in a brutal standalone survival …",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Call of Duty: Black Ops II",
+      "pageUrl": "https://pspkg.com/ps5/call-of-duty-black-ops-ii-14053.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops-ii.webp",
+      "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops II - PS5</strong> - Pushing the boundaries of the franchise, this iconic shooter propels players into a near-future, 21st-century Cold War where…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Call of Duty: Black Ops",
+      "pageUrl": "https://pspkg.com/ps5/call-of-duty-black-ops-14052.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops.webp",
+      "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops - PS5</strong> - Step into the shadows of the Cold War in the legendary shooter that redefined the franchise, now available on PS5 with all its …",
+      "downloadLinks": [],
+      "status": "no_public_download_link"
+    },
+    {
+      "title": "Alfred Hitchcock - Vertigo",
+      "pageUrl": "https://pspkg.com/ps5/alfred-hitchcock-vertigo-14037.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/alfred-hitchcock-vertigo.webp",
+      "description": "<strong style=\"color: #4B0082;\">Alfred Hitchcock - Vertigo - PS5</strong> - Dive into a new kind of psychological thriller freely inspired by the cinematic masterpiece, where you walk a thin line betw…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Broken Sword - Shadow of the Templars: Reforged",
+      "pageUrl": "https://pspkg.com/ps5/broken-sword-shadow-of-the-templars-reforged-14036.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/broken-sword-shadow-of-the-templars-reforged.webp",
+      "description": "<strong style=\"color: #4B0082;\">Broken Sword - Shadow of the Templars: Reforged - PS5</strong> - Step out onto the streets of Paris in a substantially enhanced version of the multi-award winning, all-…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Resonance: A Plague Tale Legacy",
+      "pageUrl": "https://pspkg.com/ps5/resonance-a-plague-tale-legacy-14033.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/6ac3f55069b8b.webp",
+      "description": "<strong style=\"color: #4B0082;\">Resonance: A Plague Tale Legacy - PS5 - &#1602;&#1608;&#1575;&#1574;&#1605; &#1608;&#1581;&#1608;&#1575;&#1585;&#1575;&#1578; &#1593;&#1585;&#1576;&#1610;&#1577; - &#1578;&#1583;&#1608;&#1585; &#1571;&#1581;&#1583;&#1575;&#1579; &#1575;&#1604;&#1604;&#1593;&#1576;&#1577; &#1602;&#1576;&#1604; 15 &#1593;&#1575;&#1605;&#1611;&#1575; &#1605;&#1606; &#1571;&#1581;&#1583;&#1575;&#1579; A Plague Tale: Requiem&#1548; &#1604;&#1578;&#1590;&#1593;&#1603; &#1601;&#1610; &#1581;&#1584;&#1575;&#1569; &#1589;&#1608;&#1601;&#1610;&#1575;&#1548; &#1587;&#1575;&#1585;&#1602;&#1577; &#1588;&#1575;&#1576;&#1577; &#1588;&hellip;",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "The Blood of Dawnwalker",
+      "pageUrl": "https://pspkg.com/ps5/the-blood-of-dawnwalker-14031.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/the-blood-of-dawnwalker.webp",
+      "description": "<strong style=\"color: #228B22;\">The Blood of Dawnwalker - PS5</strong> - Embark on a dark fantasy journey in 14th-century Europe, where vampires seize a moment of weakness to emerge from the shadows a…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Silent Hill: Townfall Deluxe Edition",
+      "pageUrl": "https://pspkg.com/ps5/silent-hill-townfall-14030.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/silent-hill-townfall.webp",
+      "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "eFootball 2027",
+      "pageUrl": "https://pspkg.com/ps5/efootball-2027-14026.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/efootball-2027.webp",
+      "description": "<strong style=\"color: #DC143C;\">eFootball 2027 - PS5 - &#1602;&#1608;&#1575;&#1574;&#1605; &#1608;&#1578;&#1593;&#1604;&#1610;&#1602; &#1593;&#1585;&#1576;&#1610; - &#1575;&#1606;&#1586;&#1604; &#1573;&#1604;&#1609; &#1571;&#1585;&#1590; &#1575;&#1604;&#1605;&#1604;&#1593;&#1576; &#1604;&#1593;&#1610;&#1588; &#1571;&#1603;&#1579;&#1585; &#1578;&#1580;&#1575;&#1585;&#1576; &#1603;&#1585;&#1577; &#1575;&#1604;&#1602;&#1583;&#1605; &#1571;&#1589;&#1575;&#1604;&#1577; &#1581;&#1578;&#1609; &#1575;&#1604;&#1570;&#1606;&#1548; &#1581;&#1610;&#1579; &#1578;&#1588;&#1593;&#1585; &#1576;&#1571;&#1606; &#1603;&#1604; &#1578;&#1605;&#1585;&#1610;&#1585;&#1577; &#1608;&#1593;&#1585;&#1602;&#1604;&#1577; &#1608;&#1578;&#1587;&#1583;&#1610;&#1583;&#1577; &#1578;&#1593;&#1603;&#1587; &#1580;&#1605;&#1575;&#1604; &#1575;&#1604;&#1604;&#1593;&#1576;&#1577;&hellip;",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Call of Duty Modern Warfare 3",
+      "pageUrl": "https://pspkg.com/ps5/call-of-duty-modern-warfare-3-13807.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/6ac21cc48f5ca.webp",
+      "description": "Download Call of Duty Modern Warfare 3 PS5 PKG for jailbreak.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Sonic Unleashed Recompiled",
+      "pageUrl": "https://pspkg.com/ps5/sonic-unleashed-recompiled-14022.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/6ac20d8822cbd.webp",
+      "description": "<strong style=\"color: #DC143C;\">Sonic Unleashed Recompiled - PS5</strong> - Experience the high-speed adventure of Sonic Unleashed like never before in this fan-made recompilation, rebuilt for modern …",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Trails in the Sky 2nd Chapter",
+      "pageUrl": "https://pspkg.com/ps5/trails-in-the-sky-2nd-chapter-14020.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/trails-in-the-sky-2nd-chapter.webp",
+      "description": "<strong style=\"color: #228B22;\">Trails in the Sky 2nd Chapter - PS5</strong> - Continue Estelle and Joshua's unforgettable journey in a full-remake RPG that expands the beloved classic with enhanced c…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Wobbly Life",
+      "pageUrl": "https://pspkg.com/ps5/wobbly-life-14019.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/wobbly-life.webp",
+      "description": "<strong style=\"color: #8B4513;\">Wobbly Life - PS5</strong> - Dive into a vibrant open-world physics sandbox where almost everything is interactive, and your wobbly adventure is limited only by your im…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Poppy Playtime: Chapter 4",
+      "pageUrl": "https://pspkg.com/ps5/poppy-playtime-chapter-4-14018.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/poppy-playtime-chapter-4.webp",
+      "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 4 - PS5</strong> - Brace yourself for the darkest chapter yet in the epic Poppy Playtime saga, descending into the undiscovered depths of the Pl…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Poppy Playtime: Chapter 5",
+      "pageUrl": "https://pspkg.com/ps5/poppy-playtime-chapter-5-14017.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/poppy-playtime-chapter-5.webp",
+      "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 5 - PS5</strong> - Descend into the gruesome depths of the factory in the final chapter, where Huggy Wuggy hunts you relentlessly and the puppet…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "pageUrl": "https://pspkg.com/ps4/grand-theft-auto-v-ps4-6657.html",
+      "platform": "PS4",
+      "titleId": "CUSA00411",
+      "posterUrl": "https://img.pspkg.com/ps4/image/6945d4b6d1eb4.webp",
+      "description": "<strong style=\"color: #DAA520;\">Grand Theft Auto V (GTA V) on PS4 - Dive into the sprawling open world of Los Santos and Blaine County in an unparalleled experience that blends thrilling narr&hellip;",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "EA Sports FC 27",
+      "pageUrl": "https://pspkg.com/ps4/ea-sports-fc-27-13752.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/ea-sports-fc-27.webp",
+      "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS4 - &#1602;&#1608;&#1575;&#1574;&#1605; &#1608;&#1581;&#1608;&#1575;&#1585;&#1575;&#1578; &#1593;&#1585;&#1576;&#1610;&#1577; - &#1575;&#1606;&#1586;&#1604; &#1573;&#1604;&#1609; &#1571;&#1585;&#1590; &#1575;&#1604;&#1605;&#1604;&#1593;&#1576; &#1604;&#1593;&#1610;&#1588; &#1571;&#1603;&#1579;&#1585; &#1578;&#1580;&#1575;&#1585;&#1576; &#1603;&#1585;&#1577; &#1575;&#1604;&#1602;&#1583;&#1605; &#1571;&#1589;&#1575;&#1604;&#1577; &#1581;&#1578;&#1609; &#1575;&#1604;&#1570;&#1606;&#1548; &#1581;&#1610;&#1579; &#1578;&#1588;&#1593;&#1585; &#1576;&#1571;&#1606; &#1603;&#1604; &#1578;&#1605;&#1585;&#1610;&#1585;&#1577; &#1608;&#1593;&#1585;&#1602;&#1604;&#1577; &#1608;&#1578;&#1587;&#1583;&#1610;&#1583;&#1577; &#1578;&#1593;&#1603;&#1587; &#1580;&#1605;&#1575;&#1604; &#1575;&#1604;&#1604;&hellip;",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Minecraft PlayStation 4 Edition",
+      "pageUrl": "https://pspkg.com/ps4/minecraft-playstation-4-edition-ps4-6626.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/693aff0e87505.jpg",
+      "description": "Unleash your imagination and build your own reality with <strong style=\"color: #e74c3c;\">Minecraft: PlayStation 4 Edition</strong> - the global phenomenon that lets you <strong style=\"color: #e74c3c;\"…",
+      "downloadLinks": [],
+      "status": "no_public_download_link"
+    },
+    {
+      "title": "eFootball pes monster patch 27",
+      "pageUrl": "https://pspkg.com/ps4/efootball-pes-monster-patch-27-1-7699.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/6a9690b586dac.webp",
+      "description": "<strong style=\"color: #DC143C;\">eFootball 2021 &ndash; Monster Patch 27 (&#1602;&#1608;&#1575;&#1574;&#1605; &#1593;&#1585;&#1576;&#1610;&#1577;&#1548; &#1578;&#1593;&#1604;&#1610;&#1602; &#1593;&#1585;&#1576;&#1610;) - PS4 - &#1575;&#1606;&#1591;&#1604;&#1602; &#1601;&#1610; &#1578;&#1580;&#1585;&#1576;&#1577; &#1603;&#1585;&#1577; &#1575;&#1604;&#1602;&#1583;&#1605; &#1575;&#1604;&#1571;&#1603;&#1579;&#1585; &#1588;&#1605;&#1608;&#1604;&#1575;&#1611; &#1608;&#1578;&#1581;&#1583;&#1610;&#1579;&#1575;&#1611; &#1605;&#1593; &#1573;&#1589;&#1583;&#1575;&#1585; Monster Patch &#1575;&#1604;&#1571;&#1587;&#1591;&#1608;&#1585;&#1610;&#1548; &#1575;&#1604;&#1584;&#1610; &#1610;&#1581;&#1608;&#1604;&hellip;",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "EA SPORTS FC 26",
+      "pageUrl": "https://pspkg.com/ps4/ea-sports-fc-26-ps4-6658.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/EA%20SPORTS%20FC%2026.webp",
+      "description": "EA SPORTS FC 26 delivers a next-generation football experience that redefines realism, tactics, and emotion on the pitch. The game elevates gameplay, graphics, and content to give players a true sensa…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Ps2 to ps4 collection",
+      "pageUrl": "https://pspkg.com/ps4/ps1-to-ps4-collection-1-7555.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/69ef9c4b38a21.webp",
+      "description": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n <meta charset=\"UTF-8\">\r\n <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n <title>PS1 to PS4 Collection - Game Description</…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "pageUrl": "https://pspkg.com/ps4/cyberpunk-2077-ps4-6635.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/Cyberpunk%202077.webp",
+      "description": "Download Cyberpunk 2077 PS4 PKG for jailbreak.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Mortal Kombat 11 Ultimate",
+      "pageUrl": "https://pspkg.com/ps4/mortal-kombat-11-ultimate-ps4-6533.html",
+      "platform": "PS4",
+      "titleId": "CUSA11379",
+      "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
+      "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
+      "downloadLinks": [],
+      "status": "no_public_download_link"
+    },
+    {
+      "title": "eFootball PES 2026 Monster Patch",
+      "pageUrl": "https://pspkg.com/ps4/efootball-pes-2026-monster-patch-ps4-6010.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/69530451c4902.webp",
+      "description": "Download eFootball PES 2026 Monster Patch PS4 PKG for jailbreak.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "The Crew 2 (Offline)",
+      "pageUrl": "https://pspkg.com/ps4/the-crew-2-offline-ps4-6655.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/The_Crew_2.webp",
+      "description": "Get ready for <strong style=\"color: #e74c3c;\">America's greatest motorsports adventure with <strong style=\"color: #e74c3c;\">The Crew 2 - an open-world racing game that puts you in co&hellip;",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Disney Pixar Toy Story 3 Complete Edition",
+      "pageUrl": "https://pspkg.com/ps4/disney-pixar-toy-story-3-complete-edition-14100.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/disney-pixar-toy-story-3-complete-edition.webp",
+      "description": "<strong style=\"color: #4B0082;\">Disney Pixar Toy Story 3 Complete Edition</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - Reopen the toy chest and saddle up as Woody, Buzz Lightyear, and Jes…",
+      "downloadLinks": [],
+      "status": "no_public_download_link"
+    },
+    {
+      "title": "DOOM (2016)",
+      "pageUrl": "https://pspkg.com/ps4/doom-2016-ps4-6559.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/DOOM%202016.webp",
+      "description": "Download DOOM (2016) PS4 PKG for jailbreak.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Darksiders Genesis",
+      "pageUrl": "https://pspkg.com/ps4/darksiders-genesis-ps4-2418.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/Darksiders%20Genesis.webp",
+      "description": "Download Darksiders Genesis PS4 PKG for jailbreak.",
       "downloadLinks": [],
       "status": "no_public_download_link"
     }

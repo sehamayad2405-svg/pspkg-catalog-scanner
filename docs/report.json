@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-10-31T01:43:51.185464+00:00",
-  "pagesAttempted": 30,
-  "detailPages": 17,
+  "generatedAt": "2026-10-31T02:09:17.394435+00:00",
+  "pagesAttempted": 90,
+  "detailPages": 44,
   "packagesWithLinks": 6,
-  "unresolved": 11,
-  "manualVerificationRequired": 10,
-  "errors": []
+  "unresolved": 38,
+  "manualVerificationRequired": 32,
+  "errors": [
+    {
+      "url": "https://pspkg.com/ps4/download-minecraft-playstation-4-edition-ps4-6626.html",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://pspkg.com/ps4/download-mortal-kombat-11-ultimate-ps4-6533.html",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://pspkg.com/ps4/download-disney-pixar-toy-story-3-complete-edition-14100.html",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    }
+  ]
 }
