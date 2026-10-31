@@ -1,6 +1,370 @@
 {
-  "generatedAt": "2026-10-31T02:09:17.394435+00:00",
+  "generatedAt": "2026-10-31T02:22:42.092688+00:00",
   "entries": [
+    {
+      "title": "Ghost of Yōtei",
+      "pageUrl": "https://pspkg.com/arabic-games/ghost-of-yotei-13767.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/ghost-of-yotei.webp",
+      "description": "<strong style=\"color: #4B0082;\">Ghost of Yōtei - PS5</strong> - Ride into the breathtaking wilderness of 1600s Japan as Atsu, a lone mercenary on a quest for revenge, in a stunning open-world action-a…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "EA Sports FC 27",
+      "pageUrl": "https://pspkg.com/arabic-games/ea-sports-fc-27-1-14006.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/ea-sports-fc-27-1.webp",
+      "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5</strong> - Step into the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.\r\n\r\n<strong s…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "007 First Light",
+      "pageUrl": "https://pspkg.com/arabic-games/007-first-light-14021.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/007-first-light.webp",
+      "description": "<strong style=\"color: #B22222;\">007 First Light - PS5 - قوائم وحوارات عربية</strong> - اكتشف قصة الأصل لأشهر جاسوس في العالم في لعبة أكشن ومغامرة تجسسية مثيرة من IO Interactive، الاستوديو الذي يقف خلف…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Black Myth Wukong",
+      "pageUrl": "https://pspkg.com/arabic-games/black-myth-wukong-1-13728.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/6aacfa3c99de4.webp",
+      "description": "<strong style=\"color: #B22222;\">Black Myth: Wukong - PS5</strong> - Embark on a breathtaking action RPG journey rooted in Chinese mythology, where you take on the role of the Destined One to uncover t…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Resident Evil Requiem",
+      "pageUrl": "https://pspkg.com/arabic-games/resident-evil-requiem-13768.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/resident-evil-requiem.webp",
+      "description": "<strong style=\"color: #8B0000;\">Resident Evil Requiem - PS5</strong> - A new era of survival horror arrives in the ninth mainline entry, where two distinct journeys intertwine in a heart-stopping tale…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Marvel's Wolverine",
+      "pageUrl": "https://pspkg.com/arabic-games/marvel-s-wolverine-14004.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/marvel-s-wolverine.webp",
+      "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game.\r\n\r\n<strong …",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Split Fiction",
+      "pageUrl": "https://pspkg.com/arabic-games/split-fiction-13740.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/split-fiction.webp",
+      "description": "<strong style=\"color: #4B0082;\">Split Fiction - PS5</strong> - Jump into a mind-blowing co-op adventure where two writers are trapped inside their own stories, and only teamwork can set them free.\r\n\r\n…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Control Resonant",
+      "pageUrl": "https://pspkg.com/arabic-games/control-resonant-14078.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/control-resonant.webp",
+      "description": "<strong style=\"color: #B22222;\">Control Resonant - PS5</strong> - Step into a twisted version of Manhattan on the brink of a supernatural apocalypse, in the action-packed RPG sequel to the award-winni…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Mafia: The Old Country",
+      "pageUrl": "https://pspkg.com/arabic-games/mafia-the-old-country-13745.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/mafia-the-old-country.webp",
+      "description": "<strong style=\"color: #B22222;\">Mafia: The Old Country - PS5</strong> - Uncover the origins of organized crime in a gritty mob story set in the brutal underworld of 1900s Sicily.\r\n\r\n<strong style=\"col…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Metal Gear Solid Δ: Snake Eater",
+      "pageUrl": "https://pspkg.com/arabic-games/metal-gear-solid-snake-eater-13757.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/metal-gear-solid-snake-eater.webp",
+      "description": "<strong style=\"color: #B22222;\">Metal Gear Solid Δ: Snake Eater - PS5</strong> - Relive the origins of the legendary soldier in a faithful remake of the 2004 classic, where survival and stealth are yo…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "no_public_download_link"
+    },
+    {
+      "title": "Hellblade: Senua's Sacrifice",
+      "pageUrl": "https://pspkg.com/arabic-games/hellblade-senua-s-sacrifice-14104.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/hellblade-senua-s-sacrifice.webp",
+      "description": "<strong style=\"color: #8B0000;\">Hellblade: Senua's Sacrifice - PS5</strong> - Step into the shattered mind of a Celtic warrior on a haunting vision quest into Viking Hell to fight for the soul of her …",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "no_public_download_link"
+    },
+    {
+      "title": "The Sinking City 2",
+      "pageUrl": "https://pspkg.com/arabic-games/the-sinking-city-2-14103.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/the-sinking-city-2.webp",
+      "description": "<strong style=\"color: #8B0000;\">The Sinking City 2 - PS5</strong> - Descend into the flooded, madness-ridden streets of 1920s Arkham in a relentless Lovecraftian survival horror where every bullet, ev…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "no_public_download_link"
+    },
+    {
+      "title": "Mortal Shell 2 Deluxe Edition",
+      "pageUrl": "https://pspkg.com/arabic-games/mortal-shell-2-deluxe-edition-14102.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/mortal-shell-2-deluxe-edition.webp",
+      "description": "<strong style=\"color: #228B22;\">Mortal Shell II - PS5 - قوائم وحوارات عربية (تعريب غير رسمي)</strong> - عُد إلى عالم مظلم وممزق بشخصية \"الهاربينجر\"، وتمكّن من أجساد محاربين ساقطين لتستخدم قواهم وأسالي…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Darwin's Paradox",
+      "pageUrl": "https://pspkg.com/arabic-games/darwin-s-paradox-14098.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/darwin-s-paradox.webp",
+      "description": "<strong style=\"color: #4B0082;\">Darwin's Paradox - PS5</strong> - Guide a clever octopus named Darwin on a cinematic platforming adventure through a mysterious industrial complex, where every puzzle a…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "no_public_download_link"
+    },
+    {
+      "title": "Valor Mortis",
+      "pageUrl": "https://pspkg.com/arabic-games/valor-mortis-14097.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/valor-mortis.webp",
+      "description": "<strong style=\"color: #B22222;\">Valor Mortis - PS5</strong> - Rise from a battlefield grave as William, a soldier of Napoleon's Grande Armée, in a brutal first-person soulslike where death is only the…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "The First Berserker: Khazan",
+      "pageUrl": "https://pspkg.com/arabic-games/the-first-berserker-khazan-13747.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/the-first-berserker-khazan.webp",
+      "description": "<strong style=\"color: #228B22;\">The First Berserker: Khazan - PS5</strong> - Embark on an epic tale of revenge in the world of Arad, playing as the great general Khazan who is falsely accused of treas…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Halo: Campaign Evolved Premium Edition",
+      "pageUrl": "https://pspkg.com/arabic-games/halo-campaign-evolved-premium-edition-14096.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/halo-campaign-evolved-premium-edition.webp",
+      "description": "<strong style=\"color: #B22222;\">Halo: Campaign Evolved Premium Edition - PS5 - قوائم وحوارات عربية</strong> - عُد إلى الحلقة التي بدأت كل شيء في إعادة إنتاج وفية ولكن حديثة لحملة Halo: Combat Evolved …",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Dead Space",
+      "pageUrl": "https://pspkg.com/arabic-games/dead-space-14095.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/dead-space.webp",
+      "description": "<strong style=\"color: #8B0000;\">Dead Space - PS5</strong> - Board the USG Ishimura and uncover a living nightmare in this ground-up remake of the sci-fi survival horror classic, where every shadow hid…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Senua's Saga: Hellblade II",
+      "pageUrl": "https://pspkg.com/arabic-games/senua-s-saga-hellblade-ii-14093.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/senua-s-saga-hellblade-ii.webp",
+      "description": "<strong style=\"color: #8B0000;\">Senua's Saga: Hellblade II - PS5 - قوائم وحوارات عربية</strong> - عُد إلى عالم أيسلندا الفايكنغية في القرن العاشر الوحشي والأسطوري في لعبة أكشن ومغامرة سينمائية تدفع حد…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "pageUrl": "https://pspkg.com/arabic-games/cyberpunk-2077-13781.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/cyberpunk-2077.webp",
+      "description": "<strong style=\"color: #8B4513;\">Cyberpunk 2077 - PS5</strong> - Dive into the sprawling metropolis of Night City as V, a mercenary chasing immortality in a world obsessed with power, glamour, and body…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "no_public_download_link"
+    },
+    {
+      "title": "Forspoken",
+      "pageUrl": "https://pspkg.com/arabic-games/forspoken-14094.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/forspoken.webp",
+      "description": "<strong style=\"color: #B22222;\">Forspoken - PS5 - قوائم وحوارات عربية</strong> - تابع رحلة فراي، الشابة من نيويورك التي نُقلت إلى أرض أثيا الجميلة والقاسية، حيث يجب عليها استخدام قدراتها السحرية المكت…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "The Medium",
+      "pageUrl": "https://pspkg.com/arabic-games/the-medium-14092.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/the-medium.webp",
+      "description": "<strong style=\"color: #8B0000;\">The Medium - PS5 - قوائم وحوارات عربية</strong> - انغمس في رعب نفسي مسكون حيث يتصادم الواقع مع عالم الأرواح، ولا يستطيع سوى وسيط كشف الحقيقة المخبأة بينهما.\r\n\r\n<strong …",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Tropico 6",
+      "pageUrl": "https://pspkg.com/arabic-games/tropico-6-1-14091.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/tropico-6-1.webp",
+      "description": "<strong style=\"color: #B22222;\">Tropico 6 - PS5</strong> - Prove yourself as a feared dictator or peace-loving statesman on the island state of Tropico and shape the fate of your nation through four d…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "The Callisto Protocol",
+      "pageUrl": "https://pspkg.com/arabic-games/the-callisto-protocol-14089.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/the-callisto-protocol.webp",
+      "description": "<strong style=\"color: #8B0000;\">The Callisto Protocol - PS5</strong> - Survive the terrifying depths of a maximum-security prison on Jupiter's moon, Callisto, in a visceral sci-fi survival horror expe…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Star Wars: Galactic Racer",
+      "pageUrl": "https://pspkg.com/arabic-games/star-wars-galactic-racer-14085.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/star-wars-galactic-racer.webp",
+      "description": "<strong style=\"color: #DC143C;\">Star Wars: Galactic Racer - PS5</strong> - Dive into the lawless Outer Rim for a high-stakes, runs-based racing adventure where speed, risk, and reputation are everythi…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "The Last Faith",
+      "pageUrl": "https://pspkg.com/arabic-games/the-last-faith-1-14084.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/the-last-faith-1.webp",
+      "description": "<strong style=\"color: #228B22;\">The Last Faith</strong> <strong style=\"color: #FFD900;\">- PS5 - قوائم وحوارات عربية</strong> - مزيج قوطي مظلم من الميتيروفينيا وSoulslike، حيث يلتقي القتال الدقيق والقا…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Dispatch",
+      "pageUrl": "https://pspkg.com/arabic-games/dispatch-14081.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/dispatch.webp",
+      "description": "<strong style=\"color: #4B0082;\">Dispatch - PS5</strong> - Step into the shoes of a fallen superhero forced behind a desk in a hilarious superhero workplace comedy set in modern-day Los Angeles, from t…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Poppy Playtime: Chapter 1",
+      "pageUrl": "https://pspkg.com/arabic-games/poppy-playtime-chapter-1-14077.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/poppy-playtime-chapter-1.webp",
+      "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 1</strong> <strong style=\"color: #FFD900;\">- PS5</strong> - You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toy…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
     {
       "title": "YouTube (US)",
       "pageUrl": "https://pspkg.com/ps5/tool?slug=youtube-us",
@@ -548,26 +912,6 @@
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/disney-pixar-toy-story-3-complete-edition.webp",
       "description": "<strong style=\"color: #4B0082;\">Disney Pixar Toy Story 3 Complete Edition</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - Reopen the toy chest and saddle up as Woody, Buzz Lightyear, and Jes…",
-      "downloadLinks": [],
-      "status": "no_public_download_link"
-    },
-    {
-      "title": "DOOM (2016)",
-      "pageUrl": "https://pspkg.com/ps4/doom-2016-ps4-6559.html",
-      "platform": "PS4",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/DOOM%202016.webp",
-      "description": "Download DOOM (2016) PS4 PKG for jailbreak.",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
-      "title": "Darksiders Genesis",
-      "pageUrl": "https://pspkg.com/ps4/darksiders-genesis-ps4-2418.html",
-      "platform": "PS4",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/Darksiders%20Genesis.webp",
-      "description": "Download Darksiders Genesis PS4 PKG for jailbreak.",
       "downloadLinks": [],
       "status": "no_public_download_link"
     }
