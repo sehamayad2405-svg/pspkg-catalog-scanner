@@ -19,6 +19,8 @@ The latest live scan found 6 tool/app listings with public links. Most sampled g
 
 The Pegasus feed now also converts [the Arabic PS5 JSON catalog](https://raw.githubusercontent.com/Almarriq8888/PS5-Catalogs/refs/heads/main/PS5_Arabic_PSPKG_catalog.json), whose `entries` format Pegasus does not read directly. The adapter keeps only HTTPS links from recognized PKG, FFPFSC, exFAT or folder-dump source labels on known hosts; it omits unknown-format, DLC-only and backport-only links. File availability and firmware compatibility remain unverified. The source project's scheduled PSPKG refresh was returning HTTP 403 when checked on 2026-10-31, so the imported snapshot changes only when that repository updates its JSON.
 
+To open scanned PSPKG pages that need a human check one at a time in your normal Chrome profile, run `python open_manual_verification.py`. Complete any provider check yourself in Chrome, then press Enter to open the next page; press `q` to stop. This helper only opens pages and does not solve or submit verification challenges. Use `--limit 1` to try one page first.
+
 ## What it does
 
 - Reads PSPKG's Arabic PS5 games listing, public PS4/PS5 listings and the PS5 tools section. Arabic results are identified from their listing pages.
