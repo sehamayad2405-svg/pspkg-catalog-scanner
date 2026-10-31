@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m unittest -v
-      - run: python scanner.py --max-pages 90 --delay 2
+      - run: python scanner.py --sections arabic tools ps5 ps4 --max-pages 200 --delay 1
       - name: Commit refreshed JSON
         run: |
           git config user.name 'github-actions[bot]'

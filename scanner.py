@@ -16,7 +16,7 @@ from urllib.parse import urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 BASE = "https://pspkg.com/"
-SECTIONS = {"ps5": "ps5/", "ps4": "ps4/", "tools": "ps5/ps5-tools"}
+SECTIONS = {"ps5": "ps5/", "ps4": "ps4/", "tools": "ps5/ps5-tools", "arabic": "arabic-games/"}
 FILE = re.compile(r"\.(?:pkg|fpkg|ffpkg|ffpfs|ffpfsc|exfat|elf|zip|7z|rar)(?:$|[?#])", re.I)
 TITLE_ID = re.compile(r"\b(?:PPSA|CUSA|[A-Z]{4})\d{5}\b")
 DETAIL = re.compile(r"/(?:ps[345]|arabic-games)/(?!download-)[^/?]+-\d+\.html$")
@@ -139,7 +139,9 @@ def parse_page(html, page):
             next_pages.append(target)
         elif "/download-" in urlsplit(target).path or "gp-dl-btn" in a.attrs.get("class", ""):
             link_pages.append(target)
-    platform = "PS4" if "/ps4/" in page else "PS5" if "/ps5/" in page else "Unknown"
+    platform = ("PS4" if "/ps4/" in page else "PS5" if "/ps5/" in page else
+                "PS5" if re.search(r"\bPS5\b", text, re.I) else
+                "PS4" if re.search(r"\bPS4\b", text, re.I) else "Unknown")
     return {
         "title": str(title).strip(), "pageUrl": page, "platform": platform,
         "titleId": next((x for x in ids if x.startswith(("PPSA", "CUSA"))), ids[0] if ids else ""),
@@ -178,13 +180,14 @@ def package(entry):
         "id": "pspkg-" + identity, "titleId": entry.get("titleId") or "",
         "title": entry["title"], "version": "", "author": "PSPKG listing",
         "category": "Homebrew" if "/tool?" in entry["pageUrl"] else entry["platform"],
-        "description": str(entry.get("description", "")) + "\nSource: " + entry["pageUrl"] + "\nFirmware compatibility not verified.",
+        "description": ("Arabic localization listing. " if "Arabic" in entry.get("tags", []) else "")
+                       + str(entry.get("description", "")) + "\nSource: " + entry["pageUrl"] + "\nFirmware compatibility not verified.",
         "posterUrl": entry.get("posterUrl", ""), "downloadLinks": entry["downloadLinks"],
     }
 
 
 def scan(seeds, fetcher, max_pages=30):
-    queue, seen, entries, errors = deque(seeds), set(), {}, []
+    queue, seen, entries, errors, arabic_details = deque(seeds), set(), {}, [], set()
     while queue and len(seen) < max_pages:
         page = queue.popleft()
         if page in seen:
@@ -194,6 +197,8 @@ def scan(seeds, fetcher, max_pages=30):
             html = fetcher.get(page)
             entry, discovered, link_pages = parse_page(html, page)
             if detail(page):
+                if page in arabic_details or "/arabic-games/" in urlsplit(page).path:
+                    entry["tags"] = ["Arabic"]
                 entries[page] = entry
                 verification_required = False
                 for target in link_pages[:3]:
@@ -214,7 +219,15 @@ def scan(seeds, fetcher, max_pages=30):
                         errors.append({"url": target, "error": str(exc)})
                 entry["status"] = ("links_found" if entry["downloadLinks"] else
                                    "manual_verification_required" if verification_required else "no_public_download_link")
-            queue.extend(x for x in discovered if x not in seen)
+            # Finish pagination/listing pages before spending the request budget
+            # on individual detail and verification pages. The old FIFO order
+            # consumed most of a small run on the first few titles.
+            listing_pages = [x for x in discovered if not detail(x) and x not in seen]
+            detail_pages = [x for x in discovered if detail(x) and x not in seen]
+            if "/arabic-games" in urlsplit(page).path:
+                arabic_details.update(detail_pages)
+            queue.extend(detail_pages)
+            queue.extendleft(reversed(listing_pages))
             print(f"[{len(seen)}/{max_pages}] {page}", flush=True)
         except (HTTPError, URLError, ValueError, TimeoutError, OSError) as exc:
             errors.append({"url": page, "error": str(exc)})
@@ -223,7 +236,7 @@ def scan(seeds, fetcher, max_pages=30):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--sections", nargs="+", choices=SECTIONS, default=["tools", "ps5", "ps4"])
+    parser.add_argument("--sections", nargs="+", choices=SECTIONS, default=["tools", "ps5", "ps4", "arabic"])
     parser.add_argument("--seed", action="append", help="Public PSPKG listing/detail URL; repeatable")
     parser.add_argument("--max-pages", type=int, default=30)
     parser.add_argument("--delay", type=float, default=1.5)

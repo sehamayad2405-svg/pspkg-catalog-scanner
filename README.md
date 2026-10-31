@@ -10,16 +10,23 @@ https://raw.githubusercontent.com/sehamayad2405-svg/pspkg-catalog-scanner/main/d
 
 The feed is an adapter, not a new PS5 browser. Import and download behavior in Pegasus DL+ still needs testing on the console. A third-party provider link may require manual browser verification or may be unsupported. Do not assume every package supports firmware 13.60.
 
-The first live scan found 6 tool/app listings with public links. The sampled game download pages display "Complete the check below" / "Awaiting verification"; the scanner does not bypass that check and cannot publish those games as ready downloads. This means the current feed is useful for publicly linked tools, not a complete downloadable games source.
+The latest live scan found 6 tool/app listings with public links. Most sampled game download pages require verification; the scanner reports these entries but cannot list them as ready downloads. The feed is not a complete downloadable games source.
+
+## Arabic game lists on GitHub
+
+- [Almarriq8888/PS5-Catalogs](https://github.com/Almarriq8888/PS5-Catalogs) publishes an Arabic PSPKG PS5 catalogue. Its JSON contains third-party host links, but its GitHub Actions runs were failing when checked on 2026-10-31; treat its snapshot and links as unverified.
+- [abboud31/Arabgamesps4](https://github.com/abboud31/Arabgamesps4) describes PS4/PS5 Arabic localization methods, but its only HTML file is a generic placeholder and does not contain a game list.
+
+The scanner does not import third-party binary links from those repositories. It scans PSPKG's Arabic listing directly and exports only links it can observe on the public pages.
 
 ## What it does
 
-- Reads public PS4/PS5 listings and the PS5 tools section.
+- Reads PSPKG's Arabic games listing, public PS4/PS5 listings and the PS5 tools section. Arabic results are identified from their detail pages.
 - Extracts names, images, title IDs where present, source pages and explicit public download links.
 - Follows each detail page's public download-page link, with a bounded request budget.
 - Excludes unresolved entries from the download catalogue; keeps them in `docs/index.json` with their status.
 - Records HTTP failures and unresolved counts in `docs/report.json`.
-- Uses a minimum one-second delay between requests. No game files are downloaded.
+- Scans listing pages before detail pages so the page budget is not spent on only the first titles. The daily run checks up to 200 pages with a minimum one-second delay. No game files are downloaded.
 - Stops at HTTP access errors. It does not log in, bypass CAPTCHA, extract secrets, or manufacture provider URLs.
 - Refreshes daily with GitHub Actions; manual refresh is available in Actions.
 
