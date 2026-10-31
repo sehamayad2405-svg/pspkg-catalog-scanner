@@ -1,6 +1,6 @@
 {
   "name": "PSPKG public links",
-  "description": "Public links discovered from PSPKG HTML. File availability and firmware compatibility are not verified.",
+  "description": "Public links discovered from PSPKG pages and the Arabic PS5 catalog source. File availability and firmware compatibility are not verified.",
   "packages": [
     {
       "id": "pspkg-c17d9d03b66b",
@@ -195,6 +195,474 @@
         {
           "name": "Download",
           "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.75"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-77e84b9af10e1f00",
+      "titleId": "PPSA34015",
+      "title": "EA Sports FC 27",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: Folder dump. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/ea-sports-fc-27-1-14006.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2321/c7c534e1e9b24ccf7ff11c429948f31494ccce402b452647.png",
+      "downloadLinks": [
+        {
+          "name": "Dump (مجلد) | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/9uc6rs7S"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-ce82999a8cc3fda5",
+      "titleId": "PPSA11386",
+      "title": "007 First Light",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: Folder dump, PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/007-first-light-14021.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/cN9H0mycxu"
+        },
+        {
+          "name": "Dump (مجلد) | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/fXRfgdKLM1"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-865b8bc45510f060",
+      "titleId": "PPSA03671",
+      "title": "Marvel's Wolverine",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: FFPFSC, Folder dump, PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/marvel-s-wolverine-14004.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2215/a69481c5fa50fe19f42896d84fb7cbf37ab8646801a93322.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/0cJLlERL"
+        },
+        {
+          "name": "FFPFSC | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/cTTqnPQbih"
+        },
+        {
+          "name": "Dump (مجلد) | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/gaZafw96"
+        },
+        {
+          "name": "Dump (مجلد) | Data (link-vault.org) | رابط 2",
+          "url": "https://link-vault.org/c/T7Lao2hI"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-9dd1b4287523ca1d",
+      "titleId": "PPSA15304",
+      "title": "Metal Gear Solid Δ: Snake Eater",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/metal-gear-solid-snake-eater-13757.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0513/d35b305652ee922a72b4020bd5d6ef36675cf526dd4945d1.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/KNJVTAF1Cy"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-7778d2c8b76a2177",
+      "titleId": "PPSA28416",
+      "title": "Star Wars: Galactic Racer",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: Folder dump, PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/star-wars-galactic-racer-14085.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/58ef6a7a23ea91e8b89e02f00792bde4c839daa63b90da0e.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/Dc0KloFKUF"
+        },
+        {
+          "name": "Dump (مجلد) | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/CjUQMI8R"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-3d51ec61af9eea92",
+      "titleId": "PPSA09347",
+      "title": "The Last Faith",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/the-last-faith-1-14084.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1102/70b8ca1f5df59bd0d14527d6635ba7a372d554632c9bf1a4.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/MDCSeh431W"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-7d8334eee8be4c5c",
+      "titleId": "PPSA27158",
+      "title": "Dispatch",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG, exFAT. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/dispatch-14081.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0621/4fb935ea5e75490740d6726da42d05d953cb50a693188174.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/8M7INy9D9n"
+        },
+        {
+          "name": "exFAT | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/yF4dzVUvw6"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-b5786b54ad20fce3",
+      "titleId": "PPSA34547",
+      "title": "Control Resonant",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/control-resonant-14078.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2212/9fedf57ea1649249a0e3ac24770ea9afa6f4bfa795b5fd05.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/KNgej2Ie4w"
+        },
+        {
+          "name": "PKG | Viki (vikingfile.com) | رابط 2",
+          "url": "https://vikingfile.com/f/VKr3VwdDg2"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-61ae70623125545f",
+      "titleId": "PPSA29642",
+      "title": "South of Midnight",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/south-of-midnight-14060.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2822/ee41c702e3b4d9a76c1918e829a7191c9b1fb5b7a3d1e416.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/Zw46Iywyal"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-4108fcba2f6a07c1",
+      "titleId": "PPSA17599",
+      "title": "Clair Obscur: Expedition 33",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG, exFAT. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/clair-obscur-expedition-33-14062.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2217/e5833a53529ff9879e87689f1e8b04d45ba7e6c97fa791e2.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/WXSExlP9j7"
+        },
+        {
+          "name": "exFAT | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/hYgon43Aom"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-2acbcff89646f8a6",
+      "titleId": "PPSA26893",
+      "title": "SpongeBob SquarePants: Titans of The Tide",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG, exFAT. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/spongebob-squarepants-titans-of-the-tide-14069.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2322/626804e2fe940ac1139edf72b32b3c890e3aa2766dcae682.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/CaqQ3VFJ72"
+        },
+        {
+          "name": "exFAT | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/05tsLZR5ID"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-ccc551a1d445d406",
+      "titleId": "PPSA02015",
+      "title": "Death Stranding 2: On the Beach",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG, exFAT. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/death-stranding-2-on-the-beach-14013.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Data (datanodes.to)",
+          "url": "https://datanodes.to/ahe5i0wjzicc"
+        },
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/IVlOXVDv83"
+        },
+        {
+          "name": "exFAT | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/lVC0Iutsxg"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-7141ff959ea8442d",
+      "titleId": "PPSA01969",
+      "title": "Death Stranding Director's Cut",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG, exFAT. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/death-stranding-director-s-cut-14012.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2214/Trdth4yKbz45CVH7VGCT1INp.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/mqv2e8yiOV"
+        },
+        {
+          "name": "exFAT | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/CpBmf3r66N"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-d97d0239366bec06",
+      "titleId": "PPSA01317",
+      "title": "Gran Turismo 7",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: Folder dump, PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/gran-turismo-7-14043.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/0707/303f5701426596a09891f9f33fa93e49ae522d5295b26dce.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/9F6JZjjy"
+        },
+        {
+          "name": "Dump (مجلد) | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/oeSJ8lHw"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-85c1541f70968bff",
+      "titleId": "PPSA33286",
+      "title": "Silent Hill: Townfall",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: Folder dump, PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/silent-hill-townfall-14041.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1407/420dcf45979ace1b7c97122a2dc0eb479428590ecab89c2b.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/ZpKTzLZKYB"
+        },
+        {
+          "name": "Dump (مجلد) | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/uF6VuB0s"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-ea27cf0502df8e53",
+      "titleId": "PPSA30601",
+      "title": "Resonance: A Plague Tale Legacy",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: Folder dump, PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/resonance-a-plague-tale-legacy-14032.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1510/346857c01378e194d77def3f3029d79489509c541aa761d6.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/PMg_NakC"
+        },
+        {
+          "name": "Dump (مجلد) | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/4823A2dH"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-7379e415db294232",
+      "titleId": "PPSA02432",
+      "title": "Crash Bandicoot 4: It's About Time",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/crash-bandicoot-4-it-s-about-time-14027.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202111/1918/psoOkDbYuMdr1RsJo6TpU6bg.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/32QtPdjx6z"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-9e203008a1654a2b",
+      "titleId": "PPSA17905",
+      "title": "Horizon Forbidden West Complete Edition",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG, exFAT. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/horizon-forbidden-west-complete-edition-14023.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2015/7c170d967a56776d9e1dc5ebaf45fefccbe9f12ef3fc752e.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Data (datanodes.to)",
+          "url": "https://datanodes.to/y6zezor37lj"
+        },
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/YHUv0dCQaO"
+        },
+        {
+          "name": "exFAT | Data (datanodes.to)",
+          "url": "https://datanodes.to/w815mry9bvvk"
+        },
+        {
+          "name": "exFAT | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/ytlAdbExPm"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-74871968c2d561e4",
+      "titleId": "PPSA16833",
+      "title": "LEGO Batman: Legacy of the Dark Knight Deluxe Edition",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG, exFAT. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/lego-batman-legacy-of-the-dark-knight-14014.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1118/04a1dccd62834eabfac097824ab1c352ea2b39ca8a092228.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/p8otTvRr"
+        },
+        {
+          "name": "exFAT | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/MhqKees0"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-25c42ade55bedb7f",
+      "titleId": "PPSA28183",
+      "title": "Assassin's Creed Black Flag Resynced Deluxe Edition",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: exFAT. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/assassin-s-creed-black-flag-resynced-deluxe-edition-14005.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/2a9a124fd03b1e72ea2f1916ccfdeff0424505836b660853.png",
+      "downloadLinks": [
+        {
+          "name": "exFAT | Data (link-vault.org)",
+          "url": "https://link-vault.org/c/AZp-82S_"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-8280d2892ee0b6fb",
+      "titleId": "PPSA19534",
+      "title": "Battlefield 6",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG, exFAT. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/battlefield-6-13995.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2514/606363ddf40fc2a7ec23f78f5310de1d41008d316dc2c98d.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/G1Numhz6Mb"
+        },
+        {
+          "name": "exFAT | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/WfMZfH6YAx"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-137317133ae59804",
+      "titleId": "PPSA04288",
+      "title": "Resident Evil 2",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/resident-evil-2-13743.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/EpsVvsbmcj"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-e9bb5e13b7e42269",
+      "titleId": "PPSA03016",
+      "title": "Marvels Spider Man 2 Deluxe Edition",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG, exFAT. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/marvels-spider-man-2-deluxe-edition-13979.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1301/bf9002aa05ee78610179d978eb5f1cb877cfd81828507f33.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/bYRX0pgACA"
+        },
+        {
+          "name": "exFAT | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/yHAfXrnvWw"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-arabic-dcd67c7b9383b0c2",
+      "titleId": "PPSA07632",
+      "title": "Saros",
+      "version": "",
+      "author": "PSPKG Arabic catalog",
+      "category": "PS5",
+      "description": "Arabic PS5 listing. Reported formats: PKG. Firmware compatibility and file availability are unverified.\nSource: https://pspkg.com/ar/arabic-games/saros-13981.html",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2318/78549217df5077bea107700e077d04be6a9a4b0dfbcd821a.png",
+      "downloadLinks": [
+        {
+          "name": "PKG | Viki (vikingfile.com)",
+          "url": "https://vikingfile.com/f/aGYrgMaTj9"
         }
       ]
     }
