@@ -1,0 +1,305 @@
+{
+  "generatedAt": "2026-10-31T01:43:51.185464+00:00",
+  "entries": [
+    {
+      "title": "YouTube (US)",
+      "pageUrl": "https://pspkg.com/ps5/tool?slug=youtube-us",
+      "platform": "PS5",
+      "titleId": "PPSA01650",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/youtube-us.webp",
+      "description": "YouTube (US) for Y2JB",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/PPSA01650/1.03"
+        }
+      ],
+      "status": "links_found"
+    },
+    {
+      "title": "Netflix (EU)",
+      "pageUrl": "https://pspkg.com/ps5/tool?slug=netflix-eu",
+      "platform": "PS5",
+      "titleId": "PPSA01615",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/netflix-eu.webp",
+      "description": "PS5 Netflix (EU) app for Netflix-N-Hack",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/PPSA01615/6.00"
+        }
+      ],
+      "status": "links_found"
+    },
+    {
+      "title": "Avatar Changer PS5",
+      "pageUrl": "https://pspkg.com/ps5/tool?slug=avatar-changer-ps5",
+      "platform": "PS5",
+      "titleId": "LAPY20016",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/avatar-changer-ps5.webp",
+      "description": "Change your profile picture easier than ever",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/LAPY20016/1.00"
+        }
+      ],
+      "status": "links_found"
+    },
+    {
+      "title": "PS5-Xplorer",
+      "pageUrl": "https://pspkg.com/ps5/tool?slug=ps5-xplorer",
+      "platform": "PS5",
+      "titleId": "LAPY20011",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/ps5-xplorer.webp",
+      "description": "File manager for the PS5",
+      "downloadLinks": [
+        {
+          "name": "تحميل",
+          "url": "https://pkg-zone.com/download/ps5/LAPY20011/1.04"
+        },
+        {
+          "name": "تحميل",
+          "url": "https://pkg-zone.com/download/ps5/LAPY20011/1.02"
+        }
+      ],
+      "status": "links_found"
+    },
+    {
+      "title": "Itemzflow Game Manager",
+      "pageUrl": "https://pspkg.com/ps5/tool?slug=itemzflow-game-manager",
+      "platform": "PS5",
+      "titleId": "ITEM00001",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/itemzflow-game-manager.webp",
+      "description": "Itemzflow is a Free and Open source PS4 home menu alternative Itemzflow expands the beyond limits of Sony's ShellUI",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.14"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.13"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.12"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.11"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.10"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.09"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.08"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.07"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.06"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.07"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.06"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.05"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.04"
+        }
+      ],
+      "status": "links_found"
+    },
+    {
+      "title": "FPKGi",
+      "pageUrl": "https://pspkg.com/ps5/tool?slug=fpkgi",
+      "platform": "PS5",
+      "titleId": "PKGI13337",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/fpkgi.webp",
+      "description": "FPKGi is an open-source PKGi clone for PSP, Vita, and PS3, preserving its UI, music, and features while supporting modern consoles. It handles custom FPKG content via .json files, making it perfect for game preservation and personal use.",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/PKGI13337/1.01.1"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/PKGI13337/1.01.0"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/PKGI13337/1.00.0"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/1.01.1"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/1.01.0"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/1.00.0"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.87.7"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.87.3"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.87"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.86"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.81"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.80"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.75"
+        }
+      ],
+      "status": "links_found"
+    },
+    {
+      "title": "Ghost of Yōtei",
+      "pageUrl": "https://pspkg.com/ps5/ghost-of-yotei-7535.html",
+      "platform": "PS5",
+      "titleId": "PPSA26344",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Ghost%20of%20Yotei%20PS5.webp",
+      "description": "Embark on a revenge-driven adventure through northern Japan in <strong style=\"color: #e74c3c;\">Ghost of Yōtei</strong>, a standalone <strong style=\"color: #e74c3c;\">action-adventure</strong> created b…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Marvel's Wolverine",
+      "pageUrl": "https://pspkg.com/ps5/marvel-s-wolverine-13997.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/marvel-s-wolverine.webp",
+      "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game from Insomni…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "pageUrl": "https://pspkg.com/ps5/black-myth-wukong-ps5-6899.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Black%20Myth_%20Wukong.webp",
+      "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure</strong> in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "EA Sports FC 27",
+      "pageUrl": "https://pspkg.com/ps5/ea-sports-fc-27-14007.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/ea-sports-fc-27.webp",
+      "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5</strong> - Step into the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.\r\n\r\n<strong s…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "ASTRO BOT",
+      "pageUrl": "https://pspkg.com/ps5/astro-bot-7434.html",
+      "platform": "PS5",
+      "titleId": "PPSA21564",
+      "posterUrl": "https://img.pspkg.com/ps5/image/ASTRO%20BOT-1.webp",
+      "description": "Download ASTRO BOT PS5 PKG for jailbreak.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "007 First Light",
+      "pageUrl": "https://pspkg.com/ps5/007-first-light-13993.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/007-first-light.webp",
+      "description": "<strong style=\"color: #B22222;\">007 First Light - PS5</strong> - Discover the origin story of the world's most famous spy in a thrilling espionage action-adventure from IO Interactive, the studio behi…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Resident Evil 4 Remake",
+      "pageUrl": "https://pspkg.com/ps5/resident-evil-4-remake-ps5-6788.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Resident%20Evil%204%20Remake.webp",
+      "description": "<p><strong>Resident Evil 4</strong> is a reimagining of the survival-horror classic, with modernized gameplay, a renewed story, and vividly detailed graphics.</p>\r\n\r\n<p>Guide Leon S. Kennedy on a dang…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Forza Horizon 5",
+      "pageUrl": "https://pspkg.com/ps5/forza-horizon-5-7527.html",
+      "platform": "PS5",
+      "titleId": "PPSA22327",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Forza%20Horizon%205-1.webp",
+      "description": "Forza Horizon 5 is an open-world racing game for PlayStation 5, developed by Playground Games and Turn 10 Studios and published by Microsoft. Set across the diverse landscapes of Mexico, it brings the…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Elden Ring",
+      "pageUrl": "https://pspkg.com/ps5/elden-ring-1-7577.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/elden-ring-1.webp",
+      "description": "Prepare for an epic fantasy adventure in <strong style=\"color: #e74c3c;\">Elden Ring</strong>, an open-world <strong style=\"color: #e74c3c;\">action RPG</strong> developed by <strong style=\"color: #e74c…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Crimson Desert Deluxe Edition",
+      "pageUrl": "https://pspkg.com/ps5/crimson-desert-deluxe-edition-13808.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Crimson%20Desert%20Deluxe%20Edition-1.webp",
+      "description": "Download Crimson Desert Deluxe Edition PS5 PKG for jailbreak.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Dying Light: The Beast",
+      "pageUrl": "https://pspkg.com/ps5/dying-light-the-beast-14029.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/dying-light-the-beast.webp",
+      "description": "<strong style=\"color: #8B0000;\">Dying Light: The Beast - PS5</strong> - Embrace your monstrous abilities and fight for freedom in a fallen world, as Kyle Crane returns in a brutal standalone survival …",
+      "downloadLinks": [],
+      "status": "no_public_download_link"
+    }
+  ]
+}

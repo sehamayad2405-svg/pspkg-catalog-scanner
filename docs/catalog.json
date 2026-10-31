@@ -1,0 +1,202 @@
+{
+  "name": "PSPKG public links",
+  "description": "Public links discovered from PSPKG HTML. File availability and firmware compatibility are not verified.",
+  "packages": [
+    {
+      "id": "pspkg-c17d9d03b66b",
+      "titleId": "PPSA01650",
+      "title": "YouTube (US)",
+      "version": "",
+      "author": "PSPKG listing",
+      "category": "Homebrew",
+      "description": "YouTube (US) for Y2JB\nSource: https://pspkg.com/ps5/tool?slug=youtube-us\nFirmware compatibility not verified.",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/youtube-us.webp",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/PPSA01650/1.03"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-174eee22ec2f",
+      "titleId": "PPSA01615",
+      "title": "Netflix (EU)",
+      "version": "",
+      "author": "PSPKG listing",
+      "category": "Homebrew",
+      "description": "PS5 Netflix (EU) app for Netflix-N-Hack\nSource: https://pspkg.com/ps5/tool?slug=netflix-eu\nFirmware compatibility not verified.",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/netflix-eu.webp",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/PPSA01615/6.00"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-68d4a62ca017",
+      "titleId": "LAPY20016",
+      "title": "Avatar Changer PS5",
+      "version": "",
+      "author": "PSPKG listing",
+      "category": "Homebrew",
+      "description": "Change your profile picture easier than ever\nSource: https://pspkg.com/ps5/tool?slug=avatar-changer-ps5\nFirmware compatibility not verified.",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/avatar-changer-ps5.webp",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/LAPY20016/1.00"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-c100d552fb6a",
+      "titleId": "LAPY20011",
+      "title": "PS5-Xplorer",
+      "version": "",
+      "author": "PSPKG listing",
+      "category": "Homebrew",
+      "description": "File manager for the PS5\nSource: https://pspkg.com/ps5/tool?slug=ps5-xplorer\nFirmware compatibility not verified.",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/ps5-xplorer.webp",
+      "downloadLinks": [
+        {
+          "name": "تحميل",
+          "url": "https://pkg-zone.com/download/ps5/LAPY20011/1.04"
+        },
+        {
+          "name": "تحميل",
+          "url": "https://pkg-zone.com/download/ps5/LAPY20011/1.02"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-b618695ab4e5",
+      "titleId": "ITEM00001",
+      "title": "Itemzflow Game Manager",
+      "version": "",
+      "author": "PSPKG listing",
+      "category": "Homebrew",
+      "description": "Itemzflow is a Free and Open source PS4 home menu alternative Itemzflow expands the beyond limits of Sony's ShellUI\nSource: https://pspkg.com/ps5/tool?slug=itemzflow-game-manager\nFirmware compatibility not verified.",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/itemzflow-game-manager.webp",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.14"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.13"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.12"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.11"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.10"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.09"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.08"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.07"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.06"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.07"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.06"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.05"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.04"
+        }
+      ]
+    },
+    {
+      "id": "pspkg-08cf3d5c0e58",
+      "titleId": "PKGI13337",
+      "title": "FPKGi",
+      "version": "",
+      "author": "PSPKG listing",
+      "category": "Homebrew",
+      "description": "FPKGi is an open-source PKGi clone for PSP, Vita, and PS3, preserving its UI, music, and features while supporting modern consoles. It handles custom FPKG content via .json files, making it perfect for game preservation and personal use.\nSource: https://pspkg.com/ps5/tool?slug=fpkgi\nFirmware compatibility not verified.",
+      "posterUrl": "https://pspkg.com/ps5/tools-images/fpkgi.webp",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/PKGI13337/1.01.1"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/PKGI13337/1.01.0"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps5/PKGI13337/1.00.0"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/1.01.1"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/1.01.0"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/1.00.0"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.87.7"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.87.3"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.87"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.86"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.81"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.80"
+        },
+        {
+          "name": "Download",
+          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.75"
+        }
+      ]
+    }
+  ]
+}
