@@ -12,7 +12,7 @@ from pathlib import Path
 import re
 import time
 from urllib.error import HTTPError, URLError
-from urllib.parse import urljoin, urlsplit, urlunsplit
+from urllib.parse import parse_qsl, urlencode, urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 BASE = "https://pspkg.com/"
@@ -80,10 +80,12 @@ def onsite(value):
 
 
 def canonical_page(value):
-    """Use the public English route so language navigation does not duplicate listings."""
+    """Normalize language variants so pagination is scanned only once."""
     parsed = urlsplit(value)
     path = parsed.path[3:] if parsed.path.startswith("/ar/") else parsed.path
-    return urlunsplit((parsed.scheme, parsed.netloc, path, parsed.query, ""))
+    query = [(key, val) for key, val in parse_qsl(parsed.query, keep_blank_values=True)
+             if key.lower() != "lang" and not (key.lower() == "page" and val == "1")]
+    return urlunsplit((parsed.scheme, parsed.netloc, path, urlencode(query, doseq=True), ""))
 
 
 def detail(value):
