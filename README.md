@@ -17,12 +17,12 @@ The latest live scan found 6 tool/app listings with public links. Most sampled g
 - [Almarriq8888/PS5-Catalogs](https://github.com/Almarriq8888/PS5-Catalogs) publishes an Arabic PSPKG PS5 catalogue. Its JSON contains third-party host links, but its GitHub Actions runs were failing when checked on 2026-10-31; treat its snapshot and links as unverified.
 - [abboud31/Arabgamesps4](https://github.com/abboud31/Arabgamesps4) describes PS4/PS5 Arabic localization methods, but its only HTML file is a generic placeholder and does not contain a game list.
 
-The scanner does not import third-party binary links from those repositories. It scans PSPKG's Arabic listing directly and exports only links it can observe on the public pages.
+The Pegasus feed now also converts [the Arabic PS5 JSON catalog](https://raw.githubusercontent.com/Almarriq8888/PS5-Catalogs/refs/heads/main/PS5_Arabic_PSPKG_catalog.json), whose `entries` format Pegasus does not read directly. The adapter keeps only HTTPS links from recognized PKG, FFPFSC, exFAT or folder-dump source labels on known hosts; it omits unknown-format, DLC-only and backport-only links. File availability and firmware compatibility remain unverified. The source project's scheduled PSPKG refresh was returning HTTP 403 when checked on 2026-10-31, so the imported snapshot changes only when that repository updates its JSON.
 
 ## What it does
 
 - Reads PSPKG's Arabic PS5 games listing, public PS4/PS5 listings and the PS5 tools section. Arabic results are identified from their listing pages.
-- Extracts names, images, title IDs where present, source pages and explicit public download links.
+- Extracts names, images, title IDs where present, source pages and explicit public download links; adapts the separate Arabic JSON source into Pegasus format.
 - Follows each detail page's public download-page link, with a bounded request budget.
 - Excludes unresolved entries from the download catalogue; keeps them in `docs/index.json` with their status.
 - Records HTTP failures and unresolved counts in `docs/report.json`.

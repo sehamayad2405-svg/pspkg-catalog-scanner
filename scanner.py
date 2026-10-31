@@ -16,6 +16,8 @@ from urllib.parse import parse_qsl, urlencode, urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 BASE = "https://pspkg.com/"
+ARABIC_SOURCE_URL = "https://raw.githubusercontent.com/Almarriq8888/PS5-Catalogs/refs/heads/main/PS5_Arabic_PSPKG_catalog.json"
+ARABIC_FILE_HOSTS = {"link-vault.org", "datanodes.to", "vikingfile.com", "vik1ngfile.site", "datavaults.co", "mediafire.com", "1fichier.com"}
 SECTIONS = {"ps5": "ps5/", "ps4": "ps4/", "tools": "ps5/ps5-tools", "arabic": "arabic-games/?filters%5B%5D=ps5"}
 FILE = re.compile(r"\.(?:pkg|fpkg|ffpkg|ffpfs|ffpfsc|exfat|elf|zip|7z|rar)(?:$|[?#])", re.I)
 TITLE_ID = re.compile(r"\b(?:PPSA|CUSA|[A-Z]{4})\d{5}\b")
@@ -188,6 +190,65 @@ def package(entry):
     }
 
 
+def fetch_arabic_packages():
+    request = Request(ARABIC_SOURCE_URL, headers={"User-Agent": "PSPKG-Catalog-Scanner/1.0 (catalog format adapter)"})
+    with urlopen(request, timeout=20) as response:
+        if urlsplit(response.geturl()).hostname != "raw.githubusercontent.com":
+            raise ValueError("Arabic catalog redirected away from raw.githubusercontent.com")
+        raw = response.read(2_000_001)
+    if len(raw) > 2_000_000:
+        raise ValueError("Arabic catalog exceeds 2 MB limit")
+    source = json.loads(raw.decode("utf-8"))
+    records = source.get("entries") if isinstance(source, dict) else None
+    if not isinstance(records, list):
+        raise ValueError("Arabic catalog has no entries list")
+
+    result = []
+    for record in records:
+        if not isinstance(record, dict) or not record.get("title"):
+            continue
+        links, formats = [], set()
+        for source_set in record.get("source_sets", []):
+            if not isinstance(source_set, dict):
+                continue
+            label = str(source_set.get("host", ""))
+            if re.search(r"backport|dlc|patch|update|تحديث|إضافة", label, re.I):
+                continue
+            if not re.search(r"\b(?:pkg|ffpfsc|exfat)\b|dump\s*\(", label, re.I):
+                continue
+            for item in source_set.get("files", []):
+                if not isinstance(item, dict):
+                    continue
+                target = url(item.get("url"), ARABIC_SOURCE_URL)
+                host = (urlsplit(target).hostname or "").lower() if target else ""
+                if (not target or urlsplit(target).scheme != "https" or
+                    not any(host == allowed or host.endswith("." + allowed) for allowed in ARABIC_FILE_HOSTS)):
+                    continue
+                if target not in {x["url"] for x in links}:
+                    links.append({"name": label[:120] or host, "url": target})
+                    formats.add("FFPFSC" if re.search(r"ffpfsc", label, re.I) else
+                                "exFAT" if re.search(r"exfat", label, re.I) else
+                                "Folder dump" if re.search(r"dump\s*\(", label, re.I) else "PKG")
+        if not links:
+            continue
+        title_id = str(record.get("title_id", ""))
+        if not re.fullmatch(r"(?:PPSA|CUSA)\d{5}", title_id, re.I):
+            title_id = ""
+        identity = sha256(str(record.get("id", record["title"])).encode("utf-8")).hexdigest()[:16]
+        page_match = re.search(r"https://pspkg\.com/[^\s]+", str(record.get("description", "")))
+        source_page = page_match.group(0).rstrip(".,)") if page_match else "PSPKG Arabic PS5 listing"
+        result.append({
+            "id": "pspkg-arabic-" + identity, "titleId": title_id,
+            "title": str(record["title"]), "version": "", "author": "PSPKG Arabic catalog",
+            "category": "PS5",
+            "description": "Arabic PS5 listing. Reported formats: " + ", ".join(sorted(formats))
+                           + ". Firmware compatibility and file availability are unverified.\nSource: " + source_page,
+            "posterUrl": url(str(record.get("cover", "")), ARABIC_SOURCE_URL) if record.get("cover") else "",
+            "downloadLinks": links,
+        })
+    return result, len(records)
+
+
 def scan(seeds, fetcher, max_pages=30):
     listing_queue = deque(x for x in seeds if not detail(x))
     detail_queue = deque(x for x in seeds if detail(x))
@@ -263,11 +324,25 @@ def main():
         raise SystemExit("No detail pages parsed; existing output preserved")
     timestamp = datetime.now(timezone.utc).isoformat()
     packages = [p for e in entries if (p := package(e))]
+    external = {"url": ARABIC_SOURCE_URL, "status": "unavailable", "entriesRead": 0, "packagesAdded": 0}
+    try:
+        arabic_packages, external_count = fetch_arabic_packages()
+        external.update(status="ok", entriesRead=external_count, packagesAdded=len(arabic_packages))
+        existing_ids = {p["id"] for p in packages}
+        existing_titles = {str(p.get("title", "")).casefold() for p in packages}
+        for item in arabic_packages:
+            if item["id"] not in existing_ids and item["title"].casefold() not in existing_titles:
+                packages.append(item)
+                existing_ids.add(item["id"])
+                existing_titles.add(item["title"].casefold())
+    except (HTTPError, URLError, ValueError, TimeoutError, OSError, json.JSONDecodeError) as exc:
+        external["error"] = str(exc)
+        errors.append({"url": ARABIC_SOURCE_URL, "error": str(exc)})
     args.output.mkdir(parents=True, exist_ok=True)
     outputs = {
         "index.json": {"generatedAt": timestamp, "entries": entries},
-        "catalog.json": {"name": "PSPKG public links", "description": "Public links discovered from PSPKG HTML. File availability and firmware compatibility are not verified.", "packages": packages},
-        "report.json": {"generatedAt": timestamp, "pagesAttempted": count, "detailPages": len(entries), "packagesWithLinks": len(packages), "unresolved": sum(not e["downloadLinks"] for e in entries), "manualVerificationRequired": sum(e["status"] == "manual_verification_required" for e in entries), "errors": errors},
+        "catalog.json": {"name": "PSPKG public links", "description": "Public links discovered from PSPKG pages and the Arabic PS5 catalog source. File availability and firmware compatibility are not verified.", "packages": packages},
+        "report.json": {"generatedAt": timestamp, "pagesAttempted": count, "detailPages": len(entries), "packagesWithLinks": len(packages), "unresolved": sum(not e["downloadLinks"] for e in entries), "manualVerificationRequired": sum(e["status"] == "manual_verification_required" for e in entries), "externalArabicCatalog": external, "errors": errors},
     }
     for name, data in outputs.items():
         temp = args.output / (name + ".tmp")
