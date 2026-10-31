@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T02:28:48.500055+00:00",
+  "generatedAt": "2026-10-31T12:52:39.548762+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -233,7 +233,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Senua's Saga: Hellblade II",
@@ -350,7 +350,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Poppy Playtime: Chapter 1",
@@ -419,11 +419,11 @@
       "description": "File manager for the PS5",
       "downloadLinks": [
         {
-          "name": "تحميل",
+          "name": "Download",
           "url": "https://pkg-zone.com/download/ps5/LAPY20011/1.04"
         },
         {
-          "name": "تحميل",
+          "name": "Download",
           "url": "https://pkg-zone.com/download/ps5/LAPY20011/1.02"
         }
       ],
@@ -593,7 +593,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/ea-sports-fc-27.webp",
       "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5</strong> - Step into the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.\r\n\r\n<strong s…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "ASTRO BOT",
@@ -833,7 +833,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/693aff0e87505.jpg",
       "description": "Unleash your imagination and build your own reality with <strong style=\"color: #e74c3c;\">Minecraft: PlayStation 4 Edition</strong> - the global phenomenon that lets you <strong style=\"color: #e74c3c;\"…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "eFootball pes monster patch 27",
