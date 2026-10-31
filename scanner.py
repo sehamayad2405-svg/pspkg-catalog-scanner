@@ -16,7 +16,7 @@ from urllib.parse import parse_qsl, urlencode, urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 BASE = "https://pspkg.com/"
-SECTIONS = {"ps5": "ps5/", "ps4": "ps4/", "tools": "ps5/ps5-tools", "arabic": "arabic-games/"}
+SECTIONS = {"ps5": "ps5/", "ps4": "ps4/", "tools": "ps5/ps5-tools", "arabic": "arabic-games/?filters%5B%5D=ps5"}
 FILE = re.compile(r"\.(?:pkg|fpkg|ffpkg|ffpfs|ffpfsc|exfat|elf|zip|7z|rar)(?:$|[?#])", re.I)
 TITLE_ID = re.compile(r"\b(?:PPSA|CUSA|[A-Z]{4})\d{5}\b")
 DETAIL = re.compile(r"/(?:ps[345]|arabic-games)/(?!download-)[^/?]+-\d+\.html$")
@@ -189,9 +189,17 @@ def package(entry):
 
 
 def scan(seeds, fetcher, max_pages=30):
-    queue, seen, entries, errors, arabic_details = deque(seeds), set(), {}, [], set()
-    while queue and len(seen) < max_pages:
-        page = queue.popleft()
+    listing_queue = deque(x for x in seeds if not detail(x))
+    detail_queue = deque(x for x in seeds if detail(x))
+    seen, entries, errors, arabic_details = set(), {}, [], set()
+    listing_budget = max(8, max_pages // 3)
+    listing_count = 0
+    while (listing_queue or detail_queue) and len(seen) < max_pages:
+        if detail_queue and (listing_count >= listing_budget or not listing_queue):
+            page = detail_queue.popleft()
+        else:
+            page = listing_queue.popleft()
+            listing_count += 1
         if page in seen:
             continue
         seen.add(page)
@@ -221,15 +229,16 @@ def scan(seeds, fetcher, max_pages=30):
                         errors.append({"url": target, "error": str(exc)})
                 entry["status"] = ("links_found" if entry["downloadLinks"] else
                                    "manual_verification_required" if verification_required else "no_public_download_link")
-            # Finish pagination/listing pages before spending the request budget
-            # on individual detail and verification pages. The old FIFO order
-            # consumed most of a small run on the first few titles.
             listing_pages = [x for x in discovered if not detail(x) and x not in seen]
             detail_pages = [x for x in discovered if detail(x) and x not in seen]
             if "/arabic-games" in urlsplit(page).path:
                 arabic_details.update(detail_pages)
-            queue.extend(detail_pages)
-            queue.extendleft(reversed(listing_pages))
+            for target in listing_pages:
+                if target not in listing_queue:
+                    listing_queue.append(target)
+            for target in detail_pages:
+                if target not in detail_queue:
+                    detail_queue.append(target)
             print(f"[{len(seen)}/{max_pages}] {page}", flush=True)
         except (HTTPError, URLError, ValueError, TimeoutError, OSError) as exc:
             errors.append({"url": page, "error": str(exc)})
@@ -238,7 +247,7 @@ def scan(seeds, fetcher, max_pages=30):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--sections", nargs="+", choices=SECTIONS, default=["tools", "ps5", "ps4", "arabic"])
+    parser.add_argument("--sections", nargs="+", choices=SECTIONS, default=["arabic", "tools", "ps5", "ps4"])
     parser.add_argument("--seed", action="append", help="Public PSPKG listing/detail URL; repeatable")
     parser.add_argument("--max-pages", type=int, default=30)
     parser.add_argument("--delay", type=float, default=1.5)

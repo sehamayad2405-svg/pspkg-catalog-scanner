@@ -21,12 +21,12 @@ The scanner does not import third-party binary links from those repositories. It
 
 ## What it does
 
-- Reads PSPKG's Arabic games listing, public PS4/PS5 listings and the PS5 tools section. Arabic results are identified from their detail pages.
+- Reads PSPKG's Arabic PS5 games listing, public PS4/PS5 listings and the PS5 tools section. Arabic results are identified from their listing pages.
 - Extracts names, images, title IDs where present, source pages and explicit public download links.
 - Follows each detail page's public download-page link, with a bounded request budget.
 - Excludes unresolved entries from the download catalogue; keeps them in `docs/index.json` with their status.
 - Records HTTP failures and unresolved counts in `docs/report.json`.
-- Scans listing pages before detail pages so the page budget is not spent on only the first titles. The daily run checks up to 200 pages with a minimum one-second delay. No game files are downloaded.
+- Reserves the first third of each run for listing pages, then uses the remaining budget for game details and their public download pages. This prevents large PS4/PS5 indexes from starving Arabic game details. The daily run checks up to 200 pages with a minimum one-second delay. No game files are downloaded.
 - Stops at HTTP access errors. It does not log in, bypass CAPTCHA, extract secrets, or manufacture provider URLs.
 - Refreshes daily with GitHub Actions; manual refresh is available in Actions.
 
