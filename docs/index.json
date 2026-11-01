@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:52:39.548762+00:00",
+  "generatedAt": "2026-11-01T13:41:19.297761+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -25,7 +25,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "007 First Light",
@@ -46,7 +46,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/6aacfa3c99de4.webp",
-      "description": "<strong style=\"color: #B22222;\">Black Myth: Wukong - PS5</strong> - Embark on a breathtaking action RPG journey rooted in Chinese mythology, where you take on the role of the Destined One to uncover t…",
+      "description": "<strong style=\"color: #B22222;\">Black Myth: Wukong - PS5 - قوائم وحوارات عربية (تعريب غير رسمي)</strong> - انطلق في رحلة أكشن وRPG مبهرة مستوحاة من الأساطير الصينية، حيث تلعب دور «المقدّر» لكشف الحقيق…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -90,7 +90,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Control Resonant",
@@ -103,7 +103,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Mafia: The Old Country",
@@ -142,7 +142,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "The Sinking City 2",
@@ -155,7 +155,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Mortal Shell 2 Deluxe Edition",
@@ -233,7 +233,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Senua's Saga: Hellblade II",
@@ -332,7 +332,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/the-last-faith-1.webp",
-      "description": "<strong style=\"color: #228B22;\">The Last Faith</strong> <strong style=\"color: #FFD900;\">- PS5 - قوائم وحوارات عربية</strong> - مزيج قوطي مظلم من الميتيروفينيا وSoulslike، حيث يلتقي القتال الدقيق والقا…",
+      "description": "<strong style=\"color: #228B22;\">The Last Faith</strong> <strong style=\"color: #FFD900;\">- PS5</strong> - A dark, gothic fusion of metroidvania and soulslike, where merciless and precise combat meets n…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -404,7 +404,7 @@
       "description": "Change your profile picture easier than ever",
       "downloadLinks": [
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/LAPY20016/1.00"
         }
       ],
@@ -573,7 +573,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/marvel-s-wolverine.webp",
       "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game from Insomni…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Black Myth: Wukong",
@@ -683,7 +683,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops.webp",
       "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops - PS5</strong> - Step into the shadows of the Cold War in the legendary shooter that redefined the franchise, now available on PS5 with all its …",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Alfred Hitchcock - Vertigo",
