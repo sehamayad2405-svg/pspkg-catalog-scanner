@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T13:41:19.297761+00:00",
+  "generatedAt": "2026-11-02T16:22:01.971003+00:00",
   "pagesAttempted": 200,
   "detailPages": 70,
   "packagesWithLinks": 30,
   "unresolved": 64,
-  "manualVerificationRequired": 54,
+  "manualVerificationRequired": 52,
   "externalArabicCatalog": {
     "url": "https://raw.githubusercontent.com/Almarriq8888/PS5-Catalogs/refs/heads/main/PS5_Arabic_PSPKG_catalog.json",
     "status": "ok",
@@ -13,11 +13,7 @@
   },
   "errors": [
     {
-      "url": "https://pspkg.com/ps4/download-mortal-kombat-11-ultimate-ps4-6533.html",
-      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
-    },
-    {
-      "url": "https://pspkg.com/ps4/download-disney-pixar-toy-story-3-complete-edition-14100.html",
+      "url": "https://pspkg.com/arabic-games/download-ea-sports-fc-27-1-14006.html",
       "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
     }
   ]

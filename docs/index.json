@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:41:19.297761+00:00",
+  "generatedAt": "2026-11-02T16:22:01.971003+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -12,7 +12,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "EA Sports FC 27",
@@ -194,7 +194,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "The First Berserker: Khazan",
@@ -259,7 +259,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Forspoken",
@@ -298,7 +298,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "The Callisto Protocol",
@@ -350,7 +350,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Poppy Playtime: Chapter 1",
@@ -673,7 +673,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops-ii.webp",
       "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops II - PS5</strong> - Pushing the boundaries of the franchise, this iconic shooter propels players into a near-future, 21st-century Cold War where…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Call of Duty: Black Ops",
@@ -723,7 +723,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/the-blood-of-dawnwalker.webp",
       "description": "<strong style=\"color: #228B22;\">The Blood of Dawnwalker - PS5</strong> - Embark on a dark fantasy journey in 14th-century Europe, where vampires seize a moment of weakness to emerge from the shadows a…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Silent Hill: Townfall Deluxe Edition",
@@ -793,7 +793,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/poppy-playtime-chapter-4.webp",
       "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 4 - PS5</strong> - Brace yourself for the darkest chapter yet in the epic Poppy Playtime saga, descending into the undiscovered depths of the Pl…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Poppy Playtime: Chapter 5",
@@ -826,22 +826,22 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Minecraft PlayStation 4 Edition",
-      "pageUrl": "https://pspkg.com/ps4/minecraft-playstation-4-edition-ps4-6626.html",
-      "platform": "PS4",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/693aff0e87505.jpg",
-      "description": "Unleash your imagination and build your own reality with <strong style=\"color: #e74c3c;\">Minecraft: PlayStation 4 Edition</strong> - the global phenomenon that lets you <strong style=\"color: #e74c3c;\"…",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
       "title": "eFootball pes monster patch 27",
       "pageUrl": "https://pspkg.com/ps4/efootball-pes-monster-patch-27-1-7699.html",
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/6a9690b586dac.webp",
       "description": "<strong style=\"color: #DC143C;\">eFootball 2021 &ndash; Monster Patch 27 (&#1602;&#1608;&#1575;&#1574;&#1605; &#1593;&#1585;&#1576;&#1610;&#1577;&#1548; &#1578;&#1593;&#1604;&#1610;&#1602; &#1593;&#1585;&#1576;&#1610;) - PS4 - &#1575;&#1606;&#1591;&#1604;&#1602; &#1601;&#1610; &#1578;&#1580;&#1585;&#1576;&#1577; &#1603;&#1585;&#1577; &#1575;&#1604;&#1602;&#1583;&#1605; &#1575;&#1604;&#1571;&#1603;&#1579;&#1585; &#1588;&#1605;&#1608;&#1604;&#1575;&#1611; &#1608;&#1578;&#1581;&#1583;&#1610;&#1579;&#1575;&#1611; &#1605;&#1593; &#1573;&#1589;&#1583;&#1575;&#1585; Monster Patch &#1575;&#1604;&#1571;&#1587;&#1591;&#1608;&#1585;&#1610;&#1548; &#1575;&#1604;&#1584;&#1610; &#1610;&#1581;&#1608;&#1604;&hellip;",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Minecraft PlayStation 4 Edition",
+      "pageUrl": "https://pspkg.com/ps4/minecraft-playstation-4-edition-ps4-6626.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/693aff0e87505.jpg",
+      "description": "Unleash your imagination and build your own reality with <strong style=\"color: #e74c3c;\">Minecraft: PlayStation 4 Edition</strong> - the global phenomenon that lets you <strong style=\"color: #e74c3c;\"…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -883,7 +883,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
       "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "eFootball PES 2026 Monster Patch",
@@ -906,14 +906,14 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Disney Pixar Toy Story 3 Complete Edition",
-      "pageUrl": "https://pspkg.com/ps4/disney-pixar-toy-story-3-complete-edition-14100.html",
+      "title": "Mortal Kombat XL",
+      "pageUrl": "https://pspkg.com/ps4/mortal-kombat-xl-ps4-6456.html",
       "platform": "PS4",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/disney-pixar-toy-story-3-complete-edition.webp",
-      "description": "<strong style=\"color: #4B0082;\">Disney Pixar Toy Story 3 Complete Edition</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - Reopen the toy chest and saddle up as Woody, Buzz Lightyear, and Jes…",
+      "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%20XL.webp",
+      "description": "Download Mortal Kombat XL PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     }
   ]
 }
