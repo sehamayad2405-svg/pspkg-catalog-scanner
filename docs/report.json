@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T16:22:01.971003+00:00",
+  "generatedAt": "2026-11-03T14:32:13.233697+00:00",
   "pagesAttempted": 200,
   "detailPages": 70,
   "packagesWithLinks": 30,
@@ -14,6 +14,14 @@
   "errors": [
     {
       "url": "https://pspkg.com/arabic-games/download-ea-sports-fc-27-1-14006.html",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://pspkg.com/ps5/download-crimson-desert-deluxe-edition-13808.html",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://pspkg.com/ps4/download-ps1-to-ps4-collection-1-7555.html",
       "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
     }
   ]

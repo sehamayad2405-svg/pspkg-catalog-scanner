@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T16:22:01.971003+00:00",
+  "generatedAt": "2026-11-03T14:32:13.233697+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -33,7 +33,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/007-first-light.webp",
-      "description": "<strong style=\"color: #B22222;\">007 First Light - PS5 - قوائم وحوارات عربية</strong> - اكتشف قصة الأصل لأشهر جاسوس في العالم في لعبة أكشن ومغامرة تجسسية مثيرة من IO Interactive، الاستوديو الذي يقف خلف…",
+      "description": "<strong style=\"color: #B22222;\">007 First Light - PS5</strong> - Discover the origin story of the world's most famous spy in a thrilling espionage action-adventure from IO Interactive, the studio behi…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -72,7 +72,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/marvel-s-wolverine.webp",
-      "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game.\r\n\r\n<strong …",
+      "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5 - مدبلجة ومعربة بالكامل (صوت وقوائم وحوارات عربية)</strong> - انغمس في قصة أصلية قوية ومظلمة للبطل الخارق الأسطوري لوغان، في لعبة أكشن ومغامرة …",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -90,7 +90,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Control Resonant",
@@ -111,7 +111,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/mafia-the-old-country.webp",
-      "description": "<strong style=\"color: #B22222;\">Mafia: The Old Country - PS5</strong> - Uncover the origins of organized crime in a gritty mob story set in the brutal underworld of 1900s Sicily.\r\n\r\n<strong style=\"col…",
+      "description": "<strong style=\"color: #B22222;\">Mafia: The Old Country - PS5 - قوائم وحوارات عربية</strong> - اكشف أصول الجريمة المنظمة في حكاية مافيا قاسية تدور في العالم السفلي الوحشي لصقلية في مطلع القرن العشرين.\r…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -155,7 +155,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Mortal Shell 2 Deluxe Edition",
@@ -181,7 +181,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Valor Mortis",
@@ -194,7 +194,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "The First Berserker: Khazan",
@@ -404,7 +404,7 @@
       "description": "Change your profile picture easier than ever",
       "downloadLinks": [
         {
-          "name": "تحميل",
+          "name": "Download",
           "url": "https://pkg-zone.com/download/ps5/LAPY20016/1.00"
         }
       ],
@@ -653,7 +653,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Crimson%20Desert%20Deluxe%20Edition-1.webp",
       "description": "Download Crimson Desert Deluxe Edition PS5 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Dying Light: The Beast",
@@ -673,7 +673,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops-ii.webp",
       "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops II - PS5</strong> - Pushing the boundaries of the franchise, this iconic shooter propels players into a near-future, 21st-century Cold War where…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Call of Duty: Black Ops",
@@ -723,7 +723,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/the-blood-of-dawnwalker.webp",
       "description": "<strong style=\"color: #228B22;\">The Blood of Dawnwalker - PS5</strong> - Embark on a dark fantasy journey in 14th-century Europe, where vampires seize a moment of weakness to emerge from the shadows a…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Silent Hill: Townfall Deluxe Edition",
@@ -733,7 +733,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/silent-hill-townfall.webp",
       "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "eFootball 2027",
@@ -741,7 +741,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/efootball-2027.webp",
-      "description": "<strong style=\"color: #DC143C;\">eFootball 2027 - PS5 - &#1602;&#1608;&#1575;&#1574;&#1605; &#1608;&#1578;&#1593;&#1604;&#1610;&#1602; &#1593;&#1585;&#1576;&#1610; - &#1575;&#1606;&#1586;&#1604; &#1573;&#1604;&#1609; &#1571;&#1585;&#1590; &#1575;&#1604;&#1605;&#1604;&#1593;&#1576; &#1604;&#1593;&#1610;&#1588; &#1571;&#1603;&#1579;&#1585; &#1578;&#1580;&#1575;&#1585;&#1576; &#1603;&#1585;&#1577; &#1575;&#1604;&#1602;&#1583;&#1605; &#1571;&#1589;&#1575;&#1604;&#1577; &#1581;&#1578;&#1609; &#1575;&#1604;&#1570;&#1606;&#1548; &#1581;&#1610;&#1579; &#1578;&#1588;&#1593;&#1585; &#1576;&#1571;&#1606; &#1603;&#1604; &#1578;&#1605;&#1585;&#1610;&#1585;&#1577; &#1608;&#1593;&#1585;&#1602;&#1604;&#1577; &#1608;&#1578;&#1587;&#1583;&#1610;&#1583;&#1577; &#1578;&#1593;&#1603;&#1587; &#1580;&#1605;&#1575;&#1604; &#1575;&#1604;&#1604;&#1593;&#1576;&#1577;&hellip;",
+      "description": "<strong style=\"color: #DC143C;\">eFootball 2027 - PS5</strong> - Step onto the pitch for the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -811,7 +811,7 @@
       "platform": "PS4",
       "titleId": "CUSA00411",
       "posterUrl": "https://img.pspkg.com/ps4/image/6945d4b6d1eb4.webp",
-      "description": "<strong style=\"color: #DAA520;\">Grand Theft Auto V (GTA V) on PS4 - Dive into the sprawling open world of Los Santos and Blaine County in an unparalleled experience that blends thrilling narr&hellip;",
+      "description": "<strong style=\"color: #DAA520;\">Grand Theft Auto V (GTA V) on PS4</strong> - Dive into the sprawling open world of Los Santos and Blaine County in an unparalleled experience that blends thrilling narr…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -831,7 +831,7 @@
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/6a9690b586dac.webp",
-      "description": "<strong style=\"color: #DC143C;\">eFootball 2021 &ndash; Monster Patch 27 (&#1602;&#1608;&#1575;&#1574;&#1605; &#1593;&#1585;&#1576;&#1610;&#1577;&#1548; &#1578;&#1593;&#1604;&#1610;&#1602; &#1593;&#1585;&#1576;&#1610;) - PS4 - &#1575;&#1606;&#1591;&#1604;&#1602; &#1601;&#1610; &#1578;&#1580;&#1585;&#1576;&#1577; &#1603;&#1585;&#1577; &#1575;&#1604;&#1602;&#1583;&#1605; &#1575;&#1604;&#1571;&#1603;&#1579;&#1585; &#1588;&#1605;&#1608;&#1604;&#1575;&#1611; &#1608;&#1578;&#1581;&#1583;&#1610;&#1579;&#1575;&#1611; &#1605;&#1593; &#1573;&#1589;&#1583;&#1575;&#1585; Monster Patch &#1575;&#1604;&#1571;&#1587;&#1591;&#1608;&#1585;&#1610;&#1548; &#1575;&#1604;&#1584;&#1610; &#1610;&#1581;&#1608;&#1604;&hellip;",
+      "description": "<strong style=\"color: #DC143C;\">eFootball PES 2021 – Monster Patch 27 (Arabic Menus & Commentary) - PS4</strong> - Dive into the most comprehensive and up-to-date football experience with the legendar…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -851,7 +851,7 @@
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/EA%20SPORTS%20FC%2026.webp",
-      "description": "EA SPORTS FC 26 delivers a next-generation football experience that redefines realism, tactics, and emotion on the pitch. The game elevates gameplay, graphics, and content to give players a true sensa…",
+      "description": "EA SPORTS FC 26 delivers a next-generation football experience that redefines realism, tactics, and emotion on the pitch. The game elevates gameplay, graphics, and content to give players a true sensa&hellip;",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -861,9 +861,9 @@
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/69ef9c4b38a21.webp",
-      "description": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n <meta charset=\"UTF-8\">\r\n <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n <title>PS1 to PS4 Collection - Game Description</…",
+      "description": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n <meta charset=\"UTF-8\">\r\n <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n <title>PS1 to PS4 Collection - Game Description</&hellip;",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Cyberpunk 2077",
@@ -913,7 +913,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%20XL.webp",
       "description": "Download Mortal Kombat XL PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     }
   ]
 }
