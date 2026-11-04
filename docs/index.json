@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T14:32:13.233697+00:00",
+  "generatedAt": "2026-11-04T14:46:19.796030+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -12,7 +12,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "EA Sports FC 27",
@@ -25,7 +25,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "007 First Light",
@@ -46,7 +46,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/6aacfa3c99de4.webp",
-      "description": "<strong style=\"color: #B22222;\">Black Myth: Wukong - PS5 - قوائم وحوارات عربية (تعريب غير رسمي)</strong> - انطلق في رحلة أكشن وRPG مبهرة مستوحاة من الأساطير الصينية، حيث تلعب دور «المقدّر» لكشف الحقيق…",
+      "description": "<strong style=\"color: #B22222;\">Black Myth: Wukong - PS5</strong> - Embark on a breathtaking action RPG journey rooted in Chinese mythology, where you take on the role of the Destined One to uncover t…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -72,7 +72,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/marvel-s-wolverine.webp",
-      "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5 - مدبلجة ومعربة بالكامل (صوت وقوائم وحوارات عربية)</strong> - انغمس في قصة أصلية قوية ومظلمة للبطل الخارق الأسطوري لوغان، في لعبة أكشن ومغامرة …",
+      "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game.\r\n\r\n<strong …",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -85,7 +85,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/split-fiction.webp",
-      "description": "<strong style=\"color: #4B0082;\">Split Fiction - PS5</strong> - Jump into a mind-blowing co-op adventure where two writers are trapped inside their own stories, and only teamwork can set them free.\r\n\r\n…",
+      "description": "<strong style=\"color: #4B0082;\">Split Fiction - PS5 - قوائم وحوارات عربية</strong> - انطلق في مغامرة تعاونية مبهرة حيث تعلق كاتبتان داخل قصصهما الخاصة، ولا يمكن إنقاذهما إلا بالعمل الجماعي.\r\n\r\n<strong…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -98,20 +98,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/control-resonant.webp",
-      "description": "<strong style=\"color: #B22222;\">Control Resonant - PS5</strong> - Step into a twisted version of Manhattan on the brink of a supernatural apocalypse, in the action-packed RPG sequel to the award-winni…",
-      "downloadLinks": [],
-      "tags": [
-        "Arabic"
-      ],
-      "status": "no_public_download_link"
-    },
-    {
-      "title": "Mafia: The Old Country",
-      "pageUrl": "https://pspkg.com/arabic-games/mafia-the-old-country-13745.html",
-      "platform": "PS5",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/arabic-games/image/mafia-the-old-country.webp",
-      "description": "<strong style=\"color: #B22222;\">Mafia: The Old Country - PS5 - قوائم وحوارات عربية</strong> - اكشف أصول الجريمة المنظمة في حكاية مافيا قاسية تدور في العالم السفلي الوحشي لصقلية في مطلع القرن العشرين.\r…",
+      "description": "<strong style=\"color: #B22222;\">Control Resonant - PS5 - قوائم وحوارات عربية</strong> - انغمس في نسخة ملتوية من مانهاتن على حافة فناء خارق للطبيعة، في الجزء المكمل المليء بالأكشن والمغامرة للعبة CONTR…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -119,17 +106,30 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Metal Gear Solid Δ: Snake Eater",
-      "pageUrl": "https://pspkg.com/arabic-games/metal-gear-solid-snake-eater-13757.html",
+      "title": "Mafia: The Old Country",
+      "pageUrl": "https://pspkg.com/arabic-games/mafia-the-old-country-13745.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/arabic-games/image/metal-gear-solid-snake-eater.webp",
-      "description": "<strong style=\"color: #B22222;\">Metal Gear Solid Δ: Snake Eater - PS5</strong> - Relive the origins of the legendary soldier in a faithful remake of the 2004 classic, where survival and stealth are yo…",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/mafia-the-old-country.webp",
+      "description": "<strong style=\"color: #B22222;\">Mafia: The Old Country - PS5</strong> - Uncover the origins of organized crime in a gritty mob story set in the brutal underworld of 1900s Sicily.\r\n\r\n<strong style=\"col…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Silent Hill: Townfall",
+      "pageUrl": "https://pspkg.com/arabic-games/silent-hill-townfall-14041.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/silent-hill-townfall.webp",
+      "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
     },
     {
       "title": "Hellblade: Senua's Sacrifice",
@@ -137,7 +137,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/hellblade-senua-s-sacrifice.webp",
-      "description": "<strong style=\"color: #8B0000;\">Hellblade: Senua's Sacrifice - PS5</strong> - Step into the shattered mind of a Celtic warrior on a haunting vision quest into Viking Hell to fight for the soul of her …",
+      "description": "<strong style=\"color: #8B0000;\">Hellblade: Senua's Sacrifice - PS5 - قوائم وحوارات عربية</strong> - انغمس في عقل محاربة كلتية محطم في رحلة رؤيوية مسكونة إلى جحيم الفايكنغ للقتال من أجل روح حبيبها المي…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -163,12 +163,12 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/mortal-shell-2-deluxe-edition.webp",
-      "description": "<strong style=\"color: #228B22;\">Mortal Shell II - PS5 - قوائم وحوارات عربية (تعريب غير رسمي)</strong> - عُد إلى عالم مظلم وممزق بشخصية \"الهاربينجر\"، وتمكّن من أجساد محاربين ساقطين لتستخدم قواهم وأسالي…",
+      "description": "<strong style=\"color: #228B22;\">Mortal Shell II - PS5</strong> - Return to a dark, shattered world as the Harbinger, possessing the bodies of fallen warriors to wield their unique powers and fighting …",
       "downloadLinks": [],
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Darwin's Paradox",
@@ -202,7 +202,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/the-first-berserker-khazan.webp",
-      "description": "<strong style=\"color: #228B22;\">The First Berserker: Khazan - PS5</strong> - Embark on an epic tale of revenge in the world of Arad, playing as the great general Khazan who is falsely accused of treas…",
+      "description": "<strong style=\"color: #228B22;\">The First Berserker: Khazan - PS5 - قوائم وحوارات عربية</strong> - انطلق في رحلة انتقام ملحمية في عالم أراد، حيث تلعب دور القائد العظيم خازان الذي اتُهم ظلمًا بالخيانة …",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -215,7 +215,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/halo-campaign-evolved-premium-edition.webp",
-      "description": "<strong style=\"color: #B22222;\">Halo: Campaign Evolved Premium Edition - PS5 - قوائم وحوارات عربية</strong> - عُد إلى الحلقة التي بدأت كل شيء في إعادة إنتاج وفية ولكن حديثة لحملة Halo: Combat Evolved …",
+      "description": "<strong style=\"color: #B22222;\">Halo: Campaign Evolved Premium Edition - PS5</strong> - Return to the ring that started it all in a faithful yet modernized remake of Halo: Combat Evolved's legendary c…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -267,7 +267,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/forspoken.webp",
-      "description": "<strong style=\"color: #B22222;\">Forspoken - PS5 - قوائم وحوارات عربية</strong> - تابع رحلة فراي، الشابة من نيويورك التي نُقلت إلى أرض أثيا الجميلة والقاسية، حيث يجب عليها استخدام قدراتها السحرية المكت…",
+      "description": "<strong style=\"color: #B22222;\">Forspoken - PS5</strong> - Follow the journey of Frey, a young New Yorker transported to the beautiful and cruel land of Athia, where she must use newfound magical abil…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -280,7 +280,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/the-medium.webp",
-      "description": "<strong style=\"color: #8B0000;\">The Medium - PS5 - قوائم وحوارات عربية</strong> - انغمس في رعب نفسي مسكون حيث يتصادم الواقع مع عالم الأرواح، ولا يستطيع سوى وسيط كشف الحقيقة المخبأة بينهما.\r\n\r\n<strong …",
+      "description": "<strong style=\"color: #8B0000;\">The Medium - PS5</strong> - Step into a haunting psychological horror where reality and the spirit world collide, and only a medium can uncover the truth hidden between…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -298,7 +298,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "The Callisto Protocol",
@@ -358,7 +358,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/poppy-playtime-chapter-1.webp",
-      "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 1</strong> <strong style=\"color: #FFD900;\">- PS5</strong> - You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toy…",
+      "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 1</strong> <strong style=\"color: #FFD900;\">- PS5 - قوائم وحوارات عربية</strong> - عليك البقاء على قيد الحياة في مغامرة الرعب والألغاز هذه. حاول …",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -593,7 +593,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/ea-sports-fc-27.webp",
       "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5</strong> - Step into the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.\r\n\r\n<strong s…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "ASTRO BOT",
@@ -621,7 +621,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/Resident%20Evil%204%20Remake.webp",
-      "description": "<p><strong>Resident Evil 4</strong> is a reimagining of the survival-horror classic, with modernized gameplay, a renewed story, and vividly detailed graphics.</p>\r\n\r\n<p>Guide Leon S. Kennedy on a dang…",
+      "description": "<p><strong>Resident Evil 4 &#1607;&#1610; &#1573;&#1593;&#1575;&#1583;&#1577; &#1578;&#1589;&#1608;&#1585; &#1604;&#1604;&#1593;&#1576;&#1577; &#1575;&#1604;&#1585;&#1593;&#1576; &#1608;&#1575;&#1604;&#1576;&#1602;&#1575;&#1569; &#1575;&#1604;&#1603;&#1604;&#1575;&#1587;&#1610;&#1603;&#1610;&#1577;&#1548; &#1605;&#1593; &#1571;&#1587;&#1604;&#1608;&#1576; &#1604;&#1593;&#1576; &#1605;&#1591;&#1608;&#1617;&#1585; &#1608;&#1602;&#1589;&#1577; &#1605;&#1615;&#1593;&#1575;&#1583; &#1578;&#1602;&#1583;&#1610;&#1605;&#1607;&#1575; &#1608;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1594;&#1606;&#1610;&#1577; &#1576;&#1575;&#1604;&#1578;&#1601;&#1575;&#1589;&#1610;&#1604;.\r\n\r\n<p>&#1585;&#1575;&#1601;&#1602; &#1604;&#1610;&#1608;&#1606; &#1573;&#1587;. &#1603;&#1610;&#1606;&#1610;&#1583;&#1610; &#1601;&#1610; &#1605;&#1607;&#1605;&#1577; &#1582;&#1591;&#1610;&#1585;&#1577; &#1583;&#1575;&#1582;&#1604; &#1602;&#1585;&#1610;&#1577; &#1571;&hellip;",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -643,7 +643,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/elden-ring-1.webp",
       "description": "Prepare for an epic fantasy adventure in <strong style=\"color: #e74c3c;\">Elden Ring</strong>, an open-world <strong style=\"color: #e74c3c;\">action RPG</strong> developed by <strong style=\"color: #e74c…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Crimson Desert Deluxe Edition",
@@ -653,7 +653,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Crimson%20Desert%20Deluxe%20Edition-1.webp",
       "description": "Download Crimson Desert Deluxe Edition PS5 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Dying Light: The Beast",
@@ -731,9 +731,9 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/silent-hill-townfall.webp",
-      "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
+      "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5 - &#1580;&#1585;&#1601;&#1578;&#1603; &#1575;&#1604;&#1571;&#1605;&#1608;&#1575;&#1580; &#1573;&#1604;&#1609; &#1580;&#1586;&#1610;&#1585;&#1577; &#1587;&#1575;&#1606;&#1578; &#1571;&#1605;&#1610;&#1604;&#1610;&#1575; &#1575;&#1604;&#1605;&#1607;&#1580;&#1608;&#1585;&#1577; &#1608;&#1575;&#1604;&#1605;&#1594;&#1591;&#1575;&#1577; &#1576;&#1575;&#1604;&#1590;&#1576;&#1575;&#1576; &#1601;&#1610; &#1578;&#1580;&#1585;&#1576;&#1577; &#1585;&#1593;&#1576; &#1606;&#1601;&#1587;&#1610; &#1580;&#1583;&#1610;&#1583;&#1577; &#1603;&#1604;&#1610;&#1611;&#1575;&#1548; &#1578;&#1615;&#1604;&#1593;&#1576; &#1576;&#1575;&#1604;&#1603;&#1575;&#1605;&#1604; &#1605;&#1606; &#1605;&#1606;&#1592;&#1608;&#1585; &#1575;&#1604;&#1588;&#1582;&#1589; &#1575;&#1604;&#1571;&#1608;&#1604;.\r&hellip;",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "eFootball 2027",
@@ -753,7 +753,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac21cc48f5ca.webp",
       "description": "Download Call of Duty Modern Warfare 3 PS5 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Sonic Unleashed Recompiled",
@@ -763,7 +763,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac20d8822cbd.webp",
       "description": "<strong style=\"color: #DC143C;\">Sonic Unleashed Recompiled - PS5</strong> - Experience the high-speed adventure of Sonic Unleashed like never before in this fan-made recompilation, rebuilt for modern …",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Trails in the Sky 2nd Chapter",
@@ -793,7 +793,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/poppy-playtime-chapter-4.webp",
       "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 4 - PS5</strong> - Brace yourself for the darkest chapter yet in the epic Poppy Playtime saga, descending into the undiscovered depths of the Pl…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Poppy Playtime: Chapter 5",
@@ -821,9 +821,9 @@
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/ea-sports-fc-27.webp",
-      "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS4 - &#1602;&#1608;&#1575;&#1574;&#1605; &#1608;&#1581;&#1608;&#1575;&#1585;&#1575;&#1578; &#1593;&#1585;&#1576;&#1610;&#1577; - &#1575;&#1606;&#1586;&#1604; &#1573;&#1604;&#1609; &#1571;&#1585;&#1590; &#1575;&#1604;&#1605;&#1604;&#1593;&#1576; &#1604;&#1593;&#1610;&#1588; &#1571;&#1603;&#1579;&#1585; &#1578;&#1580;&#1575;&#1585;&#1576; &#1603;&#1585;&#1577; &#1575;&#1604;&#1602;&#1583;&#1605; &#1571;&#1589;&#1575;&#1604;&#1577; &#1581;&#1578;&#1609; &#1575;&#1604;&#1570;&#1606;&#1548; &#1581;&#1610;&#1579; &#1578;&#1588;&#1593;&#1585; &#1576;&#1571;&#1606; &#1603;&#1604; &#1578;&#1605;&#1585;&#1610;&#1585;&#1577; &#1608;&#1593;&#1585;&#1602;&#1604;&#1577; &#1608;&#1578;&#1587;&#1583;&#1610;&#1583;&#1577; &#1578;&#1593;&#1603;&#1587; &#1580;&#1605;&#1575;&#1604; &#1575;&#1604;&#1604;&hellip;",
+      "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS4</strong> - Step onto the pitch for the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "eFootball pes monster patch 27",
@@ -851,7 +851,7 @@
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/EA%20SPORTS%20FC%2026.webp",
-      "description": "EA SPORTS FC 26 delivers a next-generation football experience that redefines realism, tactics, and emotion on the pitch. The game elevates gameplay, graphics, and content to give players a true sensa&hellip;",
+      "description": "EA SPORTS FC 26 delivers a next-generation football experience that redefines realism, tactics, and emotion on the pitch. The game elevates gameplay, graphics, and content to give players a true sensa…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -861,9 +861,9 @@
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/69ef9c4b38a21.webp",
-      "description": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n <meta charset=\"UTF-8\">\r\n <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n <title>PS1 to PS4 Collection - Game Description</&hellip;",
+      "description": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n <meta charset=\"UTF-8\">\r\n <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n <title>PS1 to PS4 Collection - Game Description</…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Cyberpunk 2077",
@@ -883,7 +883,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
       "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "eFootball PES 2026 Monster Patch",
@@ -901,19 +901,19 @@
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/The_Crew_2.webp",
-      "description": "Get ready for <strong style=\"color: #e74c3c;\">America's greatest motorsports adventure with <strong style=\"color: #e74c3c;\">The Crew 2 - an open-world racing game that puts you in co&hellip;",
+      "description": "Get ready for <strong style=\"color: #e74c3c;\">America's greatest motorsports adventure</strong> with <strong style=\"color: #e74c3c;\">The Crew 2</strong> - an open-world racing game that puts you in co…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "Mortal Kombat XL",
-      "pageUrl": "https://pspkg.com/ps4/mortal-kombat-xl-ps4-6456.html",
+      "title": "InFamous Second Son",
+      "pageUrl": "https://pspkg.com/ps4/infamous-second-son-ps4-1620.html",
       "platform": "PS4",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%20XL.webp",
-      "description": "Download Mortal Kombat XL PS4 PKG for jailbreak.",
+      "posterUrl": "https://img.pspkg.com/ps4/image/InFamous%20Second%20Son.webp",
+      "description": "inFAMOUS Second Son is an open-world action-adventure game set in a stunningly detailed version of Seattle, where players step into the shoes of Delsin Rowe, a rebellious young man who discovers he po…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     }
   ]
 }
