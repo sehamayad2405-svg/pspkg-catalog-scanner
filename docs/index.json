@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T14:46:19.796030+00:00",
+  "generatedAt": "2026-11-05T14:51:52.991281+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -25,7 +25,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "007 First Light",
@@ -233,7 +233,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Senua's Saga: Hellblade II",
@@ -636,22 +636,22 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Elden Ring",
-      "pageUrl": "https://pspkg.com/ps5/elden-ring-1-7577.html",
-      "platform": "PS5",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/elden-ring-1.webp",
-      "description": "Prepare for an epic fantasy adventure in <strong style=\"color: #e74c3c;\">Elden Ring</strong>, an open-world <strong style=\"color: #e74c3c;\">action RPG</strong> developed by <strong style=\"color: #e74c…",
-      "downloadLinks": [],
-      "status": "no_public_download_link"
-    },
-    {
       "title": "Crimson Desert Deluxe Edition",
       "pageUrl": "https://pspkg.com/ps5/crimson-desert-deluxe-edition-13808.html",
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/Crimson%20Desert%20Deluxe%20Edition-1.webp",
       "description": "Download Crimson Desert Deluxe Edition PS5 PKG for jailbreak.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Elden Ring",
+      "pageUrl": "https://pspkg.com/ps5/elden-ring-1-7577.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/elden-ring-1.webp",
+      "description": "Prepare for an epic fantasy adventure in <strong style=\"color: #e74c3c;\">Elden Ring</strong>, an open-world <strong style=\"color: #e74c3c;\">action RPG</strong> developed by <strong style=\"color: #e74c…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -693,7 +693,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/alfred-hitchcock-vertigo.webp",
       "description": "<strong style=\"color: #4B0082;\">Alfred Hitchcock - Vertigo - PS5</strong> - Dive into a new kind of psychological thriller freely inspired by the cinematic masterpiece, where you walk a thin line betw…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Broken Sword - Shadow of the Templars: Reforged",
@@ -763,7 +763,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac20d8822cbd.webp",
       "description": "<strong style=\"color: #DC143C;\">Sonic Unleashed Recompiled - PS5</strong> - Experience the high-speed adventure of Sonic Unleashed like never before in this fan-made recompilation, rebuilt for modern …",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Trails in the Sky 2nd Chapter",
@@ -833,7 +833,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/6a9690b586dac.webp",
       "description": "<strong style=\"color: #DC143C;\">eFootball PES 2021 – Monster Patch 27 (Arabic Menus & Commentary) - PS4</strong> - Dive into the most comprehensive and up-to-date football experience with the legendar…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Minecraft PlayStation 4 Edition",
@@ -843,7 +843,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/693aff0e87505.jpg",
       "description": "Unleash your imagination and build your own reality with <strong style=\"color: #e74c3c;\">Minecraft: PlayStation 4 Edition</strong> - the global phenomenon that lets you <strong style=\"color: #e74c3c;\"…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "EA SPORTS FC 26",
@@ -913,7 +913,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/InFamous%20Second%20Son.webp",
       "description": "inFAMOUS Second Son is an open-world action-adventure game set in a stunningly detailed version of Seattle, where players step into the shoes of Delsin Rowe, a rebellious young man who discovers he po…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     }
   ]
 }
