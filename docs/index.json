@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T14:51:52.991281+00:00",
+  "generatedAt": "2026-11-06T14:29:50.742931+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -12,7 +12,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "EA Sports FC 27",
@@ -25,7 +25,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "007 First Light",
@@ -38,7 +38,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Black Myth Wukong",
@@ -272,7 +272,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "The Medium",
@@ -285,7 +285,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Tropico 6",
@@ -324,7 +324,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "The Last Faith",
@@ -576,22 +576,22 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Black Myth: Wukong",
-      "pageUrl": "https://pspkg.com/ps5/black-myth-wukong-ps5-6899.html",
-      "platform": "PS5",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/Black%20Myth_%20Wukong.webp",
-      "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure</strong> in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</…",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
       "title": "EA Sports FC 27",
       "pageUrl": "https://pspkg.com/ps5/ea-sports-fc-27-14007.html",
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/ea-sports-fc-27.webp",
       "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5</strong> - Step into the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.\r\n\r\n<strong s…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "pageUrl": "https://pspkg.com/ps5/black-myth-wukong-ps5-6899.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Black%20Myth_%20Wukong.webp",
+      "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure</strong> in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -613,7 +613,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/007-first-light.webp",
       "description": "<strong style=\"color: #B22222;\">007 First Light - PS5</strong> - Discover the origin story of the world's most famous spy in a thrilling espionage action-adventure from IO Interactive, the studio behi…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Resident Evil 4 Remake",
@@ -663,7 +663,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/dying-light-the-beast.webp",
       "description": "<strong style=\"color: #8B0000;\">Dying Light: The Beast - PS5</strong> - Embrace your monstrous abilities and fight for freedom in a fallen world, as Kyle Crane returns in a brutal standalone survival …",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Call of Duty: Black Ops II",
@@ -793,7 +793,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/poppy-playtime-chapter-4.webp",
       "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 4 - PS5</strong> - Brace yourself for the darkest chapter yet in the epic Poppy Playtime saga, descending into the undiscovered depths of the Pl…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Poppy Playtime: Chapter 5",
@@ -813,7 +813,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/6945d4b6d1eb4.webp",
       "description": "<strong style=\"color: #DAA520;\">Grand Theft Auto V (GTA V) on PS4</strong> - Dive into the sprawling open world of Los Santos and Blaine County in an unparalleled experience that blends thrilling narr…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "EA Sports FC 27",
@@ -833,7 +833,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/6a9690b586dac.webp",
       "description": "<strong style=\"color: #DC143C;\">eFootball PES 2021 – Monster Patch 27 (Arabic Menus & Commentary) - PS4</strong> - Dive into the most comprehensive and up-to-date football experience with the legendar…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Minecraft PlayStation 4 Edition",
@@ -883,7 +883,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
       "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "eFootball PES 2026 Monster Patch",
@@ -903,17 +903,17 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/The_Crew_2.webp",
       "description": "Get ready for <strong style=\"color: #e74c3c;\">America's greatest motorsports adventure</strong> with <strong style=\"color: #e74c3c;\">The Crew 2</strong> - an open-world racing game that puts you in co…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
-      "title": "InFamous Second Son",
-      "pageUrl": "https://pspkg.com/ps4/infamous-second-son-ps4-1620.html",
+      "title": "Dante's Inferno",
+      "pageUrl": "https://pspkg.com/ps4/dante-s-inferno-14111.html",
       "platform": "PS4",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/InFamous%20Second%20Son.webp",
-      "description": "inFAMOUS Second Son is an open-world action-adventure game set in a stunningly detailed version of Seattle, where players step into the shoes of Delsin Rowe, a rebellious young man who discovers he po…",
+      "posterUrl": "https://img.pspkg.com/ps4/image/dante-s-inferno.webp",
+      "description": "<strong style=\"color: #B22222;\">Dante's Inferno - PS4</strong> - Descend into an epic journey through the nine circles of Hell, where Dante, a crusader, wages a bloody battle to rescue his beloved Bea…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     }
   ]
 }
