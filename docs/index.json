@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T14:29:50.742931+00:00",
+  "generatedAt": "2026-11-07T13:21:49.827660+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -25,7 +25,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "007 First Light",
@@ -106,12 +106,12 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Mafia: The Old Country",
-      "pageUrl": "https://pspkg.com/arabic-games/mafia-the-old-country-13745.html",
+      "title": "Silent Hill: Townfall",
+      "pageUrl": "https://pspkg.com/arabic-games/silent-hill-townfall-14041.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/arabic-games/image/mafia-the-old-country.webp",
-      "description": "<strong style=\"color: #B22222;\">Mafia: The Old Country - PS5</strong> - Uncover the origins of organized crime in a gritty mob story set in the brutal underworld of 1900s Sicily.\r\n\r\n<strong style=\"col…",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/silent-hill-townfall.webp",
+      "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -119,12 +119,12 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Silent Hill: Townfall",
-      "pageUrl": "https://pspkg.com/arabic-games/silent-hill-townfall-14041.html",
+      "title": "Mafia: The Old Country",
+      "pageUrl": "https://pspkg.com/arabic-games/mafia-the-old-country-13745.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/arabic-games/image/silent-hill-townfall.webp",
-      "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/mafia-the-old-country.webp",
+      "description": "<strong style=\"color: #B22222;\">Mafia: The Old Country - PS5</strong> - Uncover the origins of organized crime in a gritty mob story set in the brutal underworld of 1900s Sicily.\r\n\r\n<strong style=\"col…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -155,7 +155,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Mortal Shell 2 Deluxe Edition",
@@ -168,7 +168,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Darwin's Paradox",
@@ -181,7 +181,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Valor Mortis",
@@ -324,7 +324,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "The Last Faith",
@@ -613,7 +613,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/007-first-light.webp",
       "description": "<strong style=\"color: #B22222;\">007 First Light - PS5</strong> - Discover the origin story of the world's most famous spy in a thrilling espionage action-adventure from IO Interactive, the studio behi…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Resident Evil 4 Remake",
@@ -663,7 +663,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/dying-light-the-beast.webp",
       "description": "<strong style=\"color: #8B0000;\">Dying Light: The Beast - PS5</strong> - Embrace your monstrous abilities and fight for freedom in a fallen world, as Kyle Crane returns in a brutal standalone survival …",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Call of Duty: Black Ops II",
@@ -743,7 +743,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/efootball-2027.webp",
       "description": "<strong style=\"color: #DC143C;\">eFootball 2027 - PS5</strong> - Step onto the pitch for the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Call of Duty Modern Warfare 3",
@@ -833,7 +833,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/6a9690b586dac.webp",
       "description": "<strong style=\"color: #DC143C;\">eFootball PES 2021 – Monster Patch 27 (Arabic Menus & Commentary) - PS4</strong> - Dive into the most comprehensive and up-to-date football experience with the legendar…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Minecraft PlayStation 4 Edition",
@@ -883,7 +883,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
       "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "eFootball PES 2026 Monster Patch",
@@ -896,14 +896,14 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "The Crew 2 (Offline)",
-      "pageUrl": "https://pspkg.com/ps4/the-crew-2-offline-ps4-6655.html",
+      "title": "Ghost of Tsushima Directors Cut",
+      "pageUrl": "https://pspkg.com/ps4/ghost-of-tsushima-directors-cut-ps4-6636.html",
       "platform": "PS4",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/The_Crew_2.webp",
-      "description": "Get ready for <strong style=\"color: #e74c3c;\">America's greatest motorsports adventure</strong> with <strong style=\"color: #e74c3c;\">The Crew 2</strong> - an open-world racing game that puts you in co…",
+      "posterUrl": "https://img.pspkg.com/ps4/image/Ghost%20of%20Tsushima%20Directors%20Cut.webp",
+      "description": "Embark on an <strong style=\"color: #e74c3c;\">epic samurai journey</strong> across feudal Japan with <strong style=\"color: #e74c3c;\">Ghost of Tsushima</strong> - an award-winning <strong style=\"color: …",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Dante's Inferno",
