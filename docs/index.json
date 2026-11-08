@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:21:49.827660+00:00",
+  "generatedAt": "2026-11-08T13:42:35.470897+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -12,7 +12,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "EA Sports FC 27",
@@ -25,7 +25,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "007 First Light",
@@ -168,7 +168,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Darwin's Paradox",
@@ -233,7 +233,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Senua's Saga: Hellblade II",
@@ -693,7 +693,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/alfred-hitchcock-vertigo.webp",
       "description": "<strong style=\"color: #4B0082;\">Alfred Hitchcock - Vertigo - PS5</strong> - Dive into a new kind of psychological thriller freely inspired by the cinematic masterpiece, where you walk a thin line betw…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Broken Sword - Shadow of the Templars: Reforged",
@@ -853,7 +853,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/EA%20SPORTS%20FC%2026.webp",
       "description": "EA SPORTS FC 26 delivers a next-generation football experience that redefines realism, tactics, and emotion on the pitch. The game elevates gameplay, graphics, and content to give players a true sensa…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Ps2 to ps4 collection",
@@ -883,16 +883,6 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
       "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
-    },
-    {
-      "title": "eFootball PES 2026 Monster Patch",
-      "pageUrl": "https://pspkg.com/ps4/efootball-pes-2026-monster-patch-ps4-6010.html",
-      "platform": "PS4",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/69530451c4902.webp",
-      "description": "Download eFootball PES 2026 Monster Patch PS4 PKG for jailbreak.",
-      "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
@@ -902,6 +892,16 @@
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/Ghost%20of%20Tsushima%20Directors%20Cut.webp",
       "description": "Embark on an <strong style=\"color: #e74c3c;\">epic samurai journey</strong> across feudal Japan with <strong style=\"color: #e74c3c;\">Ghost of Tsushima</strong> - an award-winning <strong style=\"color: …",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "eFootball PES 2026 Monster Patch",
+      "pageUrl": "https://pspkg.com/ps4/efootball-pes-2026-monster-patch-ps4-6010.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/69530451c4902.webp",
+      "description": "Download eFootball PES 2026 Monster Patch PS4 PKG for jailbreak.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
