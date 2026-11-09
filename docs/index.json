@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:42:35.470897+00:00",
+  "generatedAt": "2026-11-09T16:42:17.065473+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -38,7 +38,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Black Myth Wukong",
@@ -116,7 +116,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Mafia: The Old Country",
@@ -272,7 +272,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "The Medium",
@@ -324,7 +324,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "The Last Faith",
@@ -350,7 +350,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Poppy Playtime: Chapter 1",
@@ -556,22 +556,22 @@
       "status": "links_found"
     },
     {
-      "title": "Ghost of Yōtei",
-      "pageUrl": "https://pspkg.com/ps5/ghost-of-yotei-7535.html",
-      "platform": "PS5",
-      "titleId": "PPSA26344",
-      "posterUrl": "https://img.pspkg.com/ps5/image/Ghost%20of%20Yotei%20PS5.webp",
-      "description": "Embark on a revenge-driven adventure through northern Japan in <strong style=\"color: #e74c3c;\">Ghost of Yōtei</strong>, a standalone <strong style=\"color: #e74c3c;\">action-adventure</strong> created b…",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
       "title": "Marvel's Wolverine",
       "pageUrl": "https://pspkg.com/ps5/marvel-s-wolverine-13997.html",
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/marvel-s-wolverine.webp",
       "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game from Insomni…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Ghost of Yōtei",
+      "pageUrl": "https://pspkg.com/ps5/ghost-of-yotei-7535.html",
+      "platform": "PS5",
+      "titleId": "PPSA26344",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Ghost%20of%20Yotei%20PS5.webp",
+      "description": "Embark on a revenge-driven adventure through northern Japan in <strong style=\"color: #e74c3c;\">Ghost of Yōtei</strong>, a standalone <strong style=\"color: #e74c3c;\">action-adventure</strong> created b…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -593,7 +593,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Black%20Myth_%20Wukong.webp",
       "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure</strong> in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "ASTRO BOT",
@@ -613,7 +613,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/007-first-light.webp",
       "description": "<strong style=\"color: #B22222;\">007 First Light - PS5</strong> - Discover the origin story of the world's most famous spy in a thrilling espionage action-adventure from IO Interactive, the studio behi…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Resident Evil 4 Remake",
@@ -653,7 +653,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/elden-ring-1.webp",
       "description": "Prepare for an epic fantasy adventure in <strong style=\"color: #e74c3c;\">Elden Ring</strong>, an open-world <strong style=\"color: #e74c3c;\">action RPG</strong> developed by <strong style=\"color: #e74c…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Dying Light: The Beast",
@@ -753,7 +753,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac21cc48f5ca.webp",
       "description": "Download Call of Duty Modern Warfare 3 PS5 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Sonic Unleashed Recompiled",
@@ -763,7 +763,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac20d8822cbd.webp",
       "description": "<strong style=\"color: #DC143C;\">Sonic Unleashed Recompiled - PS5</strong> - Experience the high-speed adventure of Sonic Unleashed like never before in this fan-made recompilation, rebuilt for modern …",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Trails in the Sky 2nd Chapter",
@@ -853,7 +853,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/EA%20SPORTS%20FC%2026.webp",
       "description": "EA SPORTS FC 26 delivers a next-generation football experience that redefines realism, tactics, and emotion on the pitch. The game elevates gameplay, graphics, and content to give players a true sensa…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Ps2 to ps4 collection",
@@ -866,16 +866,6 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Cyberpunk 2077",
-      "pageUrl": "https://pspkg.com/ps4/cyberpunk-2077-ps4-6635.html",
-      "platform": "PS4",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/Cyberpunk%202077.webp",
-      "description": "Download Cyberpunk 2077 PS4 PKG for jailbreak.",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
       "title": "Mortal Kombat 11 Ultimate",
       "pageUrl": "https://pspkg.com/ps4/mortal-kombat-11-ultimate-ps4-6533.html",
       "platform": "PS4",
@@ -884,6 +874,16 @@
       "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
       "downloadLinks": [],
       "status": "manual_verification_required"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "pageUrl": "https://pspkg.com/ps4/cyberpunk-2077-ps4-6635.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/Cyberpunk%202077.webp",
+      "description": "Download Cyberpunk 2077 PS4 PKG for jailbreak.",
+      "downloadLinks": [],
+      "status": "no_public_download_link"
     },
     {
       "title": "Ghost of Tsushima Directors Cut",
@@ -913,7 +913,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/dante-s-inferno.webp",
       "description": "<strong style=\"color: #B22222;\">Dante's Inferno - PS4</strong> - Descend into an epic journey through the nine circles of Hell, where Dante, a crusader, wages a bloody battle to rescue his beloved Bea…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     }
   ]
 }
