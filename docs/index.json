@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T16:42:17.065473+00:00",
+  "generatedAt": "2026-11-10T15:06:38.731584+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -12,7 +12,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "EA Sports FC 27",
@@ -38,7 +38,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Black Myth Wukong",
@@ -51,7 +51,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Resident Evil Requiem",
@@ -93,6 +93,19 @@
       "status": "manual_verification_required"
     },
     {
+      "title": "Silent Hill: Townfall",
+      "pageUrl": "https://pspkg.com/arabic-games/silent-hill-townfall-14041.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/silent-hill-townfall.webp",
+      "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
+      "downloadLinks": [],
+      "tags": [
+        "Arabic"
+      ],
+      "status": "manual_verification_required"
+    },
+    {
       "title": "Control Resonant",
       "pageUrl": "https://pspkg.com/arabic-games/control-resonant-14078.html",
       "platform": "PS5",
@@ -104,19 +117,6 @@
         "Arabic"
       ],
       "status": "manual_verification_required"
-    },
-    {
-      "title": "Silent Hill: Townfall",
-      "pageUrl": "https://pspkg.com/arabic-games/silent-hill-townfall-14041.html",
-      "platform": "PS5",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/arabic-games/image/silent-hill-townfall.webp",
-      "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
-      "downloadLinks": [],
-      "tags": [
-        "Arabic"
-      ],
-      "status": "no_public_download_link"
     },
     {
       "title": "Mafia: The Old Country",
@@ -181,7 +181,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Valor Mortis",
@@ -233,7 +233,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Senua's Saga: Hellblade II",
@@ -350,7 +350,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Poppy Playtime: Chapter 1",
@@ -593,7 +593,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Black%20Myth_%20Wukong.webp",
       "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure</strong> in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "ASTRO BOT",
@@ -613,7 +613,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/007-first-light.webp",
       "description": "<strong style=\"color: #B22222;\">007 First Light - PS5</strong> - Discover the origin story of the world's most famous spy in a thrilling espionage action-adventure from IO Interactive, the studio behi…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Resident Evil 4 Remake",
@@ -653,7 +653,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/elden-ring-1.webp",
       "description": "Prepare for an epic fantasy adventure in <strong style=\"color: #e74c3c;\">Elden Ring</strong>, an open-world <strong style=\"color: #e74c3c;\">action RPG</strong> developed by <strong style=\"color: #e74c…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Dying Light: The Beast",
@@ -693,7 +693,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/alfred-hitchcock-vertigo.webp",
       "description": "<strong style=\"color: #4B0082;\">Alfred Hitchcock - Vertigo - PS5</strong> - Dive into a new kind of psychological thriller freely inspired by the cinematic masterpiece, where you walk a thin line betw…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Broken Sword - Shadow of the Templars: Reforged",
@@ -743,7 +743,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/efootball-2027.webp",
       "description": "<strong style=\"color: #DC143C;\">eFootball 2027 - PS5</strong> - Step onto the pitch for the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Call of Duty Modern Warfare 3",
@@ -763,7 +763,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac20d8822cbd.webp",
       "description": "<strong style=\"color: #DC143C;\">Sonic Unleashed Recompiled - PS5</strong> - Experience the high-speed adventure of Sonic Unleashed like never before in this fan-made recompilation, rebuilt for modern …",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Trails in the Sky 2nd Chapter",
@@ -793,7 +793,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/poppy-playtime-chapter-4.webp",
       "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 4 - PS5</strong> - Brace yourself for the darkest chapter yet in the epic Poppy Playtime saga, descending into the undiscovered depths of the Pl…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Poppy Playtime: Chapter 5",
@@ -863,7 +863,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/69ef9c4b38a21.webp",
       "description": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n <meta charset=\"UTF-8\">\r\n <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n <title>PS1 to PS4 Collection - Game Description</…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Mortal Kombat 11 Ultimate",
@@ -873,7 +873,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
       "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Cyberpunk 2077",
@@ -883,7 +883,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Cyberpunk%202077.webp",
       "description": "Download Cyberpunk 2077 PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Ghost of Tsushima Directors Cut",
@@ -906,14 +906,14 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Dante's Inferno",
-      "pageUrl": "https://pspkg.com/ps4/dante-s-inferno-14111.html",
+      "title": "Max Payne 3",
+      "pageUrl": "https://pspkg.com/ps4/max-payne-3-14114.html",
       "platform": "PS4",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/dante-s-inferno.webp",
-      "description": "<strong style=\"color: #B22222;\">Dante's Inferno - PS4</strong> - Descend into an epic journey through the nine circles of Hell, where Dante, a crusader, wages a bloody battle to rescue his beloved Bea…",
+      "posterUrl": "https://img.pspkg.com/ps4/image/max-payne-3.webp",
+      "description": "<strong style=\"color: #B22222;\">Max Payne 3</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - A gripping, cinematic third-person shooter that follows a broken man's descent into the criminal u…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     }
   ]
 }
