@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T14:37:30.700093+00:00",
+  "generatedAt": "2026-11-12T15:29:58.487316+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -77,7 +77,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Split Fiction",
@@ -155,7 +155,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Mortal Shell 2 Deluxe Edition",
@@ -233,7 +233,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Senua's Saga: Hellblade II",
@@ -259,7 +259,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Forspoken",
@@ -285,7 +285,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Tropico 6",
@@ -563,7 +563,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/marvel-s-wolverine.webp",
       "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game from Insomni…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Ghost of Yōtei",
@@ -583,7 +583,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/ea-sports-fc-27.webp",
       "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5</strong> - Step into the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.\r\n\r\n<strong s…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Black Myth: Wukong",
@@ -663,7 +663,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/dying-light-the-beast.webp",
       "description": "<strong style=\"color: #8B0000;\">Dying Light: The Beast - PS5</strong> - Embrace your monstrous abilities and fight for freedom in a fallen world, as Kyle Crane returns in a brutal standalone survival …",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Call of Duty: Black Ops II",
@@ -673,7 +673,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops-ii.webp",
       "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops II - PS5</strong> - Pushing the boundaries of the franchise, this iconic shooter propels players into a near-future, 21st-century Cold War where…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Call of Duty: Black Ops",
@@ -723,7 +723,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/the-blood-of-dawnwalker.webp",
       "description": "<strong style=\"color: #228B22;\">The Blood of Dawnwalker - PS5</strong> - Embark on a dark fantasy journey in 14th-century Europe, where vampires seize a moment of weakness to emerge from the shadows a…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Silent Hill: Townfall Deluxe Edition",
@@ -793,7 +793,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/poppy-playtime-chapter-4.webp",
       "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 4 - PS5</strong> - Brace yourself for the darkest chapter yet in the epic Poppy Playtime saga, descending into the undiscovered depths of the Pl…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Poppy Playtime: Chapter 5",
@@ -863,7 +863,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/69ef9c4b38a21.webp",
       "description": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n <meta charset=\"UTF-8\">\r\n <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n <title>PS1 to PS4 Collection - Game Description</…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Mortal Kombat 11 Ultimate",
@@ -873,7 +873,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
       "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Cyberpunk 2077",
