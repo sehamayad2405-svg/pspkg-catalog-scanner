@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T15:29:58.487316+00:00",
+  "generatedAt": "2026-11-13T14:46:48.352474+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -77,7 +77,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Split Fiction",
@@ -298,7 +298,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "The Callisto Protocol",
@@ -563,7 +563,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/marvel-s-wolverine.webp",
       "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game from Insomni…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Ghost of Yōtei",
@@ -593,7 +593,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Black%20Myth_%20Wukong.webp",
       "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure</strong> in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "ASTRO BOT",
@@ -626,22 +626,22 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Forza Horizon 5",
-      "pageUrl": "https://pspkg.com/ps5/forza-horizon-5-7527.html",
-      "platform": "PS5",
-      "titleId": "PPSA22327",
-      "posterUrl": "https://img.pspkg.com/ps5/image/Forza%20Horizon%205-1.webp",
-      "description": "Forza Horizon 5 is an open-world racing game for PlayStation 5, developed by Playground Games and Turn 10 Studios and published by Microsoft. Set across the diverse landscapes of Mexico, it brings the…",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
       "title": "Crimson Desert Deluxe Edition",
       "pageUrl": "https://pspkg.com/ps5/crimson-desert-deluxe-edition-13808.html",
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/Crimson%20Desert%20Deluxe%20Edition-1.webp",
       "description": "Download Crimson Desert Deluxe Edition PS5 PKG for jailbreak.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Forza Horizon 5",
+      "pageUrl": "https://pspkg.com/ps5/forza-horizon-5-7527.html",
+      "platform": "PS5",
+      "titleId": "PPSA22327",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Forza%20Horizon%205-1.webp",
+      "description": "Forza Horizon 5 is an open-world racing game for PlayStation 5, developed by Playground Games and Turn 10 Studios and published by Microsoft. Set across the diverse landscapes of Mexico, it brings the…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -653,7 +653,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/elden-ring-1.webp",
       "description": "Prepare for an epic fantasy adventure in <strong style=\"color: #e74c3c;\">Elden Ring</strong>, an open-world <strong style=\"color: #e74c3c;\">action RPG</strong> developed by <strong style=\"color: #e74c…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Dying Light: The Beast",
@@ -681,7 +681,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops.webp",
-      "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops - PS5 - &#1575;&#1583;&#1582;&#1604; &#1573;&#1604;&#1609; &#1592;&#1604;&#1575;&#1604; &#1575;&#1604;&#1581;&#1585;&#1576; &#1575;&#1604;&#1576;&#1575;&#1585;&#1583;&#1577; &#1601;&#1610; &#1575;&#1604;&#1604;&#1593;&#1576;&#1577; &#1575;&#1604;&#1571;&#1587;&#1591;&#1608;&#1585;&#1610;&#1577; &#1575;&#1604;&#1578;&#1610; &#1571;&#1593;&#1575;&#1583;&#1578; &#1578;&#1593;&#1585;&#1610;&#1601; &#1575;&#1604;&#1587;&#1604;&#1587;&#1604;&#1577;&#1548; &#1608;&#1575;&#1604;&#1605;&#1578;&#1575;&#1581;&#1577; &#1575;&#1604;&#1570;&#1606; &#1593;&#1604;&#1609; PS5 &#1576;&#1580;&#1605;&#1610;&#1593; &#1571;&#1591;&#1608;&#1575;&#1585;&#1607;&#1575; &#1575;&#1604;&#1571;&#1610;&#1602;&#1608;&#1606;&#1610;&#1577;.\r\n\r\n<st&hellip;",
+      "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops - PS5</strong> - Step into the shadows of the Cold War in the legendary shooter that redefined the franchise, now available on PS5 with all its …",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -713,7 +713,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac3f55069b8b.webp",
       "description": "<strong style=\"color: #4B0082;\">Resonance: A Plague Tale Legacy - PS5</strong> - Set 15 years before the events of A Plague Tale: Requiem, step into the boots of Sophia, a fierce young plunderer on th…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "The Blood of Dawnwalker",
@@ -723,7 +723,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/the-blood-of-dawnwalker.webp",
       "description": "<strong style=\"color: #228B22;\">The Blood of Dawnwalker - PS5</strong> - Embark on a dark fantasy journey in 14th-century Europe, where vampires seize a moment of weakness to emerge from the shadows a…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Silent Hill: Townfall Deluxe Edition",
@@ -733,7 +733,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/silent-hill-townfall.webp",
       "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "eFootball 2027",
