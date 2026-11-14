@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T14:46:48.352474+00:00",
+  "generatedAt": "2026-11-14T13:43:53.815842+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -77,7 +77,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Split Fiction",
@@ -583,7 +583,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/ea-sports-fc-27.webp",
       "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5</strong> - Step into the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.\r\n\r\n<strong s…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Black Myth: Wukong",
@@ -593,7 +593,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Black%20Myth_%20Wukong.webp",
       "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure</strong> in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "ASTRO BOT",
@@ -616,22 +616,22 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Resident Evil 4 Remake",
-      "pageUrl": "https://pspkg.com/ps5/resident-evil-4-remake-ps5-6788.html",
-      "platform": "PS5",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/Resident%20Evil%204%20Remake.webp",
-      "description": "<p><strong>Resident Evil 4</strong> is a reimagining of the survival-horror classic, with modernized gameplay, a renewed story, and vividly detailed graphics.</p>\r\n\r\n<p>Guide Leon S. Kennedy on a dang…",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
       "title": "Crimson Desert Deluxe Edition",
       "pageUrl": "https://pspkg.com/ps5/crimson-desert-deluxe-edition-13808.html",
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/Crimson%20Desert%20Deluxe%20Edition-1.webp",
       "description": "Download Crimson Desert Deluxe Edition PS5 PKG for jailbreak.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Resident Evil 4 Remake",
+      "pageUrl": "https://pspkg.com/ps5/resident-evil-4-remake-ps5-6788.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Resident%20Evil%204%20Remake.webp",
+      "description": "<p><strong>Resident Evil 4</strong> is a reimagining of the survival-horror classic, with modernized gameplay, a renewed story, and vividly detailed graphics.</p>\r\n\r\n<p>Guide Leon S. Kennedy on a dang…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -673,7 +673,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops-ii.webp",
       "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops II - PS5</strong> - Pushing the boundaries of the franchise, this iconic shooter propels players into a near-future, 21st-century Cold War where…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Call of Duty: Black Ops",
@@ -743,7 +743,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/efootball-2027.webp",
       "description": "<strong style=\"color: #DC143C;\">eFootball 2027 - PS5</strong> - Step onto the pitch for the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Call of Duty Modern Warfare 3",
@@ -753,7 +753,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac21cc48f5ca.webp",
       "description": "Download Call of Duty Modern Warfare 3 PS5 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Sonic Unleashed Recompiled",
@@ -793,7 +793,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/poppy-playtime-chapter-4.webp",
       "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 4 - PS5</strong> - Brace yourself for the darkest chapter yet in the epic Poppy Playtime saga, descending into the undiscovered depths of the Pl…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Poppy Playtime: Chapter 5",
@@ -843,7 +843,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/693aff0e87505.jpg",
       "description": "Unleash your imagination and build your own reality with <strong style=\"color: #e74c3c;\">Minecraft: PlayStation 4 Edition</strong> - the global phenomenon that lets you <strong style=\"color: #e74c3c;\"…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "EA SPORTS FC 26",
@@ -863,7 +863,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/69ef9c4b38a21.webp",
       "description": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n <meta charset=\"UTF-8\">\r\n <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n <title>PS1 to PS4 Collection - Game Description</…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Mortal Kombat 11 Ultimate",
@@ -873,7 +873,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
       "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Cyberpunk 2077",
@@ -906,14 +906,14 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Max Payne 3",
-      "pageUrl": "https://pspkg.com/ps4/max-payne-3-14114.html",
+      "title": "Metal Gear Rising: Revengeance",
+      "pageUrl": "https://pspkg.com/ps4/metal-gear-rising-revengeance-14115.html",
       "platform": "PS4",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/max-payne-3.webp",
-      "description": "<strong style=\"color: #B22222;\">Max Payne 3</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - A gripping, cinematic third-person shooter that follows a broken man's descent into the criminal u…",
+      "posterUrl": "https://img.pspkg.com/ps4/image/metal-gear-rising-revengeance.webp",
+      "description": "<strong style=\"color: #B22222;\">Metal Gear Rising: Revengeance</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - A high-octane, sword-swinging action spectacle that takes the Metal Gear univer…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     }
   ]
 }

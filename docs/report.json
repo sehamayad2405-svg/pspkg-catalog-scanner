@@ -1,28 +1,15 @@
 {
-  "generatedAt": "2026-11-13T14:46:48.352474+00:00",
+  "generatedAt": "2026-11-14T13:43:53.815842+00:00",
   "pagesAttempted": 200,
   "detailPages": 70,
   "packagesWithLinks": 30,
   "unresolved": 64,
-  "manualVerificationRequired": 52,
+  "manualVerificationRequired": 55,
   "externalArabicCatalog": {
     "url": "https://raw.githubusercontent.com/Almarriq8888/PS5-Catalogs/refs/heads/main/PS5_Arabic_PSPKG_catalog.json",
     "status": "ok",
     "entriesRead": 43,
     "packagesAdded": 24
   },
-  "errors": [
-    {
-      "url": "https://pspkg.com/ps4/download-minecraft-playstation-4-edition-ps4-6626.html",
-      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
-    },
-    {
-      "url": "https://pspkg.com/ps4/download-mortal-kombat-11-ultimate-ps4-6533.html",
-      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
-    },
-    {
-      "url": "https://pspkg.com/ps4/download-max-payne-3-14114.html",
-      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
-    }
-  ]
+  "errors": []
 }
