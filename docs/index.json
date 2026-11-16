@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T14:10:44.321540+00:00",
+  "generatedAt": "2026-11-16T16:10:42.818899+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -90,7 +90,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Silent Hill: Townfall",
@@ -181,7 +181,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Valor Mortis",
@@ -285,7 +285,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Tropico 6",
@@ -298,7 +298,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "The Callisto Protocol",
@@ -350,7 +350,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Poppy Playtime: Chapter 1",
@@ -633,7 +633,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Resident%20Evil%204%20Remake.webp",
       "description": "<p><strong>Resident Evil 4</strong> is a reimagining of the survival-horror classic, with modernized gameplay, a renewed story, and vividly detailed graphics.</p>\r\n\r\n<p>Guide Leon S. Kennedy on a dang…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Forza Horizon 5",
@@ -653,7 +653,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/elden-ring-1.webp",
       "description": "Prepare for an epic fantasy adventure in <strong style=\"color: #e74c3c;\">Elden Ring</strong>, an open-world <strong style=\"color: #e74c3c;\">action RPG</strong> developed by <strong style=\"color: #e74c…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Dying Light: The Beast",
@@ -673,7 +673,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops-ii.webp",
       "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops II - PS5</strong> - Pushing the boundaries of the franchise, this iconic shooter propels players into a near-future, 21st-century Cold War where…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Call of Duty: Black Ops",
@@ -723,7 +723,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/the-blood-of-dawnwalker.webp",
       "description": "<strong style=\"color: #228B22;\">The Blood of Dawnwalker - PS5</strong> - Embark on a dark fantasy journey in 14th-century Europe, where vampires seize a moment of weakness to emerge from the shadows a…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Silent Hill: Townfall Deluxe Edition",
@@ -733,7 +733,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/silent-hill-townfall.webp",
       "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "eFootball 2027",
@@ -793,7 +793,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/poppy-playtime-chapter-4.webp",
       "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 4 - PS5</strong> - Brace yourself for the darkest chapter yet in the epic Poppy Playtime saga, descending into the undiscovered depths of the Pl…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Poppy Playtime: Chapter 5",
@@ -823,7 +823,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/ea-sports-fc-27.webp",
       "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS4</strong> - Step onto the pitch for the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "eFootball pes monster patch 27",
