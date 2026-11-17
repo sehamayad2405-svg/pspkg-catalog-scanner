@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T16:10:42.818899+00:00",
+  "generatedAt": "2026-11-17T16:20:06.275812+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -12,7 +12,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "EA Sports FC 27",
@@ -77,7 +77,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Split Fiction",
@@ -119,12 +119,12 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Mafia: The Old Country",
-      "pageUrl": "https://pspkg.com/arabic-games/mafia-the-old-country-13745.html",
+      "title": "Metal Gear Solid Δ: Snake Eater",
+      "pageUrl": "https://pspkg.com/arabic-games/metal-gear-solid-snake-eater-13757.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/arabic-games/image/mafia-the-old-country.webp",
-      "description": "<strong style=\"color: #B22222;\">Mafia: The Old Country - PS5</strong> - Uncover the origins of organized crime in a gritty mob story set in the brutal underworld of 1900s Sicily.\r\n\r\n<strong style=\"col…",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/metal-gear-solid-snake-eater.webp",
+      "description": "<strong style=\"color: #B22222;\">Metal Gear Solid Δ: Snake Eater - PS5</strong> - Relive the origins of the legendary soldier in a faithful remake of the 2004 classic, where survival and stealth are yo…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -259,7 +259,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Forspoken",
@@ -389,7 +389,7 @@
       "description": "PS5 Netflix (EU) app for Netflix-N-Hack",
       "downloadLinks": [
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/PPSA01615/6.00"
         }
       ],
@@ -404,7 +404,7 @@
       "description": "Change your profile picture easier than ever",
       "downloadLinks": [
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/LAPY20016/1.00"
         }
       ],
@@ -438,55 +438,55 @@
       "description": "Itemzflow is a Free and Open source PS4 home menu alternative Itemzflow expands the beyond limits of Sony's ShellUI",
       "downloadLinks": [
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.14"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.13"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.12"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.11"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.10"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.09"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.08"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.07"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.06"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.07"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.06"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.05"
         },
         {
-          "name": "Download",
+          "name": "تحميل",
           "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.04"
         }
       ],
@@ -623,7 +623,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Crimson%20Desert%20Deluxe%20Edition-1.webp",
       "description": "Download Crimson Desert Deluxe Edition PS5 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Resident Evil 4 Remake",
@@ -643,7 +643,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Forza%20Horizon%205-1.webp",
       "description": "Forza Horizon 5 is an open-world racing game for PlayStation 5, developed by Playground Games and Turn 10 Studios and published by Microsoft. Set across the diverse landscapes of Mexico, it brings the…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Elden Ring",
@@ -653,7 +653,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/elden-ring-1.webp",
       "description": "Prepare for an epic fantasy adventure in <strong style=\"color: #e74c3c;\">Elden Ring</strong>, an open-world <strong style=\"color: #e74c3c;\">action RPG</strong> developed by <strong style=\"color: #e74c…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Dying Light: The Beast",
@@ -683,7 +683,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops.webp",
       "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops - PS5</strong> - Step into the shadows of the Cold War in the legendary shooter that redefined the franchise, now available on PS5 with all its …",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Alfred Hitchcock - Vertigo",
@@ -713,7 +713,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac3f55069b8b.webp",
       "description": "<strong style=\"color: #4B0082;\">Resonance: A Plague Tale Legacy - PS5</strong> - Set 15 years before the events of A Plague Tale: Requiem, step into the boots of Sophia, a fierce young plunderer on th…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "The Blood of Dawnwalker",
@@ -733,7 +733,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/silent-hill-townfall.webp",
       "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "eFootball 2027",
@@ -753,7 +753,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac21cc48f5ca.webp",
       "description": "Download Call of Duty Modern Warfare 3 PS5 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Sonic Unleashed Recompiled",
@@ -843,7 +843,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/693aff0e87505.jpg",
       "description": "Unleash your imagination and build your own reality with <strong style=\"color: #e74c3c;\">Minecraft: PlayStation 4 Edition</strong> - the global phenomenon that lets you <strong style=\"color: #e74c3c;\"…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "EA SPORTS FC 26",
@@ -893,7 +893,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Ghost%20of%20Tsushima%20Directors%20Cut.webp",
       "description": "Embark on an <strong style=\"color: #e74c3c;\">epic samurai journey</strong> across feudal Japan with <strong style=\"color: #e74c3c;\">Ghost of Tsushima</strong> - an award-winning <strong style=\"color: …",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "eFootball PES 2026 Monster Patch",
@@ -906,12 +906,12 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Metal Gear Rising: Revengeance",
-      "pageUrl": "https://pspkg.com/ps4/metal-gear-rising-revengeance-14115.html",
+      "title": "God of War: Sons of Sparta",
+      "pageUrl": "https://pspkg.com/ps4/god-of-war-sons-of-sparta-14119.html",
       "platform": "PS4",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/metal-gear-rising-revengeance.webp",
-      "description": "<strong style=\"color: #B22222;\">Metal Gear Rising: Revengeance</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - A high-octane, sword-swinging action spectacle that takes the Metal Gear univer…",
+      "posterUrl": "https://img.pspkg.com/ps4/image/god-of-war-sons-of-sparta.webp",
+      "description": "<strong style=\"color: #B22222;\">God of War: Sons of Sparta</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - Before he was a God, before he was a father, Kratos was a young Spartan. Experience…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     }
