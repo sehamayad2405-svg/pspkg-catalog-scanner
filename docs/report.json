@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T15:53:16.696316+00:00",
+  "generatedAt": "2026-11-19T15:58:29.743652+00:00",
   "pagesAttempted": 200,
   "detailPages": 70,
   "packagesWithLinks": 30,
   "unresolved": 64,
-  "manualVerificationRequired": 49,
+  "manualVerificationRequired": 51,
   "externalArabicCatalog": {
     "url": "https://raw.githubusercontent.com/Almarriq8888/PS5-Catalogs/refs/heads/main/PS5_Arabic_PSPKG_catalog.json",
     "status": "ok",
@@ -13,15 +13,11 @@
   },
   "errors": [
     {
+      "url": "https://pspkg.com/ps4/download-grand-theft-auto-v-ps4-6657.html",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
       "url": "https://pspkg.com/ps4/download-ea-sports-fc-27-13752.html",
-      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
-    },
-    {
-      "url": "https://pspkg.com/ps4/download-efootball-pes-monster-patch-27-1-7699.html",
-      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
-    },
-    {
-      "url": "https://pspkg.com/ps4/download-minecraft-playstation-4-edition-ps4-6626.html",
       "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
     }
   ]
