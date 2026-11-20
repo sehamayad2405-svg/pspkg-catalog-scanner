@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:58:29.743652+00:00",
+  "generatedAt": "2026-11-20T15:40:55.196028+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -77,7 +77,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Split Fiction",
@@ -90,7 +90,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Silent Hill: Townfall",
@@ -181,7 +181,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Valor Mortis",
@@ -259,7 +259,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Forspoken",
@@ -613,7 +613,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/007-first-light.webp",
       "description": "<strong style=\"color: #B22222;\">007 First Light - PS5</strong> - Discover the origin story of the world's most famous spy in a thrilling espionage action-adventure from IO Interactive, the studio behi…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Crimson Desert Deluxe Edition",
@@ -713,7 +713,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac3f55069b8b.webp",
       "description": "<strong style=\"color: #4B0082;\">Resonance: A Plague Tale Legacy - PS5</strong> - Set 15 years before the events of A Plague Tale: Requiem, step into the boots of Sophia, a fierce young plunderer on th…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "The Blood of Dawnwalker",
@@ -783,7 +783,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/wobbly-life.webp",
       "description": "<strong style=\"color: #8B4513;\">Wobbly Life - PS5</strong> - Dive into a vibrant open-world physics sandbox where almost everything is interactive, and your wobbly adventure is limited only by your im…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Poppy Playtime: Chapter 4",
@@ -873,7 +873,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
       "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Cyberpunk 2077",
@@ -906,12 +906,12 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Blur",
-      "pageUrl": "https://pspkg.com/ps4/blur-14122.html",
+      "title": "God of War: Sons of Sparta",
+      "pageUrl": "https://pspkg.com/ps4/god-of-war-sons-of-sparta-14119.html",
       "platform": "PS4",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/blur.webp",
-      "description": "<strong style=\"color: #DC143C;\">Blur <strong style=\"color: #FFD900;\">- PS4 - &#1604;&#1593;&#1576;&#1577; &#1587;&#1576;&#1575;&#1602;&#1575;&#1578; &#1571;&#1585;&#1603;&#1575;&#1583; &#1593;&#1575;&#1604;&#1610;&#1577; &#1575;&#1604;&#1573;&#1610;&#1602;&#1575;&#1593; &#1578;&#1605;&#1586;&#1580; &#1576;&#1610;&#1606; &#1605;&#1608;&#1575;&#1602;&#1593; &#1605;&#1590;&#1575;&#1605;&#1610;&#1585; &#1608;&#1575;&#1602;&#1593;&#1610;&#1577; &#1608;&#1587;&#1610;&#1575;&#1585;&#1575;&#1578; &#1605;&#1585;&#1582;&#1589;&#1577; &#1608;&#1602;&#1578;&#1575;&#1604; &#1605;&#1581;&#1605;&#1608;&#1605; &#1576;&#1575;&#1604;&#1578;&#1593;&#1586;&#1610;&#1586;&#1575;&#1578; &#1593;&#1604;&#1609; &#1591;&#1585;&#1610;&hellip;",
+      "posterUrl": "https://img.pspkg.com/ps4/image/6b0059201a828.webp",
+      "description": "<strong style=\"color: #B22222;\">God of War: Sons of Sparta</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - Before he was a God, before he was a father, Kratos was a young Spartan. Experience…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     }
