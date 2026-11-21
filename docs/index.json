@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:40:55.196028+00:00",
+  "generatedAt": "2026-11-21T14:51:14.757428+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -38,7 +38,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Black Myth Wukong",
@@ -663,7 +663,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/dying-light-the-beast.webp",
       "description": "<strong style=\"color: #8B0000;\">Dying Light: The Beast - PS5</strong> - Embrace your monstrous abilities and fight for freedom in a fallen world, as Kyle Crane returns in a brutal standalone survival …",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Call of Duty: Black Ops II",
@@ -823,7 +823,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/ea-sports-fc-27.webp",
       "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS4</strong> - Step onto the pitch for the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "eFootball pes monster patch 27",
@@ -833,7 +833,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/6a9690b586dac.webp",
       "description": "<strong style=\"color: #DC143C;\">eFootball PES 2021 – Monster Patch 27 (Arabic Menus & Commentary) - PS4</strong> - Dive into the most comprehensive and up-to-date football experience with the legendar…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Minecraft PlayStation 4 Edition",
