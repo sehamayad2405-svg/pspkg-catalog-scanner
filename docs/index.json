@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:51:14.757428+00:00",
+  "generatedAt": "2026-11-22T14:47:32.327722+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -7,7 +7,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/ghost-of-yotei.webp",
-      "description": "<strong style=\"color: #4B0082;\">Ghost of Yōtei - PS5 - قوائم وحوارات عربية</strong> - انطلق في براري اليابان الآسرة في القرن السابع عشر بشخصية أتسو، مرتزقة وحيدة تبحث عن الانتقام، في لعبة أكشن ومغامرة…",
+      "description": "<strong style=\"color: #4B0082;\">Ghost of Yōtei - PS5</strong> - Ride into the breathtaking wilderness of 1600s Japan as Atsu, a lone mercenary on a quest for revenge, in a stunning open-world action-a…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -150,7 +150,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/the-sinking-city-2.webp",
-      "description": "<strong style=\"color: #8B0000;\">The Sinking City 2 - PS5 - قوائم وحوارات عربية</strong> - انغمس في شوارع أركام الغارقة والمجنونة في عشرينيات القرن الماضي في لعبة رعب وبقاء لا ترحم مستوحاة من عالم لافك…",
+      "description": "<strong style=\"color: #8B0000;\">The Sinking City 2 - PS5</strong> - Descend into the flooded, madness-ridden streets of 1920s Arkham in a relentless Lovecraftian survival horror where every bullet, ev…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -163,7 +163,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/mortal-shell-2-deluxe-edition.webp",
-      "description": "<strong style=\"color: #228B22;\">Mortal Shell II - PS5 - قوائم وحوارات عربية (تعريب غير رسمي)</strong> - عُد إلى عالم مظلم وممزق بشخصية \"الهاربينجر\"، وتمكّن من أجساد محاربين ساقطين لتستخدم قواهم وأسالي…",
+      "description": "<strong style=\"color: #228B22;\">Mortal Shell II - PS5</strong> - Return to a dark, shattered world as the Harbinger, possessing the bodies of fallen warriors to wield their unique powers and fighting …",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -207,7 +207,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Halo: Campaign Evolved Premium Edition",
@@ -233,7 +233,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Senua's Saga: Hellblade II",
@@ -345,7 +345,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/arabic-games/image/dispatch.webp",
-      "description": "<strong style=\"color: #4B0082;\">Dispatch - PS5 - قوائم وحوارات عربية</strong> - ادخل في حذاء بطل خارق ساقط أُجبر على العمل خلف مكتب في كوميديا مكتبية ساخرة عن الأبطال الخارقين، تدور أحداثها في لوس أنج…",
+      "description": "<strong style=\"color: #4B0082;\">Dispatch - PS5</strong> - Step into the shoes of a fallen superhero forced behind a desk in a hilarious superhero workplace comedy set in modern-day Los Angeles, from t…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -363,197 +363,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
-    },
-    {
-      "title": "YouTube (US)",
-      "pageUrl": "https://pspkg.com/ps5/tool?slug=youtube-us",
-      "platform": "PS5",
-      "titleId": "PPSA01650",
-      "posterUrl": "https://pspkg.com/ps5/tools-images/youtube-us.webp",
-      "description": "YouTube (US) for Y2JB",
-      "downloadLinks": [
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/PPSA01650/1.03"
-        }
-      ],
-      "status": "links_found"
-    },
-    {
-      "title": "Netflix (EU)",
-      "pageUrl": "https://pspkg.com/ps5/tool?slug=netflix-eu",
-      "platform": "PS5",
-      "titleId": "PPSA01615",
-      "posterUrl": "https://pspkg.com/ps5/tools-images/netflix-eu.webp",
-      "description": "PS5 Netflix (EU) app for Netflix-N-Hack",
-      "downloadLinks": [
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/PPSA01615/6.00"
-        }
-      ],
-      "status": "links_found"
-    },
-    {
-      "title": "Avatar Changer PS5",
-      "pageUrl": "https://pspkg.com/ps5/tool?slug=avatar-changer-ps5",
-      "platform": "PS5",
-      "titleId": "LAPY20016",
-      "posterUrl": "https://pspkg.com/ps5/tools-images/avatar-changer-ps5.webp",
-      "description": "Change your profile picture easier than ever",
-      "downloadLinks": [
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/LAPY20016/1.00"
-        }
-      ],
-      "status": "links_found"
-    },
-    {
-      "title": "PS5-Xplorer",
-      "pageUrl": "https://pspkg.com/ps5/tool?slug=ps5-xplorer",
-      "platform": "PS5",
-      "titleId": "LAPY20011",
-      "posterUrl": "https://pspkg.com/ps5/tools-images/ps5-xplorer.webp",
-      "description": "File manager for the PS5",
-      "downloadLinks": [
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/LAPY20011/1.04"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/LAPY20011/1.02"
-        }
-      ],
-      "status": "links_found"
-    },
-    {
-      "title": "Itemzflow Game Manager",
-      "pageUrl": "https://pspkg.com/ps5/tool?slug=itemzflow-game-manager",
-      "platform": "PS5",
-      "titleId": "ITEM00001",
-      "posterUrl": "https://pspkg.com/ps5/tools-images/itemzflow-game-manager.webp",
-      "description": "Itemzflow is a Free and Open source PS4 home menu alternative Itemzflow expands the beyond limits of Sony's ShellUI",
-      "downloadLinks": [
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.14"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.13"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.12"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.11"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.10"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.09"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.08"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.07"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/ITEM00001/1.06"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.07"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.06"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.05"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/ITEM00001/1.04"
-        }
-      ],
-      "status": "links_found"
-    },
-    {
-      "title": "FPKGi",
-      "pageUrl": "https://pspkg.com/ps5/tool?slug=fpkgi",
-      "platform": "PS5",
-      "titleId": "PKGI13337",
-      "posterUrl": "https://pspkg.com/ps5/tools-images/fpkgi.webp",
-      "description": "FPKGi is an open-source PKGi clone for PSP, Vita, and PS3, preserving its UI, music, and features while supporting modern consoles. It handles custom FPKG content via .json files, making it perfect for game preservation and personal use.",
-      "downloadLinks": [
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/PKGI13337/1.01.1"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/PKGI13337/1.01.0"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps5/PKGI13337/1.00.0"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/PKGI13337/1.01.1"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/PKGI13337/1.01.0"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/PKGI13337/1.00.0"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.87.7"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.87.3"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.87"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.86"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.81"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.80"
-        },
-        {
-          "name": "Download",
-          "url": "https://pkg-zone.com/download/ps4/PKGI13337/0.75"
-        }
-      ],
-      "status": "links_found"
+      "status": "manual_verification_required"
     },
     {
       "title": "Marvel's Wolverine",
@@ -561,7 +371,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/marvel-s-wolverine.webp",
-      "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5 - &#1583;&#1576;&#1604;&#1580;&#1577; &#1608;&#1578;&#1593;&#1585;&#1610;&#1576; - &#1575;&#1606;&#1594;&#1605;&#1587; &#1601;&#1610; &#1602;&#1589;&#1577; &#1571;&#1589;&#1604;&#1610;&#1577; &#1602;&#1608;&#1610;&#1577; &#1608;&#1605;&#1592;&#1604;&#1605;&#1577; &#1604;&#1604;&#1576;&#1591;&#1604; &#1575;&#1604;&#1582;&#1575;&#1585;&#1602; &#1575;&#1604;&#1571;&#1587;&#1591;&#1608;&#1585;&#1610; &#1604;&#1608;&#1594;&#1575;&#1606;&#1548; &#1601;&#1610; &#1604;&#1593;&#1576;&#1577; &#1571;&#1603;&#1588;&#1606; &#1608;&#1605;&#1594;&#1575;&#1605;&#1585;&#1577; &#1605;&#1604;&#1610;&#1574;&#1577; &#1576;&#1575;&#1604;&#1593;&#1606;&#1601; &#1608;&#1575;&#1604;&#1608;&#1581;&#1588;&#1610;&#1577; &#1605;&#1606; Insomniac G&hellip;",
+      "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game from Insomni…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -581,7 +391,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/ea-sports-fc-27.webp",
-      "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5 - &#1602;&#1608;&#1575;&#1574;&#1605; &#1608;&#1578;&#1593;&#1604;&#1610;&#1602; &#1593;&#1585;&#1576;&#1610; - &#1575;&#1606;&#1586;&#1604; &#1573;&#1604;&#1609; &#1571;&#1585;&#1590; &#1575;&#1604;&#1605;&#1604;&#1593;&#1576; &#1604;&#1593;&#1610;&#1588; &#1571;&#1603;&#1579;&#1585; &#1578;&#1580;&#1575;&#1585;&#1576; &#1603;&#1585;&#1577; &#1575;&#1604;&#1602;&#1583;&#1605; &#1571;&#1589;&#1575;&#1604;&#1577; &#1581;&#1578;&#1609; &#1575;&#1604;&#1570;&#1606;&#1548; &#1581;&#1610;&#1579; &#1578;&#1588;&#1593;&#1585; &#1576;&#1571;&#1606; &#1603;&#1604; &#1578;&#1605;&#1585;&#1610;&#1585;&#1577; &#1608;&#1593;&#1585;&#1602;&#1604;&#1577; &#1608;&#1578;&#1587;&#1583;&#1610;&#1583;&#1577; &#1578;&#1593;&#1603;&#1587; &#1580;&#1605;&#1575;&#1604; &#1575;&#1604;&#1604;&#1593;&#1576;&hellip;",
+      "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5</strong> - Step into the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.\r\n\r\n<strong s…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -591,7 +401,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/Black%20Myth_%20Wukong.webp",
-      "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</&hellip;",
+      "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure</strong> in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -601,7 +411,7 @@
       "platform": "PS5",
       "titleId": "PPSA21564",
       "posterUrl": "https://img.pspkg.com/ps5/image/ASTRO%20BOT-1.webp",
-      "description": "Download ASTRO BOT PS5 PKG for jailbreak.",
+      "description": "Download ASTRO BOT (2024) PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -621,7 +431,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/Crimson%20Desert%20Deluxe%20Edition-1.webp",
-      "description": "Download Crimson Desert Deluxe Edition PS5 PKG for jailbreak.",
+      "description": "Download Crimson Desert Deluxe Edition (2026) PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -641,7 +451,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/Resident%20Evil%204%20Remake.webp",
-      "description": "<p><strong>Resident Evil 4 &#1607;&#1610; &#1573;&#1593;&#1575;&#1583;&#1577; &#1578;&#1589;&#1608;&#1585; &#1604;&#1604;&#1593;&#1576;&#1577; &#1575;&#1604;&#1585;&#1593;&#1576; &#1608;&#1575;&#1604;&#1576;&#1602;&#1575;&#1569; &#1575;&#1604;&#1603;&#1604;&#1575;&#1587;&#1610;&#1603;&#1610;&#1577;&#1548; &#1605;&#1593; &#1571;&#1587;&#1604;&#1608;&#1576; &#1604;&#1593;&#1576; &#1605;&#1591;&#1608;&#1617;&#1585; &#1608;&#1602;&#1589;&#1577; &#1605;&#1615;&#1593;&#1575;&#1583; &#1578;&#1602;&#1583;&#1610;&#1605;&#1607;&#1575; &#1608;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1594;&#1606;&#1610;&#1577; &#1576;&#1575;&#1604;&#1578;&#1601;&#1575;&#1589;&#1610;&#1604;.\r\n\r\n<p>&#1585;&#1575;&#1601;&#1602; &#1604;&#1610;&#1608;&#1606; &#1573;&#1587;. &#1603;&#1610;&#1606;&#1610;&#1583;&#1610; &#1601;&#1610; &#1605;&#1607;&#1605;&#1577; &#1582;&#1591;&#1610;&#1585;&#1577; &#1583;&#1575;&#1582;&#1604; &#1602;&#1585;&#1610;&#1577; &#1571;&hellip;",
+      "description": "<p><strong>Resident Evil 4</strong> is a reimagining of the survival-horror classic, with modernized gameplay, a renewed story, and vividly detailed graphics.</p>\r\n\r\n<p>Guide Leon S. Kennedy on a dang…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -671,7 +481,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops-ii.webp",
-      "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops II - PS5 - &#1578;&#1583;&#1601;&#1593; &#1607;&#1584;&#1607; &#1575;&#1604;&#1604;&#1593;&#1576;&#1577; &#1575;&#1604;&#1571;&#1587;&#1591;&#1608;&#1585;&#1610;&#1577; &#1581;&#1583;&#1608;&#1583; &#1575;&#1604;&#1587;&#1604;&#1587;&#1604;&#1577;&#1548; &#1604;&#1578;&#1602;&#1584;&#1601; &#1575;&#1604;&#1604;&#1575;&#1593;&#1576;&#1610;&#1606; &#1573;&#1604;&#1609; &#1581;&#1585;&#1576; &#1576;&#1575;&#1585;&#1583;&#1577; &#1601;&#1610; &#1575;&#1604;&#1605;&#1587;&#1578;&#1602;&#1576;&#1604; &#1575;&#1604;&#1602;&#1585;&#1610;&#1576; &#1605;&#1606; &#1575;&#1604;&#1602;&#1585;&#1606; &#1575;&#1604;&#1581;&#1575;&#1583;&#1610; &#1608;&#1575;&#1604;&#1593;&#1588;&#1585;&#1610;&#1606;&#1548; &#1581;&#1610;&#1579; &#1578;&#1591;&#1608;&#1585;&#1578; &hellip;",
+      "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops II - PS5</strong> - Pushing the boundaries of the franchise, this iconic shooter propels players into a near-future, 21st-century Cold War where…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -691,7 +501,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/alfred-hitchcock-vertigo.webp",
-      "description": "<strong style=\"color: #4B0082;\">Alfred Hitchcock - Vertigo - PS5</strong> - Dive into a new kind of psychological thriller freely inspired by the cinematic masterpiece, where you walk a thin line betw…",
+      "description": "<strong style=\"color: #4B0082;\">Alfred Hitchcock - Vertigo - PS5</strong> - انغمس في نوع جديد من الإثارة النفسية المستوحاة بحرية من التحفة السينمائية، حيث تسير على خط رفيع بين الواقع والخيال.\r\n\r\n<stro…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -751,7 +561,7 @@
       "platform": "PS5",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/6ac21cc48f5ca.webp",
-      "description": "Download Call of Duty Modern Warfare 3 PS5 PKG for jailbreak.",
+      "description": "Download Call of Duty Modern Warfare 3 (2023) PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -809,7 +619,7 @@
       "title": "Grand Theft Auto V",
       "pageUrl": "https://pspkg.com/ps4/grand-theft-auto-v-ps4-6657.html",
       "platform": "PS4",
-      "titleId": "CUSA00411",
+      "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/6945d4b6d1eb4.webp",
       "description": "<strong style=\"color: #DAA520;\">Grand Theft Auto V (GTA V) on PS4</strong> - Dive into the sprawling open world of Los Santos and Blaine County in an unparalleled experience that blends thrilling narr…",
       "downloadLinks": [],
@@ -833,7 +643,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/6a9690b586dac.webp",
       "description": "<strong style=\"color: #DC143C;\">eFootball PES 2021 – Monster Patch 27 (Arabic Menus & Commentary) - PS4</strong> - Dive into the most comprehensive and up-to-date football experience with the legendar…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Minecraft PlayStation 4 Edition",
@@ -841,7 +651,7 @@
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/693aff0e87505.jpg",
-      "description": "Unleash your imagination and build your own reality with <strong style=\"color: #e74c3c;\">Minecraft: PlayStation 4 Edition - the global phenomenon that lets you <strong style=\"color: #e74c3c;\"&hellip;",
+      "description": "Unleash your imagination and build your own reality with <strong style=\"color: #e74c3c;\">Minecraft: PlayStation 4 Edition</strong> - the global phenomenon that lets you <strong style=\"color: #e74c3c;\"…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -871,9 +681,9 @@
       "platform": "PS4",
       "titleId": "CUSA11379",
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
-      "description": "Download Mortal Kombat 11 Ultimate PS4 PKG for jailbreak.",
+      "description": "Download Mortal Kombat 11 Ultimate (2020) PS4 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS4 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Cyberpunk 2077",
@@ -881,7 +691,7 @@
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/Cyberpunk%202077.webp",
-      "description": "Download Cyberpunk 2077 PS4 PKG for jailbreak.",
+      "description": "Download Cyberpunk 2077 (2020) PS4 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS4 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -891,7 +701,7 @@
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/Ghost%20of%20Tsushima%20Directors%20Cut.webp",
-      "description": "Embark on an <strong style=\"color: #e74c3c;\">epic samurai journey across feudal Japan with <strong style=\"color: #e74c3c;\">Ghost of Tsushima - an award-winning <strong style=\"color: &hellip;",
+      "description": "Embark on an <strong style=\"color: #e74c3c;\">epic samurai journey</strong> across feudal Japan with <strong style=\"color: #e74c3c;\">Ghost of Tsushima</strong> - an award-winning <strong style=\"color: …",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -901,9 +711,19 @@
       "platform": "PS4",
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/69530451c4902.webp",
-      "description": "Download eFootball PES 2026 Monster Patch PS4 PKG for jailbreak.",
+      "description": "Download eFootball PES 2026 Monster Patch (2026) PS4 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS4 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
+    },
+    {
+      "title": "PES 2013",
+      "pageUrl": "https://pspkg.com/ps4/pes-2013-14126.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/pes-2013.webp",
+      "description": "<strong style=\"color: #DC143C;\">PES 2013</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - The legendary football simulation returns in a fan-favourite PC-to-PS4 port, delivering the most fait…",
+      "downloadLinks": [],
+      "status": "no_public_download_link"
     },
     {
       "title": "God of War: Sons of Sparta",
@@ -912,6 +732,26 @@
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/6b0059201a828.webp",
       "description": "<strong style=\"color: #B22222;\">God of War: Sons of Sparta</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - Before he was a God, before he was a father, Kratos was a young Spartan. Experience…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Blur",
+      "pageUrl": "https://pspkg.com/ps4/blur-14122.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/blur.webp",
+      "description": "<strong style=\"color: #DC143C;\">Blur</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - A high-octane arcade racer that fuses real-world track locations and licensed cars with chaotic, Mario Ka…",
+      "downloadLinks": [],
+      "status": "no_public_download_link"
+    },
+    {
+      "title": "Metal Gear Rising: Revengeance",
+      "pageUrl": "https://pspkg.com/ps4/metal-gear-rising-revengeance-14115.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/metal-gear-rising-revengeance.webp",
+      "description": "<strong style=\"color: #B22222;\">Metal Gear Rising: Revengeance</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - A high-octane, sword-swinging action spectacle that takes the Metal Gear univer…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     }
