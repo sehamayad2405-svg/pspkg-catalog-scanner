@@ -1,15 +1,24 @@
 {
-  "generatedAt": "2026-11-22T14:47:32.327722+00:00",
+  "generatedAt": "2026-11-23T18:33:08.202846+00:00",
   "pagesAttempted": 200,
   "detailPages": 67,
   "packagesWithLinks": 24,
   "unresolved": 67,
-  "manualVerificationRequired": 63,
+  "manualVerificationRequired": 50,
   "externalArabicCatalog": {
     "url": "https://raw.githubusercontent.com/Almarriq8888/PS5-Catalogs/refs/heads/main/PS5_Arabic_PSPKG_catalog.json",
     "status": "ok",
     "entriesRead": 43,
     "packagesAdded": 24
   },
-  "errors": []
+  "errors": [
+    {
+      "url": "https://pspkg.com/ps4/download-grand-theft-auto-v-ps4-6657.html",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://pspkg.com/ps4/download-blur-14122.html",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    }
+  ]
 }
