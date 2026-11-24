@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T18:33:08.202846+00:00",
+  "generatedAt": "2026-11-24T18:00:50.965293+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -64,7 +64,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Marvel's Wolverine",
@@ -90,7 +90,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Silent Hill: Townfall",
@@ -168,7 +168,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Darwin's Paradox",
@@ -373,7 +373,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/marvel-s-wolverine.webp",
       "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game from Insomni…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Ghost of Yōtei",
@@ -403,7 +403,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Black%20Myth_%20Wukong.webp",
       "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure</strong> in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "ASTRO BOT",
@@ -466,152 +466,202 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Dying Light: The Beast",
-      "pageUrl": "https://pspkg.com/ps5/dying-light-the-beast-14029.html",
+      "title": "Vampire The Masquerade Bloodlines 2",
+      "pageUrl": "https://pspkg.com/ps5/vampire-the-masquerade-bloodlines-2-2-14373.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/dying-light-the-beast.webp",
-      "description": "<strong style=\"color: #8B0000;\">Dying Light: The Beast - PS5</strong> - Embrace your monstrous abilities and fight for freedom in a fallen world, as Kyle Crane returns in a brutal standalone survival …",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Vampire%20The%20Masquerade%20Bloodlines%202.webp",
+      "description": "Download Vampire The Masquerade Bloodlines 2 PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "Call of Duty: Black Ops II",
-      "pageUrl": "https://pspkg.com/ps5/call-of-duty-black-ops-ii-14053.html",
+      "title": "Valor Mortis",
+      "pageUrl": "https://pspkg.com/ps5/valor-mortis-2-14371.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops-ii.webp",
-      "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops II - PS5</strong> - Pushing the boundaries of the franchise, this iconic shooter propels players into a near-future, 21st-century Cold War where…",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Valor%20Mortis.webp",
+      "description": "Download Valor Mortis PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "Call of Duty: Black Ops",
-      "pageUrl": "https://pspkg.com/ps5/call-of-duty-black-ops-14052.html",
+      "title": "Tomb Raider Legend",
+      "pageUrl": "https://pspkg.com/ps5/tomb-raider-legend-14362.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/call-of-duty-black-ops.webp",
-      "description": "<strong style=\"color: #B22222;\">Call of Duty: Black Ops - PS5</strong> - Step into the shadows of the Cold War in the legendary shooter that redefined the franchise, now available on PS5 with all its …",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Tomb%20Raider%20Legend.webp",
+      "description": "Download Tomb Raider Legend PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Tokyo Xtreme Racer",
+      "pageUrl": "https://pspkg.com/ps5/tokyo-xtreme-racer-14361.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Tokyo%20Xtreme%20Racer.webp",
+      "description": "Download Tokyo Xtreme Racer PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "The Sinking City 2",
+      "pageUrl": "https://pspkg.com/ps5/the-sinking-city-2-2-14358.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/The%20Sinking%20City%202.webp",
+      "description": "Download The Sinking City 2 PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "The Relic First Guardian",
+      "pageUrl": "https://pspkg.com/ps5/the-relic-first-guardian-14357.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/The%20Relic%20First%20Guardian.webp",
+      "description": "Download The Relic First Guardian PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "no_public_download_link"
     },
     {
-      "title": "Alfred Hitchcock - Vertigo",
-      "pageUrl": "https://pspkg.com/ps5/alfred-hitchcock-vertigo-14037.html",
+      "title": "The Outer Worlds Spacer’s Choice Edition",
+      "pageUrl": "https://pspkg.com/ps5/the-outer-worlds-spacer-s-choice-edition-14356.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/alfred-hitchcock-vertigo.webp",
-      "description": "<strong style=\"color: #4B0082;\">Alfred Hitchcock - Vertigo - PS5</strong> - انغمس في نوع جديد من الإثارة النفسية المستوحاة بحرية من التحفة السينمائية، حيث تسير على خط رفيع بين الواقع والخيال.\r\n\r\n<stro…",
+      "posterUrl": "https://img.pspkg.com/ps5/image/The%20Outer%20Worlds%20Spacer%E2%80%99s%20Choice%20Edition.webp",
+      "description": "Download The Outer Worlds Spacer’s Choice Edition PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "Broken Sword - Shadow of the Templars: Reforged",
-      "pageUrl": "https://pspkg.com/ps5/broken-sword-shadow-of-the-templars-reforged-14036.html",
+      "title": "The Outer Worlds 2",
+      "pageUrl": "https://pspkg.com/ps5/the-outer-worlds-2-2-14355.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/broken-sword-shadow-of-the-templars-reforged.webp",
-      "description": "<strong style=\"color: #4B0082;\">Broken Sword - Shadow of the Templars: Reforged - PS5</strong> - Step out onto the streets of Paris in a substantially enhanced version of the multi-award winning, all-…",
+      "posterUrl": "https://img.pspkg.com/ps5/image/The%20Outer%20Worlds%202.webp",
+      "description": "Download The Outer Worlds 2 PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "Resonance: A Plague Tale Legacy",
-      "pageUrl": "https://pspkg.com/ps5/resonance-a-plague-tale-legacy-14033.html",
+      "title": "The Lord of The Rings Return to Moria",
+      "pageUrl": "https://pspkg.com/ps5/the-lord-of-the-rings-return-to-moria-14354.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/6ac3f55069b8b.webp",
-      "description": "<strong style=\"color: #4B0082;\">Resonance: A Plague Tale Legacy - PS5</strong> - Set 15 years before the events of A Plague Tale: Requiem, step into the boots of Sophia, a fierce young plunderer on th…",
+      "posterUrl": "https://img.pspkg.com/ps5/image/The%20Lord%20of%20The%20Rings%20Return%20to%20Moria.webp",
+      "description": "Download The Lord of The Rings Return to Moria PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "The Blood of Dawnwalker",
-      "pageUrl": "https://pspkg.com/ps5/the-blood-of-dawnwalker-14031.html",
+      "title": "The Elder Scrolls III Morrowind",
+      "pageUrl": "https://pspkg.com/ps5/the-elder-scrolls-iii-morrowind-14344.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/the-blood-of-dawnwalker.webp",
-      "description": "<strong style=\"color: #228B22;\">The Blood of Dawnwalker - PS5</strong> - Embark on a dark fantasy journey in 14th-century Europe, where vampires seize a moment of weakness to emerge from the shadows a…",
+      "posterUrl": "https://img.pspkg.com/ps5/image/The%20Elder%20Scrolls%20III%20Morrowind.webp",
+      "description": "Download The Elder Scrolls III Morrowind PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "Silent Hill: Townfall Deluxe Edition",
-      "pageUrl": "https://pspkg.com/ps5/silent-hill-townfall-14030.html",
+      "title": "TEKKEN DARK RESURRECTION",
+      "pageUrl": "https://pspkg.com/ps5/tekken-dark-resurrection-2-14341.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/silent-hill-townfall.webp",
-      "description": "<strong style=\"color: #8B0000;\">Silent Hill: Townfall - PS5</strong> - Wash ashore on the fog-drenched, deserted island of St. Amelia in a brand-new psychological horror experience, played entirely fr…",
+      "posterUrl": "https://img.pspkg.com/ps5/image/TEKKEN%20DARK%20RESURRECTION.webp",
+      "description": "Download TEKKEN DARK RESURRECTION PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "eFootball 2027",
-      "pageUrl": "https://pspkg.com/ps5/efootball-2027-14026.html",
+      "title": "Tekken 6",
+      "pageUrl": "https://pspkg.com/ps5/tekken-6-2-14340.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/efootball-2027.webp",
-      "description": "<strong style=\"color: #DC143C;\">eFootball 2027 - PS5</strong> - Step onto the pitch for the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.…",
-      "downloadLinks": [],
-      "status": "no_public_download_link"
-    },
-    {
-      "title": "Call of Duty Modern Warfare 3",
-      "pageUrl": "https://pspkg.com/ps5/call-of-duty-modern-warfare-3-13807.html",
-      "platform": "PS5",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/6ac21cc48f5ca.webp",
-      "description": "Download Call of Duty Modern Warfare 3 (2023) PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Tekken%206.webp",
+      "description": "Download Tekken 6 PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "Sonic Unleashed Recompiled",
-      "pageUrl": "https://pspkg.com/ps5/sonic-unleashed-recompiled-14022.html",
+      "title": "TEKKEN 3",
+      "pageUrl": "https://pspkg.com/ps5/tekken-3-14339.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/6ac20d8822cbd.webp",
-      "description": "<strong style=\"color: #DC143C;\">Sonic Unleashed Recompiled - PS5</strong> - Experience the high-speed adventure of Sonic Unleashed like never before in this fan-made recompilation, rebuilt for modern …",
+      "posterUrl": "https://img.pspkg.com/ps5/image/TEKKEN%203.webp",
+      "description": "Download TEKKEN 3 PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "Trails in the Sky 2nd Chapter",
-      "pageUrl": "https://pspkg.com/ps5/trails-in-the-sky-2nd-chapter-14020.html",
+      "title": "Tales of Kenzera: ZAU",
+      "pageUrl": "https://pspkg.com/ps5/tales-of-kenzera-zau-14337.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/trails-in-the-sky-2nd-chapter.webp",
-      "description": "<strong style=\"color: #228B22;\">Trails in the Sky 2nd Chapter - PS5</strong> - Continue Estelle and Joshua's unforgettable journey in a full-remake RPG that expands the beloved classic with enhanced c…",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Tales%20of%20Kenzera%20ZAU.webp",
+      "description": "Download Tales of Kenzera: ZAU PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "Wobbly Life",
-      "pageUrl": "https://pspkg.com/ps5/wobbly-life-14019.html",
+      "title": "Syphon Filter Logans Shadow",
+      "pageUrl": "https://pspkg.com/ps5/syphon-filter-logans-shadow-2-14335.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/wobbly-life.webp",
-      "description": "<strong style=\"color: #8B4513;\">Wobbly Life - PS5</strong> - Dive into a vibrant open-world physics sandbox where almost everything is interactive, and your wobbly adventure is limited only by your im…",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Syphon%20Filter%20Logans%20Shadow.webp",
+      "description": "Download Syphon Filter Logans Shadow PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "Poppy Playtime: Chapter 4",
-      "pageUrl": "https://pspkg.com/ps5/poppy-playtime-chapter-4-14018.html",
+      "title": "Syphon Filter Dark Mirror",
+      "pageUrl": "https://pspkg.com/ps5/syphon-filter-dark-mirror-2-14334.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/poppy-playtime-chapter-4.webp",
-      "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 4 - PS5</strong> - Brace yourself for the darkest chapter yet in the epic Poppy Playtime saga, descending into the undiscovered depths of the Pl…",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Syphon%20Filter%20Dark%20Mirror.webp",
+      "description": "Download Syphon Filter Dark Mirror PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
     {
-      "title": "Poppy Playtime: Chapter 5",
-      "pageUrl": "https://pspkg.com/ps5/poppy-playtime-chapter-5-14017.html",
+      "title": "Syphon Filter 2",
+      "pageUrl": "https://pspkg.com/ps5/syphon-filter-2-14333.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/poppy-playtime-chapter-5.webp",
-      "description": "<strong style=\"color: #8B0000;\">Poppy Playtime: Chapter 5 - PS5</strong> - Descend into the gruesome depths of the factory in the final chapter, where Huggy Wuggy hunts you relentlessly and the puppet…",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Syphon%20Filter%202.webp",
+      "description": "Download Syphon Filter 2 PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Sword of The Sea",
+      "pageUrl": "https://pspkg.com/ps5/sword-of-the-sea-14332.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Sword%20of%20The%20Sea.webp",
+      "description": "Download Sword of The Sea PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Super Meat Boy 3D",
+      "pageUrl": "https://pspkg.com/ps5/super-meat-boy-3d-14331.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Super%20Meat%20Boy%203D.webp",
+      "description": "Download Super Meat Boy 3D PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Subnautica",
+      "pageUrl": "https://pspkg.com/ps5/subnautica-3-14330.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Subnautica.webp",
+      "description": "Download Subnautica PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -643,7 +693,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/6a9690b586dac.webp",
       "description": "<strong style=\"color: #DC143C;\">eFootball PES 2021 – Monster Patch 27 (Arabic Menus & Commentary) - PS4</strong> - Dive into the most comprehensive and up-to-date football experience with the legendar…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Minecraft PlayStation 4 Edition",
@@ -653,7 +703,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/693aff0e87505.jpg",
       "description": "Unleash your imagination and build your own reality with <strong style=\"color: #e74c3c;\">Minecraft: PlayStation 4 Edition</strong> - the global phenomenon that lets you <strong style=\"color: #e74c3c;\"…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Ps2 to ps4 collection",
@@ -683,7 +733,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Mortal%20Kombat%2011%20Ultimate.webp",
       "description": "Download Mortal Kombat 11 Ultimate (2020) PS4 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS4 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Cyberpunk 2077",
@@ -693,7 +743,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Cyberpunk%202077.webp",
       "description": "Download Cyberpunk 2077 (2020) PS4 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS4 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Ghost of Tsushima Directors Cut",
@@ -702,56 +752,6 @@
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/Ghost%20of%20Tsushima%20Directors%20Cut.webp",
       "description": "Embark on an <strong style=\"color: #e74c3c;\">epic samurai journey</strong> across feudal Japan with <strong style=\"color: #e74c3c;\">Ghost of Tsushima</strong> - an award-winning <strong style=\"color: …",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
-      "title": "eFootball PES 2026 Monster Patch",
-      "pageUrl": "https://pspkg.com/ps4/efootball-pes-2026-monster-patch-ps4-6010.html",
-      "platform": "PS4",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/69530451c4902.webp",
-      "description": "Download eFootball PES 2026 Monster Patch (2026) PS4 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS4 game information on PSPKG.",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
-      "title": "PES 2013",
-      "pageUrl": "https://pspkg.com/ps4/pes-2013-14126.html",
-      "platform": "PS4",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/pes-2013.webp",
-      "description": "<strong style=\"color: #DC143C;\">PES 2013</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - The legendary football simulation returns in a fan-favourite PC-to-PS4 port, delivering the most fait…",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
-      "title": "God of War: Sons of Sparta",
-      "pageUrl": "https://pspkg.com/ps4/god-of-war-sons-of-sparta-14119.html",
-      "platform": "PS4",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/6b0059201a828.webp",
-      "description": "<strong style=\"color: #B22222;\">God of War: Sons of Sparta</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - Before he was a God, before he was a father, Kratos was a young Spartan. Experience…",
-      "downloadLinks": [],
-      "status": "no_public_download_link"
-    },
-    {
-      "title": "Blur",
-      "pageUrl": "https://pspkg.com/ps4/blur-14122.html",
-      "platform": "PS4",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/blur.webp",
-      "description": "<strong style=\"color: #DC143C;\">Blur</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - A high-octane arcade racer that fuses real-world track locations and licensed cars with chaotic, Mario Ka…",
-      "downloadLinks": [],
-      "status": "no_public_download_link"
-    },
-    {
-      "title": "Metal Gear Rising: Revengeance",
-      "pageUrl": "https://pspkg.com/ps4/metal-gear-rising-revengeance-14115.html",
-      "platform": "PS4",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/metal-gear-rising-revengeance.webp",
-      "description": "<strong style=\"color: #B22222;\">Metal Gear Rising: Revengeance</strong> <strong style=\"color: #FFD900;\">- PS4</strong> - A high-octane, sword-swinging action spectacle that takes the Metal Gear univer…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     }

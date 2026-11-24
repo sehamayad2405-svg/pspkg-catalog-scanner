@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T18:33:08.202846+00:00",
+  "generatedAt": "2026-11-24T18:00:50.965293+00:00",
   "pagesAttempted": 200,
   "detailPages": 67,
   "packagesWithLinks": 24,
@@ -14,10 +14,6 @@
   "errors": [
     {
       "url": "https://pspkg.com/ps4/download-grand-theft-auto-v-ps4-6657.html",
-      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
-    },
-    {
-      "url": "https://pspkg.com/ps4/download-blur-14122.html",
       "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
     }
   ]
