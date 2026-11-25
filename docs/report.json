@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T18:00:50.965293+00:00",
+  "generatedAt": "2026-11-25T17:29:17.548401+00:00",
   "pagesAttempted": 200,
   "detailPages": 67,
   "packagesWithLinks": 24,
   "unresolved": 67,
-  "manualVerificationRequired": 50,
+  "manualVerificationRequired": 52,
   "externalArabicCatalog": {
     "url": "https://raw.githubusercontent.com/Almarriq8888/PS5-Catalogs/refs/heads/main/PS5_Arabic_PSPKG_catalog.json",
     "status": "ok",
