@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:29:17.548401+00:00",
+  "generatedAt": "2026-11-26T17:09:54.789807+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -54,12 +54,12 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Resident Evil Requiem",
-      "pageUrl": "https://pspkg.com/arabic-games/resident-evil-requiem-13768.html",
+      "title": "Marvel's Wolverine",
+      "pageUrl": "https://pspkg.com/arabic-games/marvel-s-wolverine-14004.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/arabic-games/image/resident-evil-requiem.webp",
-      "description": "<strong style=\"color: #8B0000;\">Resident Evil Requiem - PS5</strong> - A new era of survival horror arrives in the ninth mainline entry, where two distinct journeys intertwine in a heart-stopping tale…",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/marvel-s-wolverine.webp",
+      "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game.\r\n\r\n<strong …",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -67,12 +67,12 @@
       "status": "no_public_download_link"
     },
     {
-      "title": "Marvel's Wolverine",
-      "pageUrl": "https://pspkg.com/arabic-games/marvel-s-wolverine-14004.html",
+      "title": "Resident Evil Requiem",
+      "pageUrl": "https://pspkg.com/arabic-games/resident-evil-requiem-13768.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/arabic-games/image/marvel-s-wolverine.webp",
-      "description": "<strong style=\"color: #B22222;\">Marvel's Wolverine - PS5</strong> - Dive into a powerful, dark original story of the legendary mutant Logan, in a brutal and visceral action-adventure game.\r\n\r\n<strong …",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/resident-evil-requiem.webp",
+      "description": "<strong style=\"color: #8B0000;\">Resident Evil Requiem - PS5</strong> - A new era of survival horror arrives in the ninth mainline entry, where two distinct journeys intertwine in a heart-stopping tale…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -116,7 +116,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Metal Gear Solid Δ: Snake Eater",
@@ -142,7 +142,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "The Sinking City 2",
@@ -168,7 +168,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Darwin's Paradox",
@@ -207,7 +207,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Halo: Campaign Evolved Premium Edition",
@@ -233,7 +233,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Senua's Saga: Hellblade II",
@@ -350,7 +350,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Poppy Playtime: Chapter 1",
@@ -364,6 +364,16 @@
         "Arabic"
       ],
       "status": "manual_verification_required"
+    },
+    {
+      "title": "Grand Theft Auto VI (GTA 6)",
+      "pageUrl": "https://pspkg.com/ps5/grand-theft-auto-vi-14552.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/grand-theft-auto-vi.webp",
+      "description": "<strong style=\"color: #8B4513;\">Grand Theft Auto VI - PS5</strong> - A legendary return to a modern, sun-soaked Vice City in the state of Leonida, where criminal life pulses through every neon-lit str…",
+      "downloadLinks": [],
+      "status": "no_public_download_link"
     },
     {
       "title": "Marvel's Wolverine",
@@ -393,7 +403,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/ea-sports-fc-27.webp",
       "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5</strong> - Step into the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.\r\n\r\n<strong s…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Black Myth: Wukong",
@@ -423,7 +433,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/007-first-light.webp",
       "description": "<strong style=\"color: #B22222;\">007 First Light - PS5</strong> - Discover the origin story of the world's most famous spy in a thrilling espionage action-adventure from IO Interactive, the studio behi…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Crimson Desert Deluxe Edition",
@@ -456,16 +466,6 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Elden Ring",
-      "pageUrl": "https://pspkg.com/ps5/elden-ring-1-7577.html",
-      "platform": "PS5",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/elden-ring-1.webp",
-      "description": "Prepare for an epic fantasy adventure in <strong style=\"color: #e74c3c;\">Elden Ring</strong>, an open-world <strong style=\"color: #e74c3c;\">action RPG</strong> developed by <strong style=\"color: #e74c…",
-      "downloadLinks": [],
-      "status": "no_public_download_link"
-    },
-    {
       "title": "Hillbilly Doomsday",
       "pageUrl": "https://pspkg.com/ps5/hillbilly-doomsday-14551.html",
       "platform": "PS5",
@@ -473,7 +473,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/CUSA32036.jpg",
       "description": "Download Hillbilly Doomsday PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "F1 23",
@@ -503,7 +503,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/PPSA14453.jpg",
       "description": "Download TIEBREAK Official Game of the ATP and WTA PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Shadow of the Ninja: Reborn",
@@ -523,7 +523,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/PPSA04618.jpg",
       "description": "Download F1 22 Champions Edition PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Rugby League 26",
@@ -653,17 +653,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/PPSA16827.jpg",
       "description": "Download Harmony’s Odyssey PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
-      "title": "LEGO Builder’s Journey",
-      "pageUrl": "https://pspkg.com/ps5/lego-builder-s-journey-14532.html",
-      "platform": "PS5",
-      "titleId": "PPSA05496",
-      "posterUrl": "https://img.pspkg.com/ps5/image/PPSA05496.jpg",
-      "description": "Download LEGO Builder’s Journey PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Grand Theft Auto V",
@@ -683,7 +673,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/ea-sports-fc-27.webp",
       "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS4</strong> - Step onto the pitch for the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "eFootball pes monster patch 27",
@@ -693,7 +683,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/6a9690b586dac.webp",
       "description": "<strong style=\"color: #DC143C;\">eFootball PES 2021 – Monster Patch 27 (Arabic Menus & Commentary) - PS4</strong> - Dive into the most comprehensive and up-to-date football experience with the legendar…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Minecraft PlayStation 4 Edition",
@@ -723,7 +713,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/EA%20SPORTS%20FC%2026.webp",
       "description": "EA SPORTS FC 26 delivers a next-generation football experience that redefines realism, tactics, and emotion on the pitch. The game elevates gameplay, graphics, and content to give players a true sensa…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Mortal Kombat 11 Ultimate",
@@ -753,7 +743,17 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/Ghost%20of%20Tsushima%20Directors%20Cut.webp",
       "description": "Embark on an <strong style=\"color: #e74c3c;\">epic samurai journey</strong> across feudal Japan with <strong style=\"color: #e74c3c;\">Ghost of Tsushima</strong> - an award-winning <strong style=\"color: …",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "eFootball PES 2026 Monster Patch",
+      "pageUrl": "https://pspkg.com/ps4/efootball-pes-2026-monster-patch-ps4-6010.html",
+      "platform": "PS4",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps4/image/69530451c4902.webp",
+      "description": "Download eFootball PES 2026 Monster Patch (2026) PS4 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS4 game information on PSPKG.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
     }
   ]
 }
