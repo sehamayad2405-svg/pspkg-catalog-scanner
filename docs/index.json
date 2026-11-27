@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T17:09:54.789807+00:00",
+  "generatedAt": "2026-11-27T16:53:22.414154+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -38,7 +38,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Black Myth Wukong",
@@ -51,7 +51,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Marvel's Wolverine",
@@ -64,7 +64,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Resident Evil Requiem",
@@ -90,7 +90,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Silent Hill: Townfall",
@@ -119,12 +119,12 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Metal Gear Solid Δ: Snake Eater",
-      "pageUrl": "https://pspkg.com/arabic-games/metal-gear-solid-snake-eater-13757.html",
+      "title": "The Blood of Dawnwalker",
+      "pageUrl": "https://pspkg.com/arabic-games/the-blood-of-dawnwalker-14056.html",
       "platform": "PS5",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/arabic-games/image/metal-gear-solid-snake-eater.webp",
-      "description": "<strong style=\"color: #B22222;\">Metal Gear Solid Δ: Snake Eater - PS5</strong> - Relive the origins of the legendary soldier in a faithful remake of the 2004 classic, where survival and stealth are yo…",
+      "posterUrl": "https://img.pspkg.com/arabic-games/image/the-blood-of-dawnwalker.webp",
+      "description": "<strong style=\"color: #228B22;\">The Blood of Dawnwalker - PS5</strong> - Embark on a dark fantasy journey in 14th-century Europe, where vampires seize a moment of weakness to emerge from the shadows a…",
       "downloadLinks": [],
       "tags": [
         "Arabic"
@@ -142,7 +142,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "The Sinking City 2",
@@ -207,7 +207,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Halo: Campaign Evolved Premium Edition",
@@ -246,7 +246,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Cyberpunk 2077",
@@ -376,6 +376,26 @@
       "status": "no_public_download_link"
     },
     {
+      "title": "EA Sports FC 27",
+      "pageUrl": "https://pspkg.com/ps5/ea-sports-fc-27-14007.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/ea-sports-fc-27.webp",
+      "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5</strong> - Step into the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.\r\n\r\n<strong s…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Split Fiction",
+      "pageUrl": "https://pspkg.com/ps5/split-fiction-7521.html",
+      "platform": "PS5",
+      "titleId": "PPSA08560",
+      "posterUrl": "https://img.pspkg.com/ps5/image/Split%20Fiction-1.webp",
+      "description": "Split Fiction is a boundary-pushing co-op action adventure for PlayStation 5, developed by Hazelight Studios and published by Electronic Arts. Play as Mio and Zoe, two writers trapped inside a simulat…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
       "title": "Marvel's Wolverine",
       "pageUrl": "https://pspkg.com/ps5/marvel-s-wolverine-13997.html",
       "platform": "PS5",
@@ -396,16 +416,6 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "EA Sports FC 27",
-      "pageUrl": "https://pspkg.com/ps5/ea-sports-fc-27-14007.html",
-      "platform": "PS5",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/ea-sports-fc-27.webp",
-      "description": "<strong style=\"color: #DC143C;\">EA Sports FC 27 - PS5</strong> - Step into the most authentic football experience yet, where every pass, tackle, and shot feels true to the beautiful game.\r\n\r\n<strong s…",
-      "downloadLinks": [],
-      "status": "no_public_download_link"
-    },
-    {
       "title": "Black Myth: Wukong",
       "pageUrl": "https://pspkg.com/ps5/black-myth-wukong-ps5-6899.html",
       "platform": "PS5",
@@ -413,7 +423,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Black%20Myth_%20Wukong.webp",
       "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure</strong> in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</…",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "ASTRO BOT",
@@ -433,7 +443,17 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/007-first-light.webp",
       "description": "<strong style=\"color: #B22222;\">007 First Light - PS5</strong> - Discover the origin story of the world's most famous spy in a thrilling espionage action-adventure from IO Interactive, the studio behi…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "pageUrl": "https://pspkg.com/ps5/phantom-blade-zero-14553.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/6b086c3c86c9e.webp",
+      "description": "<strong style=\"color: #B22222;\">Phantom Blade Zero - PS5</strong> - A dark Chinese action RPG set in a \"kungfupunk\" wuxia world that blends Chinese martial arts with steampunk — fast and merciless.\r\n\r…",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
     },
     {
       "title": "Crimson Desert Deluxe Edition",
@@ -442,26 +462,6 @@
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/Crimson%20Desert%20Deluxe%20Edition-1.webp",
       "description": "Download Crimson Desert Deluxe Edition (2026) PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
-      "title": "Forza Horizon 5",
-      "pageUrl": "https://pspkg.com/ps5/forza-horizon-5-7527.html",
-      "platform": "PS5",
-      "titleId": "PPSA22327",
-      "posterUrl": "https://img.pspkg.com/ps5/image/Forza%20Horizon%205-1.webp",
-      "description": "Forza Horizon 5 is an open-world racing game for PlayStation 5, developed by Playground Games and Turn 10 Studios and published by Microsoft. Set across the diverse landscapes of Mexico, it brings the…",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
-      "title": "Resident Evil 4 Remake",
-      "pageUrl": "https://pspkg.com/ps5/resident-evil-4-remake-ps5-6788.html",
-      "platform": "PS5",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/Resident%20Evil%204%20Remake.webp",
-      "description": "<p><strong>Resident Evil 4</strong> is a reimagining of the survival-horror classic, with modernized gameplay, a renewed story, and vividly detailed graphics.</p>\r\n\r\n<p>Guide Leon S. Kennedy on a dang…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -493,7 +493,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/PPSA15878.jpg",
       "description": "Download Propagation: Paradise Hotel PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "TIEBREAK Official Game of the ATP and WTA",
@@ -503,7 +503,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/PPSA14453.jpg",
       "description": "Download TIEBREAK Official Game of the ATP and WTA PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Shadow of the Ninja: Reborn",
@@ -523,7 +523,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/PPSA04618.jpg",
       "description": "Download F1 22 Champions Edition PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Rugby League 26",
@@ -646,16 +646,6 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "Harmony’s Odyssey",
-      "pageUrl": "https://pspkg.com/ps5/harmony-s-odyssey-14533.html",
-      "platform": "PS5",
-      "titleId": "PPSA16827",
-      "posterUrl": "https://img.pspkg.com/ps5/image/PPSA16827.jpg",
-      "description": "Download Harmony’s Odyssey PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
-      "downloadLinks": [],
-      "status": "no_public_download_link"
-    },
-    {
       "title": "Grand Theft Auto V",
       "pageUrl": "https://pspkg.com/ps4/grand-theft-auto-v-ps4-6657.html",
       "platform": "PS4",
@@ -663,7 +653,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/6945d4b6d1eb4.webp",
       "description": "<strong style=\"color: #DAA520;\">Grand Theft Auto V (GTA V) on PS4</strong> - Dive into the sprawling open world of Los Santos and Blaine County in an unparalleled experience that blends thrilling narr…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "EA Sports FC 27",
@@ -713,7 +703,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/EA%20SPORTS%20FC%2026.webp",
       "description": "EA SPORTS FC 26 delivers a next-generation football experience that redefines realism, tactics, and emotion on the pitch. The game elevates gameplay, graphics, and content to give players a true sensa…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Mortal Kombat 11 Ultimate",
@@ -752,6 +742,16 @@
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps4/image/69530451c4902.webp",
       "description": "Download eFootball PES 2026 Monster Patch (2026) PS4 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS4 game information on PSPKG.",
+      "downloadLinks": [],
+      "status": "manual_verification_required"
+    },
+    {
+      "title": "Dark Light",
+      "pageUrl": "https://pspkg.com/ps4/dark-light-14441.html",
+      "platform": "PS4",
+      "titleId": "CUSA40528",
+      "posterUrl": "https://img.pspkg.com/ps4/image/CUSA40528.jpg",
+      "description": "Download Dark Light PS4 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS4 game information on PSPKG.",
       "downloadLinks": [],
       "status": "manual_verification_required"
     }
