@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T16:53:22.414154+00:00",
+  "generatedAt": "2026-11-28T15:44:49.912648+00:00",
   "entries": [
     {
       "title": "Ghost of Yōtei",
@@ -12,7 +12,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "EA Sports FC 27",
@@ -25,7 +25,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "007 First Light",
@@ -38,7 +38,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Black Myth Wukong",
@@ -51,7 +51,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "Marvel's Wolverine",
@@ -64,7 +64,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Resident Evil Requiem",
@@ -129,7 +129,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Hellblade: Senua's Sacrifice",
@@ -194,7 +194,7 @@
       "tags": [
         "Arabic"
       ],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "The First Berserker: Khazan",
@@ -416,6 +416,16 @@
       "status": "manual_verification_required"
     },
     {
+      "title": "Phantom Blade Zero",
+      "pageUrl": "https://pspkg.com/ps5/phantom-blade-zero-14553.html",
+      "platform": "PS5",
+      "titleId": "",
+      "posterUrl": "https://img.pspkg.com/ps5/image/6b086c3c86c9e.webp",
+      "description": "<strong style=\"color: #B22222;\">Phantom Blade Zero - PS5</strong> - A dark Chinese action RPG set in a \"kungfupunk\" wuxia world that blends Chinese martial arts with steampunk — fast and merciless.\r\n\r…",
+      "downloadLinks": [],
+      "status": "no_public_download_link"
+    },
+    {
       "title": "Black Myth: Wukong",
       "pageUrl": "https://pspkg.com/ps5/black-myth-wukong-ps5-6899.html",
       "platform": "PS5",
@@ -423,7 +433,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/Black%20Myth_%20Wukong.webp",
       "description": "Prepare for an <strong style=\"color: #e74c3c;\">epic mythological adventure</strong> in the world of **Action Role-Playing Games (Action RPG)** with <strong style=\"color: #e74c3c;\">Black Myth: Wukong</…",
       "downloadLinks": [],
-      "status": "no_public_download_link"
+      "status": "manual_verification_required"
     },
     {
       "title": "ASTRO BOT",
@@ -433,7 +443,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/ASTRO%20BOT-1.webp",
       "description": "Download ASTRO BOT (2024) PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "007 First Light",
@@ -442,16 +452,6 @@
       "titleId": "",
       "posterUrl": "https://img.pspkg.com/ps5/image/007-first-light.webp",
       "description": "<strong style=\"color: #B22222;\">007 First Light - PS5</strong> - Discover the origin story of the world's most famous spy in a thrilling espionage action-adventure from IO Interactive, the studio behi…",
-      "downloadLinks": [],
-      "status": "manual_verification_required"
-    },
-    {
-      "title": "Phantom Blade Zero",
-      "pageUrl": "https://pspkg.com/ps5/phantom-blade-zero-14553.html",
-      "platform": "PS5",
-      "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps5/image/6b086c3c86c9e.webp",
-      "description": "<strong style=\"color: #B22222;\">Phantom Blade Zero - PS5</strong> - A dark Chinese action RPG set in a \"kungfupunk\" wuxia world that blends Chinese martial arts with steampunk — fast and merciless.\r\n\r…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -573,7 +573,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/PPSA31215.jpg",
       "description": "Download Atelier Ryza 2 Lost Legends & the Secret Fairy DX PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "The Casting of Frank Stone",
@@ -583,7 +583,7 @@
       "posterUrl": "https://img.pspkg.com/ps5/image/PPSA16163.jpg",
       "description": "Download The Casting of Frank Stone PS5 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS5 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     },
     {
       "title": "Atelier Ryza 3 Alchemist of the End & the Secret Key DX",
@@ -736,12 +736,12 @@
       "status": "manual_verification_required"
     },
     {
-      "title": "eFootball PES 2026 Monster Patch",
-      "pageUrl": "https://pspkg.com/ps4/efootball-pes-2026-monster-patch-ps4-6010.html",
+      "title": "The Crew 2 (Offline)",
+      "pageUrl": "https://pspkg.com/ps4/the-crew-2-offline-ps4-6655.html",
       "platform": "PS4",
       "titleId": "",
-      "posterUrl": "https://img.pspkg.com/ps4/image/69530451c4902.webp",
-      "description": "Download eFootball PES 2026 Monster Patch (2026) PS4 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS4 game information on PSPKG.",
+      "posterUrl": "https://img.pspkg.com/ps4/image/The_Crew_2.webp",
+      "description": "Get ready for <strong style=\"color: #e74c3c;\">America's greatest motorsports adventure</strong> with <strong style=\"color: #e74c3c;\">The Crew 2</strong> - an open-world racing game that puts you in co…",
       "downloadLinks": [],
       "status": "manual_verification_required"
     },
@@ -753,7 +753,7 @@
       "posterUrl": "https://img.pspkg.com/ps4/image/CUSA40528.jpg",
       "description": "Download Dark Light PS4 PKG for jailbroken consoles in PKG format. Get the latest updates and DLC with fast download links and complete PS4 game information on PSPKG.",
       "downloadLinks": [],
-      "status": "manual_verification_required"
+      "status": "no_public_download_link"
     }
   ]
 }
